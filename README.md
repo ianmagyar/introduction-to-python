@@ -41,7 +41,7 @@ Cvičenia sú ... Účasť na cvičeniach je povinná, študent môže mať maxi
 
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov aj zo zápočtu aj zo skúšky.
 
-Zápočet sa skladá z dvoch častí: 10 menších zadaní po 2 body, a 2 väčšie zadania za 10 bodov. Na vypracovanie zadaní budú mať študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania), Projekt 1 bude zverejnený v druhom týždni, Projekt 2 bude zverejnený v ôsmom týždni.
+Zápočet sa skladá z dvoch častí: 10 menších zadaní po 2 body, a 2 väčšie zadania za 10 bodov. Na vypracovanie zadaní budú mať študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania), Projekt 1 bude zverejnený v druhom týždni, Projekt 2 bude zverejnený v ôsmom týždni. Deadline pre zadania a projekty je v piatok 18:00.
 
 Skúška má teoretickú a praktickú časť. Teroetická časť sa skladá zo štyroch testov, ktoré sa píšu počas semestra na prednáškach. Na skúške majú študenti možnosť znova napísať ľubovoľné časti aby si vylepšili celkové hodnotenie (do úvahy sa berie lepšie napísaný test). Praktická časť sa skladá z jedného projektu na programovanie. Úloha bude zverejnená deň pred skúškou, študenti na skúške obhajujú už hotové riešenia a následne rozšíria svoje riešenia.
 
