@@ -27,8 +27,8 @@ Cvičenia sú ... Účasť na cvičeniach je povinná, študent môže mať maxi
 | 2      |              funkcie, rekurzia, lambda funkcie             |       zadanie 1      |
 | 3      |             reťazce, zoznamy, knižnice, n-tice             |       zadanie 2      |
 | 4      | triedenie a vyhľadávanie, vyhodnocovanie algoritmov, Big O |  zadanie 3<br>test 1 |
-| 5      |           optimalizácia, dynamické programovanie           |       zadanie 4      |
-| 6      |            testovanie, ladenie, výnimky a chyby            |  zadanie 5<br>test 2 |
+| 5      |            testovanie, ladenie, výnimky a chyby            |       zadanie 4      |
+| 6      |           optimalizácia, dynamické programovanie           |  zadanie 5<br>test 2 |
 | 7      |                      údajové štruktúry                     |       projekt 1      |
 | 8      |             objektovo orientované programovanie            |       zadanie 6      |
 | 9      |             objektovo orientované programovanie            |       zadanie 7      |
