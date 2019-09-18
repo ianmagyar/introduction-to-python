@@ -17,9 +17,9 @@ Informačný list predmetu je dostupný na [školskom portáli](https://maisport
 
 ## Plán prednášok a cvičení <a name="plan"></a>
 
-Prednášky sú v utorky o 9:10 v miestnosti V102 v budove V4. Účasť na prednáške nie je povinná.
+Prednášky sú v piatok o 7:30 v miestnosti B520 v hlavnej budove. Účasť na prednáške nie je povinná.
 
-Cvičenia sú ... Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester.
+Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester.
 
 | Týždeň |                          Prednáška                         |        Termíny       |
 |:------:|:----------------------------------------------------------:|:--------------------:|
