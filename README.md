@@ -7,11 +7,9 @@ Informačný list predmetu je dostupný na [školskom portáli](https://maisport
 ## Obsah
 1. [Plán prednášok a cvičení](#plan)
 2. [Hodnotenie](#grading)
-    <!--
-    1. [Zadania](#problem-sets)
-    2. [Projekty](#assignments)
+    1. [Domáce úlohy](#homeworks)
+    2. [Zadania](#assignments)
     3. [Skúška](#exam)
-    -->
 3. [Odporúčaná literatúra](#textbooks)
 4. [Etický kódex](#collaboration)
 
@@ -21,44 +19,54 @@ Prednášky sú v piatok o 7:30 v miestnosti B520 v hlavnej budove. Účasť na 
 
 Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester.
 
-| Týždeň |                          Prednáška                         |        Termíny       |
-|:------:|:----------------------------------------------------------:|:--------------------:|
-| 1      |               úvod, syntax, vývojové diagramy              |           —          |
-| 2      |              funkcie, rekurzia, lambda funkcie             |       zadanie 1      |
-| 3      |             reťazce, zoznamy, knižnice, n-tice             |       zadanie 2      |
-| 4      | triedenie a vyhľadávanie, vyhodnocovanie algoritmov, Big O |  zadanie 3<br>test 1 |
-| 5      |            testovanie, ladenie, výnimky a chyby            |       zadanie 4      |
-| 6      |           optimalizácia, dynamické programovanie           |  zadanie 5<br>test 2 |
-| 7      |                      údajové štruktúry                     |       projekt 1      |
-| 8      |             objektovo orientované programovanie            |       zadanie 6      |
-| 9      |             objektovo orientované programovanie            |       zadanie 7      |
-| 10     |                         modelovanie                        |  zadanie 8<br>test 3 |
-| 11     |                   simulácie, vizualizácia                  |       zadanie 9      |
-| 12     |             často používané knižnice v Pythone             | zadanie 10<br>test 4 |
-| 13     |                              —                             |       projekt 2      |
+| Týždeň |                            Prednáška                          |            Termíny            |
+|:------:|:-------------------------------------------------------------:|:-----------------------------:|
+| 1      |                 úvod, syntax, vývojové diagramy               |               —               |
+| 2      |                funkcie, rekurzia, lambda funkcie              |            úloha 1            |
+| 3      |               reťazce, zoznamy, knižnice, n-tice              |            úloha 2            |
+| 4      | triedenie a vyhľadávanie,<br>vyhodnocovanie algoritmov, Big O |  	       test 1            |
+| 5      |              testovanie, ladenie, výnimky a chyby             |            úloha 3            |
+| 6      |             optimalizácia, dynamické programovanie            |            úloha 4            |
+| 7      |                        údajové štruktúry                      |       úloha 5<br>zadanie 1    |
+| 8      |               objektovo orientované programovanie             |        úloha 6<br>test 2      |
+| 9      |               objektovo orientované programovanie             |            úloha 7            |
+| 10     |                           modelovanie                         |             test 3            |
+| 11     |                     simulácie, vizualizácia                   |            úloha 8            |
+| 12     |                     simulácie, vizualizácia                   |      úloha 9<br>test 4        |
+| 13     |                                —                              |     úloha 10<br>zadanie 2     |
 
 ## Hodnotenie <a name="grading"></a>
 
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov aj zo zápočtu aj zo skúšky.
 
-Zápočet sa skladá z dvoch častí: 10 menších zadaní po 2 body, a 2 väčšie zadania za 10 bodov. Na vypracovanie zadaní budú mať študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania), Projekt 1 bude zverejnený v druhom týždni, Projekt 2 bude zverejnený v ôsmom týždni. Deadline pre zadania a projekty je v piatok 18:00.
+Zápočet sa skladá z dvoch častí: 10 domácich úloh po 2 body, a 2 zadania za 10 bodov. Na vypracovanie domácich úloh majú študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania), Zadanie 1 bude zverejnené v druhom, Zadanie 2 v ôsmom týždni. Deadline pre zadania a projekty je v piatok 18:00.
 
-Skúška má teoretickú a praktickú časť. Teroetická časť sa skladá zo štyroch testov, ktoré sa píšu počas semestra na prednáškach. Na skúške majú študenti možnosť znova napísať ľubovoľné časti aby si vylepšili celkové hodnotenie (do úvahy sa berie lepšie napísaný test). Praktická časť sa skladá z jedného projektu na programovanie. Úloha bude zverejnená deň pred skúškou, študenti na skúške obhajujú už hotové riešenia a následne rozšíria svoje riešenia.
+Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo štyroch testov, ktoré sa píšu počas semestra na prednáškach. Na skúške majú študenti možnosť znova napísať ľubovoľné časti aby si vylepšili celkové hodnotenie (do úvahy sa berie lepšie napísaný test). Praktická časť sa skladá z jedného projektu na programovanie. Úloha bude zverejnená deň pred skúškou, študenti na skúške obhajujú už hotové riešenia a následne rozšíria svoje riešenia.
 
 |        Zložka       | Body |
 |:-------------------:|:----:|
-|      10 zadaní      |  20  |
-|      2 projekty     |  20  |
+|       10 úloh       |  20  |
+|      2 zadanie      |  20  |
 |       4 testy       |  40  |
 | programovacia úloha |  20  |
 
-<!--
-### Zadania <a name="problem-sets"></a>
+### Domáce úlohy <a name="homeworks"></a>
+1. kreslenie vývojových diagramov (deadline 4. 10. 2019)
+2. list comprehensions a lambda funkcie (deadline 11. 10. 2019)
+3. triediaci algoritmus (deadline 25. 10. 2019)
+4. oprava kódu a ošetrenie chýb (deadline 1. 11. 2019)
+5. optimalizácia programu pomocou dynamického programovania (deadline 8. 11. 2019)
+6. hash tabuľka (deadline 15. 11. 2019)
+7. vytvorenie triedy z UML diagramu (deadline 22. 11. 2019)
+8. výpočet zlatého rezu (deadline 6. 12. 2019)
+9. biased random walk (deadline 13. 12. 2019)
+10. vizualizácia dát (deadline 20. 12. 2019)
 
-### Projekty <a name="assignments"></a>
+### Zadania <a name="assignments"></a>
+1. Algoritmické riešenie vybraných úloh (deadline 8. 11. 2019)
+2. Simulácia ľudí nastupujúcich do lietadla (deadline 20. 12. 2019)
 
 ### Skúška <a name="exam"></a>
--->
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
