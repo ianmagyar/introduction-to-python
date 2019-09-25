@@ -51,7 +51,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 | programovacia úloha |  20  |
 
 ### Domáce úlohy <a name="homeworks"></a>
-1. kreslenie vývojových diagramov (deadline 4. 10. 2019)
+1. vývojové diagramy a špecifikácie funkcií (deadline 4. 10. 2019)
 2. list comprehensions a lambda funkcie (deadline 11. 10. 2019)
 3. triediaci algoritmus (deadline 25. 10. 2019)
 4. oprava kódu a ošetrenie chýb (deadline 1. 11. 2019)
