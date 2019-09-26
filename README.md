@@ -1,6 +1,6 @@
 # Základy jazyka Python
 
-**Základy jazyka Python** je kurz programovania ponúknutý v druhom ročníku bakalárskeho štúdia pre študijný program Inteligentné systémy. Kurz nadväzuje na kurzy [Základy algoritmizácie a programovania](https://kurzy.kpi.fei.tuke.sk/zap/) a [Programovanie](https://kurzy.kpi.fei.tuke.sk/pvjc/). Venuje sa pokročilým témam v programovaní v jazyku Python, ako údajové štruktúry, základné algoritmy, návrh a analýza algoritmov, objektovo orientované programovanie a vytvorenie simulácií. Úspešný absolvent predmetu je schopný napísať zložitejšie kódy, porozumieť kódom napísaným inými programátormi, namapovať problémy z rôznych domén na výpočtové problémy a vyhodnotiť navrhnuté riešenia.
+**Základy jazyka Python** je kurz programovania ponúknutý v druhom ročníku bakalárskeho štúdia pre študijný program Inteligentné systémy. Kurz nadväzuje na kurzy [Základy algoritmizácie a programovania](https://kurzy.kpi.fei.tuke.sk/zap/) a [Programovanie](https://kurzy.kpi.fei.tuke.sk/pvjc/). Venuje sa pokročilým témam programovania v jazyku Python, ako údajové štruktúry, základné algoritmy, návrh a analýza algoritmov, objektovo orientované programovanie, modelovania a vytvorenie simulácií. Úspešný absolvent predmetu je schopný napísať zložitejšie kódy, porozumieť kódom napísaným inými programátormi, namapovať problémy z rôznych domén na výpočtové problémy a vyhodnotiť navrhnuté riešenia.
 
 Informačný list predmetu je dostupný na [školskom portáli](https://maisportal.tuke.sk/portal/studijneProgramy.mais).
 
@@ -9,7 +9,7 @@ Informačný list predmetu je dostupný na [školskom portáli](https://maisport
 2. [Hodnotenie](#grading)
     1. [Domáce úlohy](#homeworks)
     2. [Zadania](#assignments)
-    3. [Skúška](#exam)
+    <!--3. [Skúška](#exam)-->
 3. [Odporúčaná literatúra](#textbooks)
 4. [Etický kódex](#collaboration)
 
@@ -37,7 +37,7 @@ Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť
 
 ## Hodnotenie <a name="grading"></a>
 
-Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov aj zo zápočtu aj zo skúšky.
+Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov zo zápočtu a zo skúšky.
 
 Zápočet sa skladá z dvoch častí: 10 domácich úloh po 2 body, a 2 zadania za 10 bodov. Na vypracovanie domácich úloh majú študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania), Zadanie 1 bude zverejnené v druhom, Zadanie 2 v ôsmom týždni. Deadline pre zadania a projekty je v piatok 18:00.
 
@@ -56,7 +56,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 3. triediaci algoritmus (deadline 25. 10. 2019)
 4. oprava kódu a ošetrenie chýb (deadline 1. 11. 2019)
 5. optimalizácia programu pomocou dynamického programovania (deadline 8. 11. 2019)
-6. hash tabuľka (deadline 15. 11. 2019)
+6. práca s hash tabuľkou (deadline 15. 11. 2019)
 7. vytvorenie triedy z UML diagramu (deadline 22. 11. 2019)
 8. výpočet zlatého rezu (deadline 6. 12. 2019)
 9. biased random walk (deadline 13. 12. 2019)
@@ -64,9 +64,11 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 
 ### Zadania <a name="assignments"></a>
 1. Algoritmické riešenie vybraných úloh (deadline 8. 11. 2019)
+    * najlepší čas na Jedličku
+    * riešenie Sudoku
 2. Simulácia ľudí nastupujúcich do lietadla (deadline 20. 12. 2019)
 
-### Skúška <a name="exam"></a>
+<!--### Skúška <a name="exam"></a>-->
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
@@ -82,4 +84,6 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 ## Etický kódex <a name="collaboration"></a>
 Študenti môžu spolupracovať pri riešení **zadaní a projektov počas semestra**, pričom sú povinní uviesť mená spolupracujúcich študentov. **Spolupráca pri testoch a na skúške je zakázaná.**
 
-Tieto pravidlá vychádzajú z predpokladu, že študenti sa prihlásili na predmet pretože si chcú osvojiť náplň kurzu. Spolupráca spočíva v spoločnom riešení problému kde každý spolupracujúci študent poskytuje niečo do riešenia. Zdieľanie už hotových riešení spolužiakom nie je spolupráca. Cieľom zadaní je pomôcť študentom osvojiť si princípy a metódy programovania, k čomu je nevyhnutná zodpovedajúca miera pochopenia daných konceptov. Od každého študenta sa očakáva že je schopný svoje zadanie obhájiť a rozšíriť pod dohľadom vyučujúceho.
+Tieto pravidlá vychádzajú z predpokladu, že študenti sa prihlásili na predmet pretože si chcú osvojiť náplň kurzu. Spolupráca spočíva v spoločnom riešení problému kde každý spolupracujúci študent pomáha pri riešení. Zdieľanie už hotových riešení spolužiakom **nie je** spolupráca. Cieľom zadaní je pomôcť študentom osvjoiť si princípy a metódy programovania, k čomu je nevyhnutná zodpovedajúca miera pochopenia daných konceptov. Od každého študenta sa očakáva že je schopný svoje zadanie obhájiť a rozšíriť pod dohľadom vyučujúceho.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXsQAXx_ao0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" llowfullscreen></iframe>
