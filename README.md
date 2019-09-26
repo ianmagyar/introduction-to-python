@@ -86,4 +86,5 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 
 Tieto pravidlá vychádzajú z predpokladu, že študenti sa prihlásili na predmet pretože si chcú osvojiť náplň kurzu. Spolupráca spočíva v spoločnom riešení problému kde každý spolupracujúci študent pomáha pri riešení. Zdieľanie už hotových riešení spolužiakom **nie je** spolupráca. Cieľom zadaní je pomôcť študentom osvjoiť si princípy a metódy programovania, k čomu je nevyhnutná zodpovedajúca miera pochopenia daných konceptov. Od každého študenta sa očakáva že je schopný svoje zadanie obhájiť a rozšíriť pod dohľadom vyučujúceho.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXsQAXx_ao0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" llowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/ZXsQAXx_ao0/0.jpg)](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
+
