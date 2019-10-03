@@ -7,3 +7,7 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h01.py
 * popis návratovej hodnoty (ak je) - typ, význam.
 
 Ak počas riešenia ste spolupracovali so spolužiakom, uveďte jeho/jej meno v hlavičke skriptu.
+
+## Domáca úloha 2 <a name="h2"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h02.py`, ktorý obsahuje popis troch zoznamov a jednej lambda funkcie. Vašou úlohou je doplniť list comprehension pre generovanie špecifikovaných zoznamov (riadky 10, 14, 18) a napísať lambda funkciu (riadok 22).

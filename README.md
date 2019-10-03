@@ -21,9 +21,9 @@ Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť
 
 | Týždeň |                            Prednáška                          |            Termíny            |
 |:------:|:-------------------------------------------------------------:|:-----------------------------:|
-| 1      |                 úvod, syntax, vývojové diagramy               |               —               |
-| 2      |                funkcie, rekurzia, lambda funkcie              |            úloha 1            |
-| 3      |               reťazce, zoznamy, knižnice, n-tice              |            úloha 2            |
+| 1      |                 [úvod, syntax, vývojové diagramy](lectures/Lecture-01.pdf)               |               —               |
+| 2      |                [funkcie, rekurzia, lambda funkcie](lectures/Lecture-02.pdf)              |            úloha 1            |
+| 3      |               [reťazce, zoznamy, knižnice, n-tice](lectures/Lecture-03.pdf)              |            úloha 2            |
 | 4      | triedenie a vyhľadávanie,<br>vyhodnocovanie algoritmov, Big O |  	       test 1            |
 | 5      |              testovanie, ladenie, výnimky a chyby             |            úloha 3            |
 | 6      |             optimalizácia, dynamické programovanie            |            úloha 4            |
@@ -52,7 +52,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 
 ### Domáce úlohy <a name="homeworks"></a>
 1. [vývojové diagramy a špecifikácie funkcií](assignments/homeworks.md#h1) (deadline 4. 10. 2019)
-2. list comprehensions a lambda funkcie (deadline 11. 10. 2019)
+2. [list comprehensions a lambda funkcie](assignments/homeworks.md#h2) (deadline 11. 10. 2019)
 3. triediaci algoritmus (deadline 25. 10. 2019)
 4. oprava kódu a ošetrenie chýb (deadline 1. 11. 2019)
 5. optimalizácia programu pomocou dynamického programovania (deadline 8. 11. 2019)
@@ -64,8 +64,8 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 
 ### Zadania <a name="assignments"></a>
 1. Algoritmické riešenie vybraných úloh (deadline 8. 11. 2019)
-    * najlepší čas na Jedličku
-    * riešenie Sudoku
+    * [najlepší čas na Jedličku](assignments/assignment1_problem1.pdf)
+    * [riešenie Sudoku](assignments/assignment1_problem2.pdf)
 2. Simulácia ľudí nastupujúcich do lietadla (deadline 20. 12. 2019)
 
 <!--### Skúška <a name="exam"></a>-->
