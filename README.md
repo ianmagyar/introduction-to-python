@@ -66,6 +66,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 1. Algoritmické riešenie vybraných úloh (deadline 8. 11. 2019)
     * [najlepší čas na Jedličku](assignments/assignment1_problem1.pdf)
     * [riešenie Sudoku](assignments/assignment1_problem2.pdf)
+    * [projekt riešenia](assignments/assignment1.zip)
 2. Simulácia ľudí nastupujúcich do lietadla (deadline 20. 12. 2019)
 
 <!--### Skúška <a name="exam"></a>-->
