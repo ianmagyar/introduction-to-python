@@ -53,7 +53,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 ### Domáce úlohy <a name="homeworks"></a>
 1. [vývojové diagramy a špecifikácie funkcií](assignments/homeworks.md#h1) (deadline 4. 10. 2019)
 2. [list comprehensions a lambda funkcie](assignments/homeworks.md#h2) (deadline 11. 10. 2019)
-3. triediaci algoritmus (deadline 25. 10. 2019)
+3. [triediaci algoritmus](assignments/homeworks.md#h3) (deadline 25. 10. 2019)
 4. oprava kódu a ošetrenie chýb (deadline 1. 11. 2019)
 5. optimalizácia programu pomocou dynamického programovania (deadline 8. 11. 2019)
 6. práca s hash tabuľkou (deadline 15. 11. 2019)

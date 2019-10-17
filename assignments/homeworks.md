@@ -11,3 +11,10 @@ Ak počas riešenia ste spolupracovali so spolužiakom, uveďte jeho/jej meno v 
 ## Domáca úloha 2 <a name="h2"></a>
 
 Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h02.py`, ktorý obsahuje popis troch zoznamov a jednej lambda funkcie. Vašou úlohou je doplniť list comprehension pre generovanie špecifikovaných zoznamov (riadky 10, 14, 18) a napísať lambda funkciu (riadok 22).
+
+## Domáca úloha 3 <a name="h3"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h03.py`, ktorý obsahuje definíciu funkcie pre niektorý triediaci algoritmus. Vašou úlohou je implementovať túto funkciu. Funkcia má dva parametre:
+
+* lst — zoznam čísel (alebo iných porovnávateľných hodnôt)
+* ascending — parameter typu boolean, ktorý určuje, či čísla chceme zoradiť vzostupne (od najmenšieho po najväčšie; True) alebo zostupne (od najväčšieho po najmenšie; False).
