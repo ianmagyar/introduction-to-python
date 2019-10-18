@@ -24,7 +24,7 @@ Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť
 | 1      |                 [úvod, syntax, vývojové diagramy](lectures/Lecture-01.pdf)               |               —               |
 | 2      |                [funkcie, rekurzia, lambda funkcie](lectures/Lecture-02.pdf)              |            úloha 1            |
 | 3      |               [reťazce, zoznamy, knižnice, n-tice](lectures/Lecture-03.pdf)              |            úloha 2            |
-| 4      | triedenie a vyhľadávanie,<br>vyhodnocovanie algoritmov, Big O |  	       test 1            |
+| 4      | [triedenie a vyhľadávanie,<br>vyhodnocovanie algoritmov, Big O](lectures/Lecture-04.pdf) |  	       test 1            |
 | 5      |              testovanie, ladenie, výnimky a chyby             |            úloha 3            |
 | 6      |             optimalizácia, dynamické programovanie            |            úloha 4            |
 | 7      |                        údajové štruktúry                      |       úloha 5<br>zadanie 1    |
