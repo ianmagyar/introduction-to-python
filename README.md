@@ -50,6 +50,8 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 |       4 testy       |  40  |
 | programovacia úloha |  20  |
 
+Priebežné hodnotenie nájdete na [tomto odkaze](https://docs.google.com/spreadsheets/d/1F9FnxOkWjlYYmLJ2lfxC_gJKn2AYVrF0WEWHaI7Ddl4/edit?usp=sharing).
+
 ### Domáce úlohy <a name="homeworks"></a>
 1. [vývojové diagramy a špecifikácie funkcií](assignments/homeworks.md#h1) (deadline 4. 10. 2019)
 2. [list comprehensions a lambda funkcie](assignments/homeworks.md#h2) (deadline 11. 10. 2019)
