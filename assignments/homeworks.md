@@ -18,3 +18,7 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h03.py
 
 * lst — zoznam čísel (alebo iných porovnávateľných hodnôt)
 * ascending — parameter typu boolean, ktorý určuje, či čísla chceme zoradiť vzostupne (od najmenšieho po najväčšie; True) alebo zostupne (od najväčšieho po najmenšie; False).
+
+## Domáca úloha 4 <a name="h4"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h04.py`, ktorý obsahuje jednu funkciu. Vašou úlohou je ošetriť niektoré možné chyby v tejto funkcii. Ako prvé máte napísať kód pre kontrolu predpokladov pre vstupné parametre, v druhej úlohe máte ošetriť možnú chybu pomocou konštruktu try-except.
