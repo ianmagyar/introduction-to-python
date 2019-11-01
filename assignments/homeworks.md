@@ -22,3 +22,9 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h03.py
 ## Domáca úloha 4 <a name="h4"></a>
 
 Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h04.py`, ktorý obsahuje jednu funkciu. Vašou úlohou je ošetriť niektoré možné chyby v tejto funkcii. Ako prvé máte napísať kód pre kontrolu predpokladov pre vstupné parametre, v druhej úlohe máte ošetriť možnú chybu pomocou konštruktu try-except.
+
+## Domáca úloha 5 <a name="h5"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h05.py`, ktorý obsahuje dve funkcie. Funkcia `load_balance` je mock funkcia a emuluje načítavanie dát z databázy. V systémoch, ktoré pracujú s databázou je načítavanie kritický bod vo funkčnosti programu, keďže zvyčajne trvá dlhší čas. Vašou úlohou je využiť memoizáciu pre zvýšenie efektivity funkcie `get_balances`. Funkcia má jeden parameter - zoznam mien. Funkcia následne zavolá `load_balance` s každým menom - pre simuláciu náročnosti načítavania z databázy funkcia `load_balance` počká 3 sekundy a až potom vráti náhodné číslo.
+
+Pridajte premennú typu dictionary (reprezentuje tabuľku s čiastočnými výsledkami) do funkcie `get_balances` a následne upravte for cyklus tak, aby suma sa načítala priamo z tabuľky ak tá obsahuje hodnotu pod kľúčom `name`. Ak taký kľúč v tabuľke neexistuje, zavolajte funkciu `load_balance` a pridajte dvojicu kľúč-hodnota (`name` a `balance`) do tabuľky.
