@@ -27,8 +27,8 @@ Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť
 | 4      | [triedenie a vyhľadávanie,<br>vyhodnocovanie algoritmov, Big O](lectures/Lecture-04.pdf) |  	       test 1            |
 | 5      |              [testovanie, ladenie, výnimky a chyby](lectures/Lecture-05.pdf)             |            úloha 3            |
 | 6      |             [optimalizácia, dynamické programovanie](lectures/Lecture-06.pdf)            |            úloha 4            |
-| 7      |                        údajové štruktúry                      |       úloha 5<br>zadanie 1    |
-| 8      |               objektovo orientované programovanie             |        úloha 6<br>test 2      |
+| 7      |                        údajové štruktúry                      |       úloha 5<br>zadanie 1<br>test 2    |
+| 8      |               objektovo orientované programovanie             |        úloha 6      |
 | 9      |               objektovo orientované programovanie             |            úloha 7            |
 | 10     |                           modelovanie                         |             test 3            |
 | 11     |                     simulácie, vizualizácia                   |            úloha 8            |
