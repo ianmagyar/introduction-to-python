@@ -11,7 +11,7 @@ test1 = [
 def validate_data(data_lst):
     # checks if data conforms to the rules:
     # input is a list of tuples, where
-    # the first element must be a strint (either M or F)
+    # the first element must be a string (either M or F)
     # the second element is an integer bigger than zero
     # returns True if data are valid, False otherwise
     pass
@@ -26,6 +26,7 @@ def split_data(data_lst):
 def calculate_averages(data):
     # calculates the average for all categories in a dictionary
     # returns the averages as a list of tuples with pairs: category - average
+    # returns None if input is not dictionary
     pass
 
 
