@@ -34,4 +34,4 @@ if validate_data(test1):
     data_dct = split_data(test1)
     avgs = calculate_averages(data_dct)
     for cat, avg in avgs:
-        print("Category {}, average: {.2f}".format(cat, avg))
+        print("Category {}, average: {:.2f}".format(cat, avg))
