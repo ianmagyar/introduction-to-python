@@ -27,7 +27,7 @@ Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť
 | 4      | [triedenie a vyhľadávanie,<br>vyhodnocovanie algoritmov, Big O](lectures/Lecture-04.pdf) |  	       test 1            |
 | 5      |              [testovanie, ladenie, výnimky a chyby](lectures/Lecture-05.pdf)             |            úloha 3            |
 | 6      |             [optimalizácia, dynamické programovanie](lectures/Lecture-06.pdf)            |            úloha 4            |
-| 7      |                        údajové štruktúry                      |       úloha 5<br>zadanie 1    |
+| 7      |                        [údajové štruktúry](lectures/Lecture-07.pdf)                      |       úloha 5<br>zadanie 1    |
 | 8      |               objektovo orientované programovanie             |        úloha 6<br>test 2      |
 | 9      |               objektovo orientované programovanie             |            úloha 7            |
 | 10     |                           modelovanie                         |             test 3            |
@@ -58,7 +58,7 @@ Priebežné hodnotenie nájdete na [tomto odkaze](https://docs.google.com/spread
 3. [triediaci algoritmus](assignments/homeworks.md#h3) (deadline 25. 10. 2019)
 4. [oprava kódu a ošetrenie chýb](assignments/homeworks.md#h4) (deadline 1. 11. 2019)
 5. [optimalizácia programu pomocou dynamického programovania](assignments/homeworks.md#h5) (deadline 8. 11. 2019)
-6. práca s hash tabuľkou (deadline 15. 11. 2019)
+6. [práca s hash tabuľkou](assignments/homeworks.md#h6) (deadline 15. 11. 2019)
 7. vytvorenie triedy z UML diagramu (deadline 22. 11. 2019)
 8. výpočet zlatého rezu (deadline 6. 12. 2019)
 9. biased random walk (deadline 13. 12. 2019)

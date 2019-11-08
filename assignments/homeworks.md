@@ -28,3 +28,13 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h04.py
 Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h05.py`, ktorý obsahuje dve funkcie. Funkcia `load_balance` je mock funkcia a emuluje načítavanie dát z databázy. V systémoch, ktoré pracujú s databázou je načítavanie kritický bod vo funkčnosti programu, keďže zvyčajne trvá dlhší čas. Vašou úlohou je využiť memoizáciu pre zvýšenie efektivity funkcie `get_balances`. Funkcia má jeden parameter - zoznam mien. Funkcia následne zavolá `load_balance` s každým menom - pre simuláciu náročnosti načítavania z databázy funkcia `load_balance` počká 3 sekundy a až potom vráti náhodné číslo.
 
 Pridajte premennú typu dictionary (reprezentuje tabuľku s čiastočnými výsledkami) do funkcie `get_balances` a následne upravte for cyklus tak, aby suma sa načítala priamo z tabuľky ak tá obsahuje hodnotu pod kľúčom `name`. Ak taký kľúč v tabuľke neexistuje, zavolajte funkciu `load_balance` a pridajte dvojicu kľúč-hodnota (`name` a `balance`) do tabuľky.
+
+## Domáca úloha 6 <a name="h6"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h06.py`, ktorý obsahuje deklaráciu štyroch funkcií. Vašou úlohou je vytvoriť funkčnú implementáciu hašovania, pričom funkcie by mali definovať nasledujúcu funkcionalitu:
+
+* **hash_function(number)** - vstupom je číslo, funkcia vráti hash hodnotu pre dané číslo; pri implementácii môžete použiť ľubovoľný algoritmus
+* **add_number(table, number)** - funkcia pridá číslo `number` do hash tabuľky v premennej `table`; pri pridávaní najprv určte hash hodnotu čísla `number`, a pridajte číslo do príslušného bucketu v tabuľke; funkcia nevracia žiadnu hodnotu
+* **has_number(table, number)** - funkcia zistí, či číslo `number` sa nachádza v tabuľke `table`; najprv určte hash hodnotu čísla `number`, a vyhľadávajte iba v príslušnom buckete; funkcia vráti `True` ak našla `number`, v opačnom prípade vráti `False`
+* **delete_number(table, number)** - funkcia vymaže číslo `number` z tabuľky `table`, ak tabuľka obsahuje číslo; najprv určte hash hodnotu čísla `number`, a aktualizujte príslušný bucket (ak potrebné)
+* **test_hashing()** - funkcia slúži na testovania Vášho riešenia, nie je potrebné ju upravovať
