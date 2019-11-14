@@ -62,7 +62,7 @@ Priebežné hodnotenie nájdete na [tomto odkaze](https://docs.google.com/spread
 7. vytvorenie triedy z UML diagramu (deadline 29. 11. 2019)
 8. výpočet zlatého rezu (deadline 6. 12. 2019)
 9. biased random walk (deadline 13. 12. 2019)
-10. vizualizácia dát (deadline 20. 12. 2019)
+10. debugovanie zadania 1 (deadline 20. 12. 2019)
 
 ### Zadania <a name="assignments"></a>
 1. Algoritmické riešenie vybraných úloh (deadline 8. 11. 2019)
