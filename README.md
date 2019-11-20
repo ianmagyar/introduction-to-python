@@ -69,7 +69,11 @@ Priebežné hodnotenie nájdete na [tomto odkaze](https://docs.google.com/spread
     * [najlepší čas na Jedličku](assignments/assignment1_problem1.pdf)
     * [riešenie Sudoku](assignments/assignment1_problem2.pdf)
     * [projekt riešenia](assignments/assignment1.zip)
+    * [testy](assignments/test_suite_assignment1.zip)
 2. Simulácia ľudí nastupujúcich do lietadla (deadline 20. 12. 2019)
+    * [znenie zadania](assignments/assignment2.pdf)
+    * [projekt riešenia](assignments/assignment2.zip)
+    * testy (TBA)
 
 <!--### Skúška <a name="exam"></a>-->
 
