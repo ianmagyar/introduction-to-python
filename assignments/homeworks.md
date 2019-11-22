@@ -38,3 +38,11 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h06.py
 * **has_number(table, number)** - funkcia zistí, či číslo `number` sa nachádza v tabuľke `table`; najprv určte hash hodnotu čísla `number`, a vyhľadávajte iba v príslušnom buckete; funkcia vráti `True` ak našla `number`, v opačnom prípade vráti `False`
 * **delete_number(table, number)** - funkcia vymaže číslo `number` z tabuľky `table`, ak tabuľka obsahuje číslo; najprv určte hash hodnotu čísla `number`, a aktualizujte príslušný bucket (ak potrebné)
 * **test_hashing()** - funkcia slúži na testovania Vášho riešenia, nie je potrebné ju upravovať
+
+
+## Domáca úloha 7 <a name="h7"></a>
+Na úložisku pre odovzdávanie zadaní nájdete obrázok s názvom `h07.py`, ktorý zobrazuje diagram triedy. Vašou úlohou je implementovať túto triedu v Python skripte s názvom `h07.py` (upravujte priamo skript). Pri implementácii musíte dodržať vlastnosti triedy určené v diagrame.
+
+Každá trieda obsahuje jednu privátnu a jednu verejnú členskú premennú, a zároveň aj jednu triednu premennú. Takisto máte implementovať konštruktor a dva ďalšie metódy pre každú triedu. Funkcionalita metód nebude kontrolovaná, ale počet parametrov a návratový typ musia byť dodržané.
+
+[Sample riešenie nájdete tu.](H07_example.pdf)
