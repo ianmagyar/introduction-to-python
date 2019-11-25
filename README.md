@@ -73,7 +73,7 @@ Priebežné hodnotenie nájdete na [tomto odkaze](https://docs.google.com/spread
 2. Simulácia ľudí nastupujúcich do lietadla (deadline 20. 12. 2019)
     * [znenie zadania](assignments/assignment2.pdf)
     * [projekt riešenia](assignments/assignment2.zip)
-    * testy (TBA)
+    * [testy](assignments/test_suite_assignment2.zip)
 
 <!--### Skúška <a name="exam"></a>-->
 
