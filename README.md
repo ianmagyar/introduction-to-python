@@ -28,11 +28,11 @@ Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť
 | 5      |              [testovanie, ladenie, výnimky a chyby](lectures/Lecture-05.pdf)             |            úloha 3            |
 | 6      |             [optimalizácia, dynamické programovanie](lectures/Lecture-06.pdf)            |            úloha 4            |
 | 7      |                        [údajové štruktúry](lectures/Lecture-07.pdf)                      |       úloha 5<br>zadanie 1    |
-| 8      |               [objektovo orientované programovanie](lectures/Lecture-08.pdf)<br>[kódy](lectures/l8+9_codes.zip)             |        úloha 6<br>test 2      |
-| 9      |               [objektovo orientované programovanie](lectures/Lecture-09.pdf)<br>[kódy](lectures/l8+9_codes.zip)             |                        |
-| 10     |                           modelovanie                         |        úloha 7<br>test 3            |
-| 11     |                     simulácie, vizualizácia                   |            úloha 8            |
-| 12     |                     simulácie, vizualizácia                   |      úloha 9<br>test 4        |
+| 8      |           [objektovo orientované programovanie](lectures/Lecture-08.pdf)<br>[kódy](lectures/l8+9_codes.zip)         |        úloha 6<br>test 2      |
+| 9      |           [objektovo orientované programovanie](lectures/Lecture-09.pdf)<br>[kódy](lectures/l8+9_codes.zip)         |                        |
+| 10     |             [výpočtové modely a simulácia](lectures/Lecture-10.pdf)<br>[kódy](lectures/l10_codes.zip)          |        úloha 7<br>test 3            |
+| 11     |                  výpočtové modely a simulácia                 |            úloha 8            |
+| 12     |               pokročilé programovanie v Pythone               |      úloha 9<br>test 4        |
 | 13     |                                —                              |     úloha 10<br>zadanie 2     |
 
 ## Hodnotenie <a name="grading"></a>
@@ -60,7 +60,7 @@ Priebežné hodnotenie nájdete na [tomto odkaze](https://docs.google.com/spread
 5. [optimalizácia programu pomocou dynamického programovania](assignments/homeworks.md#h5) (deadline 8. 11. 2019)
 6. [práca s hash tabuľkou](assignments/homeworks.md#h6) (deadline 15. 11. 2019)
 7. [vytvorenie triedy z UML diagramu](assignments/homeworks.md#h7) (deadline 29. 11. 2019)
-8. výpočet zlatého rezu (deadline 6. 12. 2019)
+8. [výpočet zlatého rezu](assignments/homeworks.md#h8) (deadline 6. 12. 2019)
 9. biased random walk (deadline 13. 12. 2019)
 10. debugovanie zadania 1 (deadline 20. 12. 2019)
 

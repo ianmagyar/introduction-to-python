@@ -41,8 +41,21 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h06.py
 
 
 ## Domáca úloha 7 <a name="h7"></a>
-Na úložisku pre odovzdávanie zadaní nájdete obrázok s názvom `h07.py`, ktorý zobrazuje diagram triedy. Vašou úlohou je implementovať túto triedu v Python skripte s názvom `h07.py` (upravujte priamo skript). Pri implementácii musíte dodržať vlastnosti triedy určené v diagrame.
+Na úložisku pre odovzdávanie zadaní nájdete obrázok s názvom `h07.jpg`, ktorý zobrazuje diagram triedy. Vašou úlohou je implementovať túto triedu v Python skripte s názvom `h07.py` (upravujte priamo skript). Pri implementácii musíte dodržať vlastnosti triedy určené v diagrame.
 
 Každá trieda obsahuje jednu privátnu a jednu verejnú členskú premennú, a zároveň aj jednu triednu premennú. Takisto máte implementovať konštruktor a dva ďalšie metódy pre každú triedu. Funkcionalita metód nebude kontrolovaná, ale počet parametrov a návratový typ musia byť dodržané.
 
 [Sample riešenie nájdete tu.](H07_example.pdf)
+
+
+## Domáca úloha 8 <a name="h8"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h08.py`, ktorý obsahuje kostru pre aproximáciu zlatého rezu (φ). Zlatý rez je iracionálne číslo, ktoré dostaneme ako pomer dĺžky dvoch častí úsečky s dĺžkou ***x*** na dve časti ***a*** a ***b*** tak, aby pomer dĺžky dlhšej časti ***a*** ku kratšej časti ***b*** bol rovnaký ako pomer celej dĺžky ***x*** ku dlhšej časti ***a***. Hodnota zlatého rezu je približne 1.6180339987.
+
+Keďže je to iracionálne číslo, na jeho výpočet musíme použiť aproximáciu. Jednou z možností je aproximácia pomocou Fibonacciho čísel, keďže pomer dvoch po sebe nasledujúcich čísel z tejto postupnosti sa blíži ku zlatému rezu. Použije sa pri tom vzorec *φ = fib<sub>i + 1</sub> / fib<sub>i</sub>*.
+
+V skripte nájdete pripravené funkcie pre aproximáciu zlatého rezu, vašou úlohou je doplniť funkcionalitu nasledovne:
+
+* getFibonacciNums(total) - funkcia vráti zoznam prvých *n* Fibonacciho čísel (*n* je daný parametrom `total`); pre výpočet čísel nemusíte použiť rekurziu, prvé dve čísla v zozname nech sú 1 a 1
+* approximateGoldenRatio(fibNums) - funkcia dostane jeden parameter (`fibNums`), ktorý je zoznam prvých *n* Fibonacciho čísel; funkcia vráti zoznam odhadov zlatého rezu, ktoré vypočítate pre dvojice Fibonacciho čísel pomocou vzorca (najprv pre prvé a druhé číslo, potom pre druhé a tretie číslo, atď.)
+* plotEstimates(estimates) - funkcia dostane zoznam odhadovaných hodnôt zlatého rezu (`estimates`) a vykreslí graf s týmito hodnotami; do grafu pridajte aj horizontálnu čiaru pre hodnotu *y = 1.618*
