@@ -59,3 +59,11 @@ V skripte nájdete pripravené funkcie pre aproximáciu zlatého rezu, vašou ú
 * getFibonacciNums(total) - funkcia vráti zoznam prvých *n* Fibonacciho čísel (*n* je daný parametrom `total`); pre výpočet čísel nemusíte použiť rekurziu, prvé dve čísla v zozname nech sú 1 a 1
 * approximateGoldenRatio(fibNums) - funkcia dostane jeden parameter (`fibNums`), ktorý je zoznam prvých *n* Fibonacciho čísel; funkcia vráti zoznam odhadov zlatého rezu, ktoré vypočítate pre dvojice Fibonacciho čísel pomocou vzorca (najprv pre prvé a druhé číslo, potom pre druhé a tretie číslo, atď.)
 * plotEstimates(estimates) - funkcia dostane zoznam odhadovaných hodnôt zlatého rezu (`estimates`) a vykreslí graf s týmito hodnotami; do grafu pridajte aj horizontálnu čiaru pre hodnotu *y = 1.618*
+
+
+## Domáca úloha 9 <a name="h9"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h09.py`, ktorý obsahuje kód pre ukážku biased random walku z prednášky. Vašou úlohou je doplniť funkcionalitu (metóda `move`) pre triedy `BiasedDrunk` a `UnsureDrunk` nasledovne:
+
+* `BiasedDrunk` (r. 107) - reprezentuje človeka, ktorý sa vyberie smerom na sever s pravdepodobnosťou 25%, na východ s pravdepodobnosťou 35%, na juh s 10% a na západ s 30%..
+* `UnsureDrunk` (r. 112) - nikdy neurobí krok v tom istom smere dvakrát po sebe.

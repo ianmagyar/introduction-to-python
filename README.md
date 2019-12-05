@@ -61,7 +61,7 @@ Priebežné hodnotenie nájdete na [tomto odkaze](https://docs.google.com/spread
 6. [práca s hash tabuľkou](assignments/homeworks.md#h6) (deadline 15. 11. 2019)
 7. [vytvorenie triedy z UML diagramu](assignments/homeworks.md#h7) (deadline 29. 11. 2019)
 8. [výpočet zlatého rezu](assignments/homeworks.md#h8) (deadline 6. 12. 2019)
-9. biased random walk (deadline 13. 12. 2019)
+9. [biased random walk](assignments/homeworks.md#h9) (deadline 13. 12. 2019)
 10. debugovanie zadania 1 (deadline 20. 12. 2019)
 
 ### Zadania <a name="assignments"></a>
