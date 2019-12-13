@@ -32,7 +32,7 @@ Cvičenia sú vo štvrtok o 13:30 a 15:10 v miestnosti 102 v budove V4. Účasť
 | 9      |           [objektovo orientované programovanie](lectures/Lecture-09.pdf)<br>[kódy](lectures/l8+9_codes.zip)         |                        |
 | 10     |             [výpočtové modely a simulácia](lectures/Lecture-10.pdf)<br>[kódy](lectures/l10_codes.zip)          |        úloha 7<br>test 3            |
 | 11     |                  [výpočtové modely a simulácia](lectures/Lecture-11.pdf)<br>[kódy](lectures/l11_codes.zip)                 |            úloha 8            |
-| 12     |               pokročilé programovanie v Pythone               |      úloha 9<br>test 4        |
+| 12     |               [pokročilé programovanie v Pythone](lectures/Lecture-12.pdf)<br>[kódy](lectures/l12_codes.zip)               |      úloha 9<br>test 4        |
 | 13     |                                —                              |     úloha 10<br>zadanie 2     |
 
 ## Hodnotenie <a name="grading"></a>
@@ -51,6 +51,8 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 | programovacia úloha |  20  |
 
 Priebežné hodnotenie nájdete na [tomto odkaze](https://docs.google.com/spreadsheets/d/1F9FnxOkWjlYYmLJ2lfxC_gJKn2AYVrF0WEWHaI7Ddl4/edit?usp=sharing).
+
+Predošlé testy [sú dostupné tu](tests/).
 
 ### Domáce úlohy <a name="homeworks"></a>
 1. [vývojové diagramy a špecifikácie funkcií](assignments/homeworks.md#h1) (deadline 4. 10. 2019)
