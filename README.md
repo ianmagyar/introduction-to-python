@@ -54,6 +54,8 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 |       4 testy       |  40  |
 | programovacia úloha |  20  |
 
+Priebežné hodnotenie nájdete [tu](https://docs.google.com/spreadsheets/d/1zLwBEhnHpFwMagCywvC5Kt8dV10khDAKRXRIBCkh2P0/edit?usp=sharing).
+
 ### Domáce úlohy <a name="homeworks"></a>
 1. vývojové diagramy (deadline 26. 2. 2021)
 2. list comprehensions a lambda výrazy (deadline 5. 3. 2021)
