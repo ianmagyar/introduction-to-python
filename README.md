@@ -25,7 +25,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 
 |           Týždeň           |                            Prednáška                            |                         Cvičenie                        |               Termíny               |
 |:--------------------------:|:---------------------------------------------------------------:|:-------------------------------------------------------:|:-----------------------------------:|
-| 1. týždeň<br>15. 2. - 21. 2.  | Syntax, základné jazykové konštrukty, vývojové diagramy         | Úvod, [nastavenie programátorského rozhrania](labs/lab00-setting-up.ipynb)<br>[prvé programy](labs/lab01-first-baby-steps.ipynb)             | DÚ1 publikovaná<br>[Z1 publikované](assignments/assignment1.zip)      |
+| 1. týždeň<br>15. 2. - 21. 2.  | Syntax, základné jazykové konštrukty, vývojové diagramy         | Úvod, [nastavenie programátorského rozhrania](labs/lab00-setting-up.ipynb)<br>[prvé programy](labs/lab01-first-baby-steps.ipynb)             |[DÚ1 publikovaná](assignments/homeworks.md#h1)<br>[Z1 publikované](assignments/assignment1.zip)      |
 | 2. týždeň<br>22. 2. - 28. 2.  | Funkcie, rekurzia, lambda výrazy<br>Reťazce, zoznamy, n-tice, mapy | Algoritmizácia                                          | DÚ1 odovzdanie<br>DÚ2 publikovaná      |
 | 3. týždeň<br>1. 3. - 7. 3.    | Test 1<br>Zložitosť algoritmov, triedenie a vyhľadávanie           | Práca so základnými údajovými štruktúrami               | DÚ2 odozvdanie<br>DÚ3 publikovaná      |
 | 4. týždeň<br>8. 3. - 14. 3.   | Testovanie, ladenie, výmiky a chyby                             | Flip hats problém                                       | DÚ3 odozvdanie<br>DÚ4 publikovaná      |
@@ -57,7 +57,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 Priebežné hodnotenie nájdete [tu](https://docs.google.com/spreadsheets/d/1zLwBEhnHpFwMagCywvC5Kt8dV10khDAKRXRIBCkh2P0/edit?usp=sharing).
 
 ### Domáce úlohy <a name="homeworks"></a>
-1. vývojové diagramy (deadline 26. 2. 2021)
+1. [vývojové diagramy](assignments/homeworks.md#h1) (deadline 26. 2. 2021)
 2. list comprehensions a lambda výrazy (deadline 5. 3. 2021)
 3. triediace algoritmy a generátory (deadline 12. 3. 2021)
 4. práca s chybami a výnimkami, ladenie kódu (deadline 19. 3. 2021)
