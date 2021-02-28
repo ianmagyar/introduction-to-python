@@ -1,0 +1,206 @@
+Bayern München 8 - 0 Schalke 04
+Eintracht Frankfurt 1 - 1 Arminia Bielefeld
+Union Berlin 1 - 3 Augsburg
+1. FC Köln 2 - 3 Hoffenheim
+Werder Bremen 1 - 4 Hertha Berlin
+VfB Stuttgart 2 - 3 Freiburg
+Borussia Dortmund 3 - 0 Borussia Mönchengladbach
+RB Leipzig 3 - 1 Mainz 05
+Wolfsburg 0 - 0 Bayer Leverkusen
+Hertha Berlin 1 - 3 Eintracht Frankfurt
+Mainz 05 1 - 4 VfB Stuttgart
+Augsburg 2 - 0 Borussia Dortmund
+Arminia Bielefeld 1 - 0 1. FC Köln
+Borussia Mönchengladbach 1 - 1 Union Berlin
+Bayer Leverkusen 1 - 1 RB Leipzig
+Schalke 04 1 - 3 Werder Bremen
+Hoffenheim 4 - 1 Bayern München
+Freiburg 1 - 1 Wolfsburg
+Union Berlin 4 - 0 Mainz 05
+1. FC Köln 1 - 3 Borussia Mönchengladbach
+Werder Bremen 1 - 0 Arminia Bielefeld
+VfB Stuttgart 1 - 1 Bayer Leverkusen
+Borussia Dortmund 4 - 0 Freiburg
+Eintracht Frankfurt 2 - 1 Hoffenheim
+RB Leipzig 4 - 0 Schalke 04
+Wolfsburg 0 - 0 Augsburg
+Bayern München 4 - 3 Hertha Berlin
+Hoffenheim 0 - 1 Borussia Dortmund
+Freiburg 1 - 1 Werder Bremen
+Hertha Berlin 0 - 2 VfB Stuttgart
+Mainz 05 0 - 1 Bayer Leverkusen
+Augsburg 0 - 2 RB Leipzig
+Arminia Bielefeld 1 - 4 Bayern München
+Borussia Mönchengladbach 1 - 1 Wolfsburg
+1. FC Köln 1 - 1 Eintracht Frankfurt
+Schalke 04 1 - 1 Union Berlin
+VfB Stuttgart 1 - 1 1. FC Köln
+Union Berlin 1 - 1 Freiburg
+Mainz 05 2 - 3 Borussia Mönchengladbach
+Bayern München 5 - 0 Eintracht Frankfurt
+RB Leipzig 2 - 1 Hertha Berlin
+Borussia Dortmund 3 - 0 Schalke 04
+Wolfsburg 2 - 1 Arminia Bielefeld
+Werder Bremen 1 - 1 Hoffenheim
+Bayer Leverkusen 3 - 1 Augsburg
+Schalke 04 1 - 1 VfB Stuttgart
+1. FC Köln 1 - 2 Bayern München
+Augsburg 3 - 1 Mainz 05
+Arminia Bielefeld 0 - 2 Borussia Dortmund
+Eintracht Frankfurt 1 - 1 Werder Bremen
+Borussia Mönchengladbach 1 - 0 RB Leipzig
+Freiburg 2 - 4 Bayer Leverkusen
+Hertha Berlin 1 - 1 Wolfsburg
+Hoffenheim 1 - 3 Union Berlin
+Werder Bremen 1 - 1 1. FC Köln
+VfB Stuttgart 2 - 2 Eintracht Frankfurt
+Union Berlin 5 - 0 Arminia Bielefeld
+Mainz 05 2 - 2 Schalke 04
+Augsburg 0 - 3 Hertha Berlin
+RB Leipzig 3 - 0 Freiburg
+Borussia Dortmund 2 - 3 Bayern München
+Wolfsburg 2 - 1 Hoffenheim
+Bayer Leverkusen 4 - 3 Borussia Mönchengladbach
+Bayern München 1 - 1 Werder Bremen
+Borussia Mönchengladbach 1 - 1 Augsburg
+Hoffenheim 3 - 3 VfB Stuttgart
+Schalke 04 0 - 2 Wolfsburg
+Arminia Bielefeld 1 - 2 Bayer Leverkusen
+Eintracht Frankfurt 1 - 1 RB Leipzig
+Hertha Berlin 2 - 5 Borussia Dortmund
+Freiburg 1 - 3 Mainz 05
+1. FC Köln 1 - 2 Union Berlin
+Wolfsburg 5 - 3 Werder Bremen
+Union Berlin 3 - 3 Eintracht Frankfurt
+Augsburg 1 - 1 Freiburg
+VfB Stuttgart 1 - 3 Bayern München
+Borussia Dortmund 1 - 2 1. FC Köln
+RB Leipzig 2 - 1 Arminia Bielefeld
+Borussia Mönchengladbach 4 - 1 Schalke 04
+Bayer Leverkusen 0 - 0 Hertha Berlin
+Mainz 05 1 - 1 Hoffenheim
+Hertha Berlin 3 - 1 Union Berlin
+1. FC Köln 2 - 2 Wolfsburg
+Freiburg 2 - 2 Borussia Mönchengladbach
+Eintracht Frankfurt 1 - 1 Borussia Dortmund
+Arminia Bielefeld 2 - 1 Mainz 05
+Bayern München 3 - 3 RB Leipzig
+Werder Bremen 1 - 2 VfB Stuttgart
+Schalke 04 0 - 3 Bayer Leverkusen
+Hoffenheim 3 - 1 Augsburg
+Wolfsburg 2 - 1 Eintracht Frankfurt
+Freiburg 2 - 0 Arminia Bielefeld
+Borussia Dortmund 1 - 5 VfB Stuttgart
+RB Leipzig 2 - 0 Werder Bremen
+Borussia Mönchengladbach 1 - 1 Hertha Berlin
+Mainz 05 0 - 1 1. FC Köln
+Union Berlin 1 - 1 Bayern München
+Augsburg 2 - 2 Schalke 04
+Bayer Leverkusen 4 - 1 Hoffenheim
+Eintracht Frankfurt 3 - 3 Borussia Mönchengladbach
+VfB Stuttgart 2 - 2 Union Berlin
+Werder Bremen 1 - 2 Borussia Dortmund
+Hertha Berlin 0 - 0 Mainz 05
+Schalke 04 0 - 2 Freiburg
+1. FC Köln 0 - 4 Bayer Leverkusen
+Arminia Bielefeld 0 - 1 Augsburg
+Bayern München 2 - 1 Wolfsburg
+Hoffenheim 0 - 1 RB Leipzig
+Union Berlin 2 - 1 Borussia Dortmund
+Schalke 04 0 - 1 Arminia Bielefeld
+Mainz 05 0 - 1 Werder Bremen
+Augsburg 0 - 2 Eintracht Frankfurt
+RB Leipzig 0 - 0 1. FC Köln
+Borussia Mönchengladbach 1 - 2 Hoffenheim
+Bayer Leverkusen 1 - 2 Bayern München
+Freiburg 4 - 1 Hertha Berlin
+Wolfsburg 1 - 0 VfB Stuttgart
+Hoffenheim 1 - 3 Freiburg
+Eintracht Frankfurt 2 - 1 Bayer Leverkusen
+1. FC Köln 0 - 1 Augsburg
+Werder Bremen 0 - 2 Union Berlin
+Arminia Bielefeld 0 - 1 Borussia Mönchengladbach
+Hertha Berlin 3 - 0 Schalke 04
+VfB Stuttgart 0 - 1 RB Leipzig
+Borussia Dortmund 2 - 0 Wolfsburg
+Bayern München 5 - 2 Mainz 05
+Borussia Mönchengladbach 3 - 2 Bayern München
+Bayer Leverkusen 1 - 1 Werder Bremen
+Freiburg 5 - 0 1. FC Köln
+Union Berlin 2 - 2 Wolfsburg
+Schalke 04 4 - 0 Hoffenheim
+Mainz 05 0 - 2 Eintracht Frankfurt
+RB Leipzig 1 - 3 Borussia Dortmund
+Augsburg 1 - 4 VfB Stuttgart
+Arminia Bielefeld 1 - 0 Hertha Berlin
+Union Berlin 1 - 0 Bayer Leverkusen
+1. FC Köln 0 - 0 Hertha Berlin
+Werder Bremen 2 - 0 Augsburg
+Borussia Dortmund 1 - 1 Mainz 05
+Hoffenheim 0 - 0 Arminia Bielefeld
+Wolfsburg 2 - 2 RB Leipzig
+VfB Stuttgart 2 - 2 Borussia Mönchengladbach
+Bayern München 2 - 1 Freiburg
+Eintracht Frankfurt 3 - 1 Schalke 04
+Borussia Mönchengladbach 1 - 0 Werder Bremen
+Bayer Leverkusen 2 - 1 Borussia Dortmund
+Hertha Berlin 0 - 3 Hoffenheim
+Mainz 05 0 - 2 Wolfsburg
+Schalke 04 1 - 2 1. FC Köln
+Freiburg 2 - 2 Eintracht Frankfurt
+Augsburg 0 - 1 Bayern München
+Arminia Bielefeld 3 - 0 VfB Stuttgart
+RB Leipzig 1 - 0 Union Berlin
+Borussia Mönchengladbach 4 - 2 Borussia Dortmund
+Bayer Leverkusen 0 - 1 Wolfsburg
+Freiburg 2 - 1 VfB Stuttgart
+Mainz 05 3 - 2 RB Leipzig
+Augsburg 2 - 1 Union Berlin
+Arminia Bielefeld 1 - 5 Eintracht Frankfurt
+Hertha Berlin 1 - 4 Werder Bremen
+Schalke 04 0 - 4 Bayern München
+Hoffenheim 3 - 0 1. FC Köln
+VfB Stuttgart 2 - 0 Mainz 05
+Werder Bremen 1 - 1 Schalke 04
+Eintracht Frankfurt 3 - 1 Hertha Berlin
+Union Berlin 1 - 1 Borussia Mönchengladbach
+Bayern München 4 - 1 Hoffenheim
+Borussia Dortmund 3 - 1 Augsburg
+RB Leipzig 1 - 0 Bayer Leverkusen
+1. FC Köln 3 - 1 Arminia Bielefeld
+Wolfsburg 3 - 0 Freiburg
+Hertha Berlin 0 - 1 Bayern München
+Schalke 04 0 - 3 RB Leipzig
+Mainz 05 1 - 0 Union Berlin
+Augsburg 0 - 2 Wolfsburg
+Bayer Leverkusen 5 - 2 VfB Stuttgart
+Freiburg 2 - 1 Borussia Dortmund
+Borussia Mönchengladbach 1 - 2 1. FC Köln
+Hoffenheim 1 - 3 Eintracht Frankfurt
+RB Leipzig 2 - 1 Augsburg
+Bayer Leverkusen 2 - 2 Mainz 05
+Borussia Dortmund 2 - 2 Hoffenheim
+Werder Bremen 0 - 0 Freiburg
+VfB Stuttgart 1 - 1 Hertha Berlin
+Union Berlin 0 - 0 Schalke 04
+Eintracht Frankfurt 2 - 0 1. FC Köln
+Wolfsburg 0 - 0 Borussia Mönchengladbach
+Bayern München 3 - 3 Arminia Bielefeld
+Arminia Bielefeld 0 - 3 Wolfsburg
+Borussia Mönchengladbach 1 - 2 Mainz 05
+Freiburg 0 - 1 Union Berlin
+Eintracht Frankfurt 2 - 1 Bayern München
+1. FC Köln 0 - 1 VfB Stuttgart
+Schalke 04 0 - 4 Borussia Dortmund
+Augsburg 1 - 1 Bayer Leverkusen
+Hertha Berlin 0 - 3 RB Leipzig
+Hoffenheim 4 - 0 Werder Bremen
+Werder Bremen 2 - 1 Eintracht Frankfurt
+VfB Stuttgart 5 - 1 Schalke 04
+Wolfsburg 2 - 0 Hertha Berlin
+Bayern München 5 - 1 1. FC Köln
+Borussia Dortmund 3 - 0 Arminia Bielefeld
+RB Leipzig 3 - 2 Borussia Mönchengladbach
+Union Berlin 1 - 1 Hoffenheim
+Mainz 05 0 - 1 Augsburg
+Bayer Leverkusen 1 - 2 Freiburg
