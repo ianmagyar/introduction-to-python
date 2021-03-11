@@ -32,3 +32,11 @@ Niekoľko poznámok k jednotlivým algoritmom:
 * **merge sort** - algoritmus implementujte ako funkciu; vo funkcii rozdeľte zoznam na dve časti v strede, t.j. `len(lst) // 2`; pred každým volaním funkcie `merge_sort` (okrem prvého volania) uložte hodnotu polovičného bodu do zoznamu `merge_sort_called_with`; pri hodnotení sa kontroluje aj hodnota zoznamu.
 * **bucket_sort** - algoritmus implementujte ako funkciu, pri zoradení zoznamov v jednotlivých bucketoch **môžete** použiť funkciu `sort` aj s parametrom `reverse`, zoradenie prvkov v samotnom zozname `lst` ale musíte vyriešiť bez nich (konkatenácia bucketov); použite 10 bucketov, rozdelenie do bucketov riešte cez `10 * number`.
 * **radix sort** - algoritmus implementujte ako generátor, ktorý vracia medzivýsledky po každej iterácii, teda po zavolaní pomocnej funkcie `counting_sort`; pre implementáciu efektu parametra `ascending` **môžete** použiť funkciu `reverse` ale až na konci vykonávania (viď príklad v skripte).
+
+## Domáca úloha 4 <a name="h4"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h04.py`, ktorý obsahuje jednoduchú funkciu a jej krátky popis. Vašou úlohou je upraviť kód funkcie tak, aby splnila špecifikáciu uvedenú v komentároch, a zároveň ošetriť chyby ktoré môžu vyskytnúť počas vykonávania programu. Kód teda potrebujete rozšíriť nasledovne:
+
+1. skontrolovať hodnotu vstupných parametrov podľa špecifikácie (napr. správny typ, správny formát, platná hodnota); ak podmienky nie sú splnené, vygenerujte chybu s príslušnou chybovou správou.
+2. otestovať a v prípade potreby doladiť kód aby spĺňal špecifikáciu - kód môže obsahovať chyby, ktoré úplne znemožnia jeho správny beh; unit testy nemusíte písať, stačí ak kód otestujete manuálne na rôznych vstupoch, aby ste odhalili možné chyby.
+3. ošetriť možné výnimky - všetky kódy sa spoliehajú na platnosť niektorých predpokladov na vstup alebo využívajú štandardné funkcie jazyka Python, ktoré môžu spôsobiť výnimku počas behu programu. Identifikujte tieto možné chyby a ošetrite ich blokom `try - catch` alebo kontrolou hodnôt ešte pred ich použitím. V oboch prípadoch vygenerujte chybu s príslušnou chybovou správou (nepoužívajte iba štandardné výpisy z Pythonu).
