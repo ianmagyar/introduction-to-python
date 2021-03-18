@@ -40,3 +40,13 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h04.py
 1. skontrolovať hodnotu vstupných parametrov podľa špecifikácie (napr. správny typ, správny formát, platná hodnota); ak podmienky nie sú splnené, vygenerujte chybu s príslušnou chybovou správou.
 2. otestovať a v prípade potreby doladiť kód aby spĺňal špecifikáciu - kód môže obsahovať chyby, ktoré úplne znemožnia jeho správny beh; unit testy nemusíte písať, stačí ak kód otestujete manuálne na rôznych vstupoch, aby ste odhalili možné chyby.
 3. ošetriť možné výnimky - všetky kódy sa spoliehajú na platnosť niektorých predpokladov na vstup alebo využívajú štandardné funkcie jazyka Python, ktoré môžu spôsobiť výnimku počas behu programu. Identifikujte tieto možné chyby a ošetrite ich blokom `try - catch` alebo kontrolou hodnôt ešte pred ich použitím. V oboch prípadoch vygenerujte chybu s príslušnou chybovou správou (nepoužívajte iba štandardné výpisy z Pythonu).
+
+## Domáca úloha 5 <a name="h5"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h05.py`, ktorý obsahuje jednoduchú funkciu s jej krátkym popisom a s funkciou pre testovanie riešenia. Vašou úlohou je implementovať testovaciu funkciu, a odhaliť a opraviť prípadné chyby v implementácii funkcie. Pri testovaní používajte kľúčové slovo `assert`, môžete sa inšpirovať testami k zadaniu 1. Implementáciu funkcie otestujte na nasledovných vstupoch:
+
+* nesprávny vstup - v takýchto prípadoch funkcia väčšinou iba ukončí vykonávanie (cez `return`). Je na vás, či to necháte tak, alebo pridáte generovanie výnimiek do kódu.
+* extrémny vstup - mali by reprezentovať hraničné situácie, kde implementácia môže mať problémy, napríklad malé a veľké vstupy; typický príklad je spracovanie hodnoty 0. Pri niektorých funkciách neexistujú extrémne prípady.
+* platné vstupy - otestujte návratovú hodnotu alebo účinok funkcie pre minimálne 10 platných vstupov.
+
+Tieto testy vám môžu pomôcť pri odhalení chyby v implementácii. Prispôsobujte vždy implementáciu k testom, a nie naopak!
