@@ -31,12 +31,12 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 | 4. týždeň<br>8. 3. - 14. 3.   | [Testovanie, ladenie, výmiky a chyby](lectures/Lecture-04.pdf)                             | [Flip hats problém](labs/lab04-flipping-hats.ipynb)                                       | DÚ3 odozvdanie<br>[DÚ4 publikovaná](assignments/homeworks.md#h4)      |
 | 5. týždeň<br>15. 3. - 21. 3.  | [Optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)  ([kódy](lectures/codes/lecture05.py))                         | [Defenzívne programovanie](labs/lab05-defensive-programming.ipynb)                                | DÚ4 odovzdanie<br>[DÚ5 publikovaná](assignments/homeworks.md#h5)      |
 | 6. týždeň<br>22. 3. - 28. 3.  | Test 2<br>[Údajové štruktúry](lectures/Lecture-06.pdf)                                        | [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)                                       | DÚ5 odovzdanie                      |
-| 7. týždeň<br>29. 3. - 4. 4.   | Objektovo orientované programovanie 1                           | Hašovacia tabuľka | Z1 odovzdanie<br>DÚ6 publikovaná       |
-| 8. týždeň<br>5. 4. - 11. 4.   | Veľká Noc                                                       | Veľká Noc                                               | DÚ6 odovzdanie<br>Z2, DÚ10 publikované |
-| 9. týždeň<br>12. 4. - 18. 4.  | Objektovo orientované programovanie 2                           | Objektové riešenie zadania 1                            | DÚ7 publikovaná                     |
-| 10. týždeň<br>19. 4. - 25. 4. | Test 3<br>Výpočtové modely a simulácia 1                           | Výpočet hodnoty pi                                      | DÚ7 odovzdanie<br>DÚ8 publikovaná      |
+| 7. týždeň<br>29. 3. - 4. 4.   | Veľká Noc                                                       | [Hašovacia tabuľka](labs/lab07-hash-and-intro-to-OOP.ipynb) | Z1 odovzdanie                      |
+| 8. týždeň<br>5. 4. - 11. 4.   | Objektovo orientované programovanie 1                           | Veľká Noc                                               | Z2, DÚ6, DÚ10 publikované              |
+| 9. týždeň<br>12. 4. - 18. 4.  | Objektovo orientované programovanie 2                           | Objektové riešenie zadania 1                            | DÚ6 odovzdaniebr>DÚ7 publikovaná       |
+| 10. týždeň<br>19. 4. - 25. 4. | Test 3<br>Výpočtové modely a simulácia 1                        | Výpočet hodnoty pi                                      | DÚ7 odovzdanie<br>DÚ8 publikovaná      |
 | 11. týždeň<br>26. 4. - 2. 5.  | Výpočtové modely a simulácia 2                                  | Simulácia letu komára                                   | DÚ8 odovzdanie<br>DÚ9 publikovaná      |
-| 12. týždeň<br>3. 5. - 9. 5.   | Test 4<br>Pokročilé témy v programovaní v Pythone                  | Simulácia nástupu pasažierov do lietadla                | DÚ9 odovzdanie                      |
+| 12. týždeň<br>3. 5. - 9. 5.   | Test 4<br>Pokročilé témy v programovaní v Pythone               | Simulácia nástupu pasažierov do lietadla                | DÚ9 odovzdanie                         |
 | 13. týždeň<br>10. 5. - 16. 5. | -                                                               | konzultácie                                             | Z2 odovzdanie<br>DÚ10 odovzdanie       |
 
 ## Hodnotenie <a name="grading"></a>
@@ -62,7 +62,7 @@ Priebežné hodnotenie nájdete [tu](https://docs.google.com/spreadsheets/d/1zLw
 3. [triediace algoritmy a generátory](assignments/homeworks.md#h3) (deadline 12. 3. 2021)
 4. [práca s chybami a výnimkami, ladenie kódu](assignments/homeworks.md#h4) (deadline 19. 3. 2021)
 5. [unit testy](assignments/homeworks.md#h5) (deadline 26. 3. 2021)
-6. dynamické programovanie (deadline 9. 4. 2021)
+6. dynamické programovanie (deadline 16. 4. 2021)
 7. vytvorenie triedy z UML diagramu (deadline 23. 4. 2021)
 8. výpočet konštánt (deadline 30. 4. 2021)
 9. biased random walk (deadline 7. 5. 2021)
