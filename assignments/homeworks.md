@@ -50,3 +50,21 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h05.py
 * platné vstupy - otestujte návratovú hodnotu alebo účinok funkcie pre minimálne 10 platných vstupov.
 
 Tieto testy vám môžu pomôcť pri odhalení chyby v implementácii. Prispôsobujte vždy implementáciu k testom, a nie naopak!
+
+## Domáca úloha 6 <a name="h6"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h06.py`, ktorý obsahuje dve funkcie. Funkcia `load_balance` je mock funkcia a emuluje načítavanie dát z databázy. V systémoch, ktoré pracujú s databázou je načítavanie kritický bod vo funkčnosti programu, keďže zvyčajne trvá dlhší čas. Táto skutočnosť je v kóde simulovaná volaním funkcie `sleep`, ktorá pozastaví vykonávanie kódu na jednu sekundu. Druhá funkcia je `get_balances`, ktorá načíta stav účtu podľa mena držiteľa konta. V hlavnej funkcii sa vygeneruje zoznam 100 mien zo zoznamu, mená sa teda opakujú. Ako môžete vidieť v kóde, `load_balance` sa zavolá v kóde vždy, aj keď chceme načítať stav účtu pre človeka, pre ktorého sme tak už urobili. Toto spôsobí, že kód potrebujete skoro dve minúty pre zbehnutie.
+
+Vašou úlohou je využiť memoizáciu pre zvýšenie efektivity funkcie `get_balances`. Pridajte premennú typu dictionary (reprezentuje tabuľku s čiastočnými výsledkami) do funkcie `get_balances` a následne upravte for cyklus tak, aby sa suma načítala priamo z tabuľky ak tá obsahuje hodnotu pod kľúčom `name`. Ak taký kľúč v tabuľke neexistuje, zavolajte funkciu `load_balance` a pridajte dvojicu kľúč-hodnota (`name` a `balance`) do tabuľky.
+
+## Domáca úloha 10 <a name="h10"></a>
+Desiata domáca úloha Vám umožní vylepšiť si bodové hodnotenie, a doplniť chýbajúce body do zápočtu. Na získanie 2 bodov máte tri možnosti:
+
+### Variant A
+Znova odovzdať maximálne tri predošlé domáce úlohy. Napíšte vyučujúcemu, ktoré domáce úlohy chcete znova odovzdať, následne dostanete nové úlohy, ktoré vypracujete. Ak všetky tieto úlohy opravíte na maximálny počet bodov, za DÚ10 dostanete 2 body. Za čiastočne správne riešenia dostanete 1 bod za DÚ10. Ak neplný počet bodov máte len z jednej alebo dvoch domácich úloh, stačí, ak opravíte tie, body za DÚ10 stále môžete získať podobným spôsobom.
+
+### Variant B
+Ak ste spokojní s hodnotením domácich úloh, no stratili ste body na zadaniach, môžete urobiť doplňujúcu úlohu pre zadanie 2, kde vytvoríte grafické rozhranie, v ktorom používateľ môže spustiť simuláciu nástupu cestujúcich do lietadla. Pre vybranú metódu spustite niekoľko simulácií, a distribúciu krokov potrebných pre ukončenie nástupu v simulácii znázornite na grafe. K tomu použite knižnicu `matplotlib`. Návrh grafického rozhrania vyriešte ako chcete, za obzvlášť intuitívne a user-friendly riešenie môžete získať bonusové body.
+
+### Variant C
+Ak máte zo všetkých domácich úloh a zadaní maximálny počet bodov (spolu minimálne 38 po zaokrúhľovaní), gratulujeme, DÚ10 nemusíte odovzdať: automaticky dostanete potrebné 2 body do maximálneho zápočtu. Alternatívne môžete urobiť variant B, ak ale máte záujem o automatické 2 body, informujte o tom vyučujúceho.

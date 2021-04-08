@@ -32,11 +32,11 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 | 5. týždeň<br>15. 3. - 21. 3.  | [Optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)  ([kódy](lectures/codes/lecture05.py))                         | [Defenzívne programovanie](labs/lab05-defensive-programming.ipynb)                                | DÚ4 odovzdanie<br>[DÚ5 publikovaná](assignments/homeworks.md#h5)      |
 | 6. týždeň<br>22. 3. - 28. 3.  | Test 2<br>[Údajové štruktúry](lectures/Lecture-06.pdf)                                        | [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)                                       | DÚ5 odovzdanie                      |
 | 7. týždeň<br>29. 3. - 4. 4.   | Veľká Noc                                                       | [Hašovacia tabuľka](labs/lab07-hash-and-intro-to-OOP.ipynb) | Z1 odovzdanie                      |
-| 8. týždeň<br>5. 4. - 11. 4.   | Objektovo orientované programovanie 1                           | Veľká Noc                                               | Z2, DÚ6, DÚ10 publikované              |
+| 8. týždeň<br>5. 4. - 11. 4.   | [Objektovo orientované programovanie 1](lectures/Lecture-07.pdf)                           | Veľká Noc                                               | [Z2](assignments/assignment2.zip), [DÚ6](assignments/homeworks.md#h6), [DÚ10](assignments/homeworks.md#h10) publikované              |
 | 9. týždeň<br>12. 4. - 18. 4.  | Objektovo orientované programovanie 2                           | Objektové riešenie zadania 1                            | DÚ6 odovzdanie<br>DÚ7 publikovaná       |
 | 10. týždeň<br>19. 4. - 25. 4. | Test 3<br>Výpočtové modely a simulácia 1                        | Výpočet hodnoty pi                                      | DÚ7 odovzdanie<br>DÚ8 publikovaná      |
 | 11. týždeň<br>26. 4. - 2. 5.  | Výpočtové modely a simulácia 2                                  | Simulácia letu komára                                   | DÚ8 odovzdanie<br>DÚ9 publikovaná      |
-| 12. týždeň<br>3. 5. - 9. 5.   | Test 4<br>Pokročilé témy v programovaní v Pythone               | Simulácia nástupu pasažierov do lietadla                | DÚ9 odovzdanie                         |
+| 12. týždeň<br>3. 5. - 9. 5.   | Test 4<br>Pokročilé témy v programovaní v Pythone               | Simulácia účinku protiepidemiologických opatrení                | DÚ9 odovzdanie                         |
 | 13. týždeň<br>10. 5. - 16. 5. | -                                                               | konzultácie                                             | Z2 odovzdanie<br>DÚ10 odovzdanie       |
 
 ## Hodnotenie <a name="grading"></a>
@@ -62,11 +62,11 @@ Priebežné hodnotenie nájdete [tu](https://docs.google.com/spreadsheets/d/1zLw
 3. [triediace algoritmy a generátory](assignments/homeworks.md#h3) (deadline 12. 3. 2021)
 4. [práca s chybami a výnimkami, ladenie kódu](assignments/homeworks.md#h4) (deadline 19. 3. 2021)
 5. [unit testy](assignments/homeworks.md#h5) (deadline 26. 3. 2021)
-6. dynamické programovanie (deadline 16. 4. 2021)
+6. [dynamické programovanie](assignments/homeworks.md#h6) (deadline 16. 4. 2021)
 7. vytvorenie triedy z UML diagramu (deadline 23. 4. 2021)
 8. výpočet konštánt (deadline 30. 4. 2021)
 9. biased random walk (deadline 7. 5. 2021)
-10. grafické rozhranie pre zadanie 2 (deadline 14. 5. 2021)
+10. [oprava DÚ/grafické rozhranie pre zadanie 2](assignments/homeworks.md#h10) (deadline 14. 5. 2021)
 
 ### Zadania <a name="assignments"></a>
 1. Algoritmické riešenie vybraných úloh (deadline 2. 4. 2021)
@@ -74,7 +74,9 @@ Priebežné hodnotenie nájdete [tu](https://docs.google.com/spreadsheets/d/1zLw
     * [Fold, Check, Call, Raise...](assignments/Znenie1-2.pdf)
     * [projekt riešenia](assignments/assignment1.zip)
 
-2. Simulácia účinku protiepidemiologických opatrení (deadline 14. 5. 2021)
+2. Simulácia nástupu pasažierov do lietadla (deadline 14. 5. 2021)
+    * [Znenie zadania](assignments/Znenie2.pdf)
+    * [projekt riešenia](assignments/assignment2.zip)
 
 <!--### Skúška <a name="exam"></a>-->
 
