@@ -57,6 +57,13 @@ Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h06.py
 
 Vašou úlohou je využiť memoizáciu pre zvýšenie efektivity funkcie `get_balances`. Pridajte premennú typu dictionary (reprezentuje tabuľku s čiastočnými výsledkami) do funkcie `get_balances` a následne upravte for cyklus tak, aby sa suma načítala priamo z tabuľky ak tá obsahuje hodnotu pod kľúčom `name`. Ak taký kľúč v tabuľke neexistuje, zavolajte funkciu `load_balance` a pridajte dvojicu kľúč-hodnota (`name` a `balance`) do tabuľky.
 
+## Domáca úloha 7 <a name="h7"></a>
+Na úložisku pre odovzdávanie zadaní nájdete obrázok s názvom `h07.jpg`, ktorý zobrazuje diagram triedy. Vašou úlohou je implementovať túto triedu v Python skripte s názvom `h07.py` (upravujte priamo skript). Pri implementácii musíte dodržať vlastnosti triedy určené v diagrame.
+
+Každá trieda obsahuje jednu privátnu a jednu verejnú členskú premennú, a zároveň aj jednu triednu premennú. Takisto máte implementovať konštruktor a dve ďalšie metódy pre každú triedu. V konštruktore nastavte hodnoty atribútov podľa parametrov alebo podľa vlastného návrhu. Funkcionalita metód nebude kontrolovaná, ale počet parametrov a návratový typ musia byť dodržané. Hodnotí sa štruktúra triedy, t.j. počet a typ atribútov, metódy triedy, návratové hodnoty a ich typy.
+
+[Ukážkové riešenie nájdete tu.](H07_example.pdf)
+
 ## Domáca úloha 10 <a name="h10"></a>
 Desiata domáca úloha Vám umožní vylepšiť si bodové hodnotenie, a doplniť chýbajúce body do zápočtu. Na získanie 2 bodov máte tri možnosti:
 
