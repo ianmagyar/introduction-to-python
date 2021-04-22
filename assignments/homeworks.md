@@ -72,10 +72,14 @@ V domácej úlohe 8 budete aproximovať matematické konštanty pomocou nekoneč
 
 Na základe konkrétneho zadania potrebujete aproximovať konštanty:
 
-* *e* = 2.71828 - nekonečný číselný rad: <img src="http://www.sciweavers.org/tex2img.php?eq=e%20%3D%20%5Csum_%7Bn%3D0%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B1%7D%7Bn%21%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="e = \sum_{n=0}^{\infty} \frac{1}{n!}" width="85" height="50" />
-* zlatý rez *φ* = 1.61803 - pomocou Fibonacciho čísel, pomer dvoch po sebe idúcich čísel sa blíži k tejto hodnote: <img src="https://bit.ly/3sA6G9j" align="center" border="0" alt=" \lim_{n \rightarrow \infty} \frac{Fib_{n+1}}{Fib_n} = \varphi" width="131" height="46" />
-* Apéryho konštanta = 1.20205 - nekonečný číselný rad: <img src="https://bit.ly/3gp3RFK" align="center" border="0" alt="\zeta (3) = \sum_{n=1}^{\infty} \frac{1}{n^3}" width="111" height="50" />
-* odmocnina 2 = 1.41421 - pomocou nekonečného číselného radu: <img src="https://bit.ly/3nbrjaL" align="center" border="0" alt="\sqrt{2} =  \prod_{k=0}^{\infty} \frac{(4k+2)^2}{(4k+1)(4k+3)}" width="215" height="53" />
+* *e* = 2.71828 - nekonečný číselný rad:
+<img src="e.png" border="0" alt="eulerovo cislo" />
+* zlatý rez *φ* = 1.61803 - pomocou Fibonacciho čísel, pomer dvoch po sebe idúcich čísel sa blíži k tejto hodnote:
+<img src="phi.png" border="0" alt="zlaty rez" />
+* Apéryho konštanta = 1.20205 - nekonečný číselný rad:
+<img src="zeta.png" border="0" alt="aperyho konstanta" />
+* odmocnina 2 = 1.41421 - pomocou nekonečného číselného radu:
+<img src="sqrt2.png" border="0" alt="odmocnina 2" />
 
 ## Domáca úloha 10 <a name="h10"></a>
 Desiata domáca úloha Vám umožní vylepšiť si bodové hodnotenie, a doplniť chýbajúce body do zápočtu. Na získanie 2 bodov máte tri možnosti:
