@@ -74,10 +74,13 @@ Na základe konkrétneho zadania potrebujete aproximovať konštanty:
 
 * *e* = 2.71828 - nekonečný číselný rad:
 <img src="e.png" border="0" alt="eulerovo cislo" />
+
 * zlatý rez *φ* = 1.61803 - pomocou Fibonacciho čísel, pomer dvoch po sebe idúcich čísel sa blíži k tejto hodnote:
 <img src="phi.png" border="0" alt="zlaty rez" />
+
 * Apéryho konštanta = 1.20205 - nekonečný číselný rad:
 <img src="zeta.png" border="0" alt="aperyho konstanta" />
+
 * odmocnina 2 = 1.41421 - pomocou nekonečného číselného radu:
 <img src="sqrt2.png" border="0" alt="odmocnina 2" />
 
