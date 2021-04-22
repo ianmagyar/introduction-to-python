@@ -34,7 +34,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 | 7. týždeň<br>29. 3. - 4. 4.   | Veľká Noc                                                       | [Hašovacia tabuľka](labs/lab07-hash-and-intro-to-OOP.ipynb) | Z1 odovzdanie                      |
 | 8. týždeň<br>5. 4. - 11. 4.   | [Objektovo orientované programovanie 1](lectures/Lecture-07.pdf)<br>([kódy](lectures/codes/lecture07.py))                           | Veľká Noc                                               | [Z2](assignments/assignment2.zip), [DÚ6](assignments/homeworks.md#h6), [DÚ10](assignments/homeworks.md#h10) publikované              |
 | 9. týždeň<br>12. 4. - 18. 4.  | [Objektovo orientované programovanie 2](lectures/Lecture-08.pdf)<br>([kódy](lectures/codes/lecture08.zip))                           | [Objektové riešenie zadania 1](labs/lab08-poker-in-oop.ipynb)                            | DÚ6 odovzdanie<br>[DÚ7 publikovaná](assignments/homeworks.md#h7)       |
-| 10. týždeň<br>19. 4. - 25. 4. | Test 3<br>Výpočtové modely a simulácia 1                        | [Simulácia letu komára](labs/lab09-mosquitoes.ipynb)    | DÚ7 odovzdanie<br>DÚ8 publikovaná      |
+| 10. týždeň<br>19. 4. - 25. 4. | Test 3<br>[Výpočtové modely a simulácia 1](lectures/Lecture-09.pdf)<br>([kódy](lectures/codes/lecture09.zip))                        | [Simulácia letu komára](labs/lab09-mosquitoes.ipynb)    | DÚ7 odovzdanie<br>[DÚ8 publikovaná](assignments/homeworks.md#h8)      |
 | 11. týždeň<br>26. 4. - 2. 5.  | Výpočtové modely a simulácia 2                                  | Výpočet hodnoty pi                                      | DÚ8 odovzdanie<br>DÚ9 publikovaná      |
 | 12. týždeň<br>3. 5. - 9. 5.   | Test 4<br>Pokročilé témy v programovaní v Pythone               | Simulácia účinku protiepidemiologických opatrení        | DÚ9 odovzdanie                         |
 | 13. týždeň<br>10. 5. - 16. 5. | -                                                               | konzultácie                                             | Z2 odovzdanie<br>DÚ10 odovzdanie       |
@@ -64,7 +64,7 @@ Priebežné hodnotenie nájdete [tu](https://docs.google.com/spreadsheets/d/1zLw
 5. [unit testy](assignments/homeworks.md#h5) (deadline 26. 3. 2021)
 6. [dynamické programovanie](assignments/homeworks.md#h6) (deadline 16. 4. 2021)
 7. [vytvorenie triedy z UML diagramu](assignments/homeworks.md#h7) (deadline 23. 4. 2021)
-8. výpočet konštánt (deadline 30. 4. 2021)
+8. [výpočet konštánt](assignments/homeworks.md#h8) (deadline 30. 4. 2021)
 9. biased random walk (deadline 7. 5. 2021)
 10. [oprava DÚ/grafické rozhranie pre zadanie 2](assignments/homeworks.md#h10) (deadline 14. 5. 2021)
 

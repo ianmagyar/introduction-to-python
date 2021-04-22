@@ -64,6 +64,19 @@ Každá trieda obsahuje jednu privátnu a jednu verejnú členskú premennú, a 
 
 [Ukážkové riešenie nájdete tu.](H07_example.pdf)
 
+## Domáca úloha 8 <a name="h8"></a>
+V domácej úlohe 8 budete aproximovať matematické konštanty pomocou nekonečných číselných radov a vizualizujete aj konvergenciu týchto radov k danej konštante. Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h08.py`, ktorý obsahuje kostru pre aproximáciu konštanty. Súbor obsahuje dve funkcie:
+
+* `plot_estimates(estimates)` - vykreslí graf s odhadovanými hodnotami po jednotlivých iteráciach (podobne ako riešenie 10. cvičenia). V grafe zobrazujte okrem odhadov aj skutočnú hodnotu konštanty ako horizontálnu priamku. Na vykresľovanie grafu použite knižnicu `matplotlib`.
+* `approximate_X(n)` - funkcia slúži na aproximáciu danej konštanty (namiesto `X`) pomocou prvých `n` členov nekonečného radu. Funkcia určí prvých `n` členov tejto postupnosti, a vypočíta `n` (alebo `n-1`) odhadov konštanty pomocou nich. Funkcia vráti zoznam týchto odhadov (ktorý môžete odovzdať ako parameter funkcii `plot_estimates`).
+
+Na základe konkrétneho zadania potrebujete aproximovať konštanty:
+
+* *e* = 2.71828 - nekonečný číselný rad: <img src="http://www.sciweavers.org/tex2img.php?eq=e%20%3D%20%5Csum_%7Bn%3D0%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B1%7D%7Bn%21%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="e = \sum_{n=0}^{\infty} \frac{1}{n!}" width="85" height="50" />
+* zlatý rez *φ* = 1.61803 - pomocou Fibonacciho čísel, pomer dvoch po sebe idúcich čísel sa blíži k tejto hodnote: <img src="https://bit.ly/3sA6G9j" align="center" border="0" alt=" \lim_{n \rightarrow \infty} \frac{Fib_{n+1}}{Fib_n} = \varphi" width="131" height="46" />
+* Apéryho konštanta = 1.20205 - nekonečný číselný rad: <img src="https://bit.ly/3gp3RFK" align="center" border="0" alt="\zeta (3) = \sum_{n=1}^{\infty} \frac{1}{n^3}" width="111" height="50" />
+* odmocnina 2 = 1.41421 - pomocou nekonečného číselného radu: <img src="https://bit.ly/3nbrjaL" align="center" border="0" alt="\sqrt{2} =  \prod_{k=0}^{\infty} \frac{(4k+2)^2}{(4k+1)(4k+3)}" width="215" height="53" />
+
 ## Domáca úloha 10 <a name="h10"></a>
 Desiata domáca úloha Vám umožní vylepšiť si bodové hodnotenie, a doplniť chýbajúce body do zápočtu. Na získanie 2 bodov máte tri možnosti:
 
