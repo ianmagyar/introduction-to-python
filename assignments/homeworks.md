@@ -84,6 +84,13 @@ Na základe konkrétneho zadania potrebujete aproximovať konštanty:
 * odmocnina 2 = 1.41421 - pomocou nekonečného číselného radu:
 <img src="sqrt2.png" border="0" alt="odmocnina 2" />
 
+## Domáca úloha 9 <a name="h9"></a>
+
+Na úložisku pre odovzdávanie zadaní nájdete Python skript s názvom `h09.py`, ktorý obsahuje kód pre random walku z prednášky. Vašou úlohou je doplniť funkcionalitu (metóda `move`) pre triedy `UnsureDrunk` alebo `BiasedDrunk` nasledovne:
+
+* `UnsureDrunk` - nikdy neurobí krok v tom istom smere dvakrát po sebe.
+* `BiasedDrunk` - reprezentuje človeka, ktorý sa vyberie rôznymi pravdepodobnosti do rôznych smerov. Pravdepodobnosti nájdete v komentároch v definícii funkcie `move`. Aktér ďalej urobí dlhší krok vo vybranom smere (smer určený v komentároch na rovnakom mieste).
+
 ## Domáca úloha 10 <a name="h10"></a>
 Desiata domáca úloha Vám umožní vylepšiť si bodové hodnotenie, a doplniť chýbajúce body do zápočtu. Na získanie 2 bodov máte tri možnosti:
 
