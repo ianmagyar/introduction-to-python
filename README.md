@@ -23,6 +23,8 @@ Prednášky sú vo štvrtok o 13:30 v miestnosti v budove. Účasť na prednáš
 
 Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v utorok o 9:10 (PK6_107 - PC16), 10:50 (PK6_107 - PC16) a 13:30 (V4 - V147). Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení po dohode s vyučujúcim alebo vypracovaním cvičenia pre daný týždeň a poslaním riešenia vyučujúcemu.
 
+[Orgnizačné informácie o predmete nájdete v tomto dokumente.](lectures/Lecture-00.pdf)
+
 |                               |                           Prednáška                          |                  Cvičenie                 |                        Termíny                          |
 |:-----------------------------:|:------------------------------------------------------------:|:-----------------------------------------:|---------------------------------------------------------|
 |  1. týždeň<br>14. 2. - 20. 2. |        Syntax, jazykové konštrukty, vývojové diagramy        |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |            Z1 publikované<br>D1 publikovaná             |
