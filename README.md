@@ -25,7 +25,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 
 |                               |                           Prednáška                          |                  Cvičenie                 |                        Termíny                          |
 |:-----------------------------:|:------------------------------------------------------------:|:-----------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>14. 2. - 20. 2. |        Syntax, jazykové konštrukty, vývojové diagramy        |   Nastavenie programátorského prostredia  |            Z1 publikované<br>D1 publikovaná             |
+|  1. týždeň<br>14. 2. - 20. 2. |        Syntax, jazykové konštrukty, vývojové diagramy        |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |            Z1 publikované<br>D1 publikovaná             |
 |  2. týždeň<br>21. 2. - 27. 2. |         Funkcie, rekurzia, generátory, lambda výrazy         |          Prvé programy v Pythone          |             D1 odovzdávka<br>D2 publikovaná             |
 |  3. týždeň<br>28. 2. - 6. 3.  |         Reťazce, zoznamy, n-tice, mapy, polia, pandas        |               Algoritmizácia              |             D2 odovzdávka<br>D3 publikovaná             |
 |  4. týždeň<br>7. 3. - 13. 3.  |        Test1<br>Testovanie, ladenie, výnimky a chyby         | Práca so základnými údajovými štruktúrami |             D3 odovzdávka<br>D4 publikovaná             |
@@ -70,9 +70,9 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 
 ### Zadania <a name="assignments"></a>
 1. Algoritmické riešenie vybraných úloh (deadline 1. 4. 2022)
-    * Čo máme na obed?
-    * Wordle
-    * projekt riešenia
+    * [Čo máme na obed?](assignments/Znenie_1a.pdf)
+    * [Wordle](assignments/Znenie_1b.pdf)
+    * [projekt riešenia](assignments/assignment1.zip)
 
 2. Simulácia (deadline 14. 5. 2022)
 
