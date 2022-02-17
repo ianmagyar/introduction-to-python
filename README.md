@@ -27,7 +27,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 
 |                               |                           Prednáška                          |                  Cvičenie                 |                        Termíny                          |
 |:-----------------------------:|:------------------------------------------------------------:|:-----------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>14. 2. - 20. 2. |        Syntax, jazykové konštrukty, vývojové diagramy        |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |            [Z1 publikované](assignments/assignment1.zip)<br>D1 publikovaná             |
+|  1. týždeň<br>14. 2. - 20. 2. |        [Syntax, jazykové konštrukty, vývojové diagramy](lectures/Lecture-01.pdf)        |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |            [Z1 publikované](assignments/assignment1.zip)<br>[D1 publikovaná](assignments/homeworks/homework1.md)             |
 |  2. týždeň<br>21. 2. - 27. 2. |         Funkcie, rekurzia, generátory, lambda výrazy         |          Prvé programy v Pythone          |             D1 odovzdávka<br>D2 publikovaná             |
 |  3. týždeň<br>28. 2. - 6. 3.  |         Reťazce, zoznamy, n-tice, mapy, polia, pandas        |               Algoritmizácia              |             D2 odovzdávka<br>D3 publikovaná             |
 |  4. týždeň<br>7. 3. - 13. 3.  |        Test1<br>Testovanie, ladenie, výnimky a chyby         | Práca so základnými údajovými štruktúrami |             D3 odovzdávka<br>D4 publikovaná             |
@@ -59,7 +59,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 [Stav priebežného hodnotenia nájdete tu](https://docs.google.com/spreadsheets/d/1owm8WAxbDqVk4_Di9CGoAzO9nlUqUYuhekkErW-PNc0/edit?usp=sharing).
 
 ### Domáce úlohy <a name="homeworks"></a>
-1. implementácia jednoduchej úlohy, vývojové diagramy (deadline 25. 2. 2022)
+1. [implementácia jednoduchej úlohy, vývojové diagramy](assignments/homeworks/homework1.md) (deadline 25. 2. 2022)
 2. generátory, použitie lambda výrazov a funkcie (deadline 4. 3. 2022)
 3. práca s knižnicami pandas a numpy, list comprehension (deadline 11. 3. 2022)
 4. ošetrenie chýb (deadline 18. 3. 2022)
