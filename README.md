@@ -31,7 +31,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 |  2. týždeň<br>21. 2. - 27. 2. |         [Funkcie, rekurzia, generátory, lambda výrazy](lectures/Lecture-02.pdf)<br>([kód z prednášky](lectures/codes/lecture02.py))         |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |             D1 odovzdávka<br>[D2 publikovaná](assignments/homeworks/homework2.md)             |
 |  3. týždeň<br>28. 2. - 6. 3.  |         [Reťazce, zoznamy, n-tice, mapy, polia, pandas](lectures/Lecture-03.pdf)<br>([kód z prednášky](lectures/codes/lecture03.ipynb))        |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |             D2 odovzdávka<br>[D3 publikovaná](assignments/homeworks/homework3.md)             |
 |  4. týždeň<br>7. 3. - 13. 3.  |        Test1 ([ukážka](tests/T1-sample.pdf))<br>[Testovanie, ladenie, výnimky a chyby](lectures/Lecture-04.pdf)<br>([kód z prednášky](lectures/codes/lecture04.py))         | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |             D3 odovzdávka<br>[D4 publikovaná](assignments/homeworks/homework4.md)             |
-|  5. týždeň<br>14. 3. - 20. 3. | Zložitosť algoritmov, optimalizácia, dynamické programovanie |          [Defenzívne programovanie](labs/lab05-defensive-programming.ipynb)         |             D4 odovzdávka<br>D5 publikovaná             |
+|  5. týždeň<br>14. 3. - 20. 3. | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf) |          [Defenzívne programovanie](labs/lab05-defensive-programming.ipynb)         |             D4 odovzdávka<br>[D5 publikovaná](assignments/homeworks/homework5.md)             |
 |  6. týždeň<br>21. 3. - 27. 3. |    Test 2<br>Úvod do objektovo orientovaného programovania   |             Flip hats problém             |                      D5 odovzdávka                      |
 |  7. týždeň<br>28. 3. - 3. 4.  |             Objektovo orientované programovanie 1            |       Hašovacia tabuľka a ukážka OOP      |             Z1 odovzdávka<br>D6 publikovaná             |
 |  8. týždeň<br>4. 4. - 10. 4.  |             Objektovo orientované programovanie 2            |        Objektové riešenie zadania 1       | D6 odovzdávka<br>D7 publikovaná<br>Z2 a D10 publikované |
@@ -63,7 +63,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 2. [generátory, použitie lambda výrazov a funkcie](assignments/homeworks/homework2.md) (deadline 4. 3. 2022)
 3. [práca s knižnicami pandas a numpy, list comprehension](assignments/homeworks/homework3.md) (deadline 11. 3. 2022)
 4. [ošetrenie chýb](assignments/homeworks/homework4.md) (deadline 18. 3. 2022)
-5. písanie unit testov (deadline 25. 3. 2022)
+5. [písanie unit testov](assignments/homeworks/homework5.md) (deadline 25. 3. 2022)
 6. vytvorenie triedy z UML diagramu (deadline 8. 4. 2022)
 7. hierarchia tried (deadline 15. 4. 2022)
 8. generovanie grafov (deadline 29. 4. 2022)
