@@ -33,7 +33,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 |  4. týždeň<br>7. 3. - 13. 3.  |        Test1 ([ukážka](tests/T1-sample.pdf))<br>[Testovanie, ladenie, výnimky a chyby](lectures/Lecture-04.pdf)<br>([kód z prednášky](lectures/codes/lecture04.py))         | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |             D3 odovzdávka<br>[D4 publikovaná](assignments/homeworks/homework4.md)             |
 |  5. týždeň<br>14. 3. - 20. 3. | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.py)) |          [Defenzívne programovanie](labs/lab05-defensive-programming.ipynb)         |             D4 odovzdávka<br>[D5 publikovaná](assignments/homeworks/homework5.md)             |
 |  6. týždeň<br>21. 3. - 27. 3. |    [Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.py))   |             [Flip hats](labs/lab06-flipping-hats.ipynb) problém             |                      D5 odovzdávka                      |
-|  7. týždeň<br>28. 3. - 3. 4.  |   Test 2 ([ukážka](tests/T2-sample.pdf))<br>Objektovo orientované programovanie 1  |       [Hašovacia tabuľka a ukážka OOP](labs/lab07-hash-and-intro-to-OOP.ipynb)      |             Z1 odovzdávka<br>D6 publikovaná             |
+|  7. týždeň<br>28. 3. - 3. 4.  |   Test 2 ([ukážka](tests/T2-sample.pdf))<br>[Princípy objektovo orientovaného programovania](lectures/Lecture-07.pdf)  |       [Hašovacia tabuľka a ukážka OOP](labs/lab07-hash-and-intro-to-OOP.ipynb)      |             Z1 odovzdávka<br>[D6 publikovaná](assignments/homeworks/homework6.md)             |
 |  8. týždeň<br>4. 4. - 10. 4.  |             Objektovo orientované programovanie 2            |        Objektové riešenie zadania 1       | D6 odovzdávka<br>D7 publikovaná<br>Z2 a D10 publikované |
 |  9. týždeň<br>11. 4. - 17. 4. |                           Veľká Noc                          |             Postavy v 2D svete            |                      D7 odovzdávka                      |
 | 10. týždeň<br>18. 4. - 24. 4. |                Test 3<br>Jednoduché simulácie                |                 Veľká Noc                 |                      D8 publikovaná                     |
@@ -64,7 +64,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 3. [práca s knižnicami pandas a numpy, list comprehension](assignments/homeworks/homework3.md) (deadline 11. 3. 2022)
 4. [ošetrenie chýb](assignments/homeworks/homework4.md) (deadline 18. 3. 2022)
 5. [písanie unit testov](assignments/homeworks/homework5.md) (deadline 25. 3. 2022)
-6. vytvorenie triedy z UML diagramu (deadline 8. 4. 2022)
+6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework6.md) (deadline 8. 4. 2022)
 7. hierarchia tried (deadline 15. 4. 2022)
 8. generovanie grafov (deadline 29. 4. 2022)
 9. implementácia simulácie (deadline 6. 5. 2022)
@@ -76,7 +76,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
     * [Wordle](assignments/Znenie_1b.pdf)
     * [projekt riešenia](assignments/assignment1.zip)
 
-2. Simulácia (deadline 14. 5. 2022)
+2. Simulácia (deadline 13. 5. 2022)
 
 <!--### Skúška <a name="exam"></a>-->
 
