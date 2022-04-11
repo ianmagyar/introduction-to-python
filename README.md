@@ -34,8 +34,8 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 |  5. týždeň<br>14. 3. - 20. 3. | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.py)) |          [Defenzívne programovanie](labs/lab05-defensive-programming.ipynb)         |             D4 odovzdávka<br>[D5 publikovaná](assignments/homeworks/homework5.md)             |
 |  6. týždeň<br>21. 3. - 27. 3. |    [Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.py))   |             [Flip hats](labs/lab06-flipping-hats.ipynb) problém             |                      D5 odovzdávka                      |
 |  7. týždeň<br>28. 3. - 3. 4.  |   Test 2 ([ukážka](tests/T2-sample.pdf))<br>[Princípy objektovo orientovaného programovania](lectures/Lecture-07.pdf)<br>([kódy z prednášky](lectures/codes/lecture07.zip))  |       [Hašovacia tabuľka a ukážka OOP](labs/lab07-hash-and-intro-to-OOP.ipynb)      |             Z1 odovzdávka<br>[D6 publikovaná](assignments/homeworks/homework6.md)             |
-|  8. týždeň<br>4. 4. - 10. 4.  |             [Metametódy a hierarchia tried](lectures/Lecture-08.pdf)<br>([kódy z prednášky](lectures/codes/lecture08.zip))            |        [Modelovanie hry poker pomocou OOP](labs/lab08-poker-with-oop.ipynb)       | D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework7.md)<br>Z2 a [D10](assignments/homeworks/homework10.md) publikované |
-|  9. týždeň<br>11. 4. - 17. 4. |                           Veľká Noc                          |             [Postavy v 2D svete](labs/lab09-agents-in-2d.ipynb)            |                      D7 odovzdávka                      |
+|  8. týždeň<br>4. 4. - 10. 4.  |             [Metametódy a hierarchia tried](lectures/Lecture-08.pdf)<br>([kódy z prednášky](lectures/codes/lecture08.zip))            |        [Modelovanie hry poker pomocou OOP](labs/lab08-poker-with-oop.ipynb)       | D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework7.md)<br>[D10](assignments/homeworks/homework10.md) publikovaná |
+|  9. týždeň<br>11. 4. - 17. 4. |                           Veľká Noc                          |             [Postavy v 2D svete](labs/lab09-agents-in-2d.ipynb)            |                      D7 odovzdávka<br>[Z2 publikované](assignments/assignment2.zip)                      |
 | 10. týždeň<br>18. 4. - 24. 4. |                Test 3<br>Jednoduché simulácie                |                 Veľká Noc                 |                      D8 publikovaná                     |
 |  11. týždeň<br>25. 4. - 1. 5. |                Výpočtové modely a simulácie 1                |        Let komára, návrh simulácií        |             D8 odovzdávka<br>D9 publikovaná             |
 |  12. týždeň<br>2. 5. - 8. 5.  |                Výpočtové modely a simulácie 2                |  Simulácia nástupu pasažierov do lietadla |                      D9 odovzdávka                      |
@@ -76,7 +76,9 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
     * [Wordle](assignments/Znenie_1b.pdf)
     * [projekt riešenia](assignments/assignment1.zip)
 
-2. Simulácia (deadline 13. 5. 2022)
+2. Simulácia šírenia správ (deadline 13. 5. 2022)
+    * [znenie zadania](assignments/Znenie_2.pdf)
+    * [projekt riešenia](assignments/assignment2.zip)
 
 <!--### Skúška <a name="exam"></a>-->
 
