@@ -79,6 +79,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 2. Simulácia šírenia správ (deadline 13. 5. 2022)
     * [znenie zadania](assignments/Znenie_2.pdf)
     * [projekt riešenia](assignments/assignment2.zip)
+    * [ukážkové testy](assignments/a2_tests.zip)
 
 <!--### Skúška <a name="exam"></a>-->
 
