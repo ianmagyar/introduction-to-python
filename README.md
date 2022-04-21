@@ -36,9 +36,9 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v ut
 |  7. týždeň<br>28. 3. - 3. 4.  |   Test 2 ([ukážka](tests/T2-sample.pdf))<br>[Princípy objektovo orientovaného programovania](lectures/Lecture-07.pdf)<br>([kódy z prednášky](lectures/codes/lecture07.zip))  |       [Hašovacia tabuľka a ukážka OOP](labs/lab07-hash-and-intro-to-OOP.ipynb)      |             Z1 odovzdávka<br>[D6 publikovaná](assignments/homeworks/homework6.md)             |
 |  8. týždeň<br>4. 4. - 10. 4.  |             [Metametódy a hierarchia tried](lectures/Lecture-08.pdf)<br>([kódy z prednášky](lectures/codes/lecture08.zip))            |        [Modelovanie hry poker pomocou OOP](labs/lab08-poker-with-oop.ipynb)       | D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework7.md)<br>[D10](assignments/homeworks/homework10.md) publikovaná |
 |  9. týždeň<br>11. 4. - 17. 4. |                           Veľká Noc                          |             [Postavy v 2D svete](labs/lab09-agents-in-2d.ipynb)            |                      D7 odovzdávka<br>[Z2 publikované](assignments/assignment2.zip)                      |
-| 10. týždeň<br>18. 4. - 24. 4. |                Test 3 ([ukážka](tests/T3-sample.pdf))<br>Jednoduché simulácie                |                 Veľká Noc                 |                      D8 publikovaná                     |
-|  11. týždeň<br>25. 4. - 1. 5. |                Výpočtové modely a simulácie 1                |        Let komára, návrh simulácií        |             D8 odovzdávka<br>D9 publikovaná             |
-|  12. týždeň<br>2. 5. - 8. 5.  |                Výpočtové modely a simulácie 2                |  Simulácia nástupu pasažierov do lietadla |                      D9 odovzdávka                      |
+| 10. týždeň<br>18. 4. - 24. 4. |                Test 3 ([ukážka](tests/T3-sample.pdf))<br>[Jednoduché simulácie](lectures/Lecture-09.pdf) ([kódy z prednášky](lectures/codes/lecture09.zip))               |                 Veľká Noc                 |                      [D8 publikovaná](assignments/homeworks/homework8.md)                     |
+|  11. týždeň<br>25. 4. - 1. 5. |                Výpočtové modely a simulácie 1                |        [Simulácia letu komára, návrh simulácií](labs/lab10-mosquitos.ipynb)        |             D8 odovzdávka<br>D9 publikovaná             |
+|  12. týždeň<br>2. 5. - 8. 5.  |                Výpočtové modely a simulácie 2                |  [Simulácia nástupu pasažierov do lietadla](labs/lab11-boarding-planes.ipynb) |                      D9 odovzdávka                      |
 |  13. týždeň<br>9. 5. - 15. 5. |                   Test 4<br>GUI v Pythone                    |            odovzdávanie zadaní            |             Z2 odovzdávka<br>D10 odovzdávka             |
 
 ## Hodnotenie <a name="grading"></a>
@@ -66,7 +66,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 5. [písanie unit testov](assignments/homeworks/homework5.md) (deadline 25. 3. 2022)
 6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework6.md) (deadline 8. 4. 2022)
 7. [hierarchia tried](assignments/homeworks/homework7.md) (deadline 15. 4. 2022)
-8. generovanie grafov (deadline 29. 4. 2022)
+8. [generovanie grafov](assignments/homeworks/homework8.md) (deadline 29. 4. 2022)
 9. implementácia simulácie (deadline 6. 5. 2022)
 10. [oprava DÚ](assignments/homeworks/homework10.md) (deadline 13. 5. 2022)
 
