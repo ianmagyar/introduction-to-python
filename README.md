@@ -24,7 +24,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 
 |                               |                  Cvičenie                 |                           Prednáška                          |                        Termíny                          |
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>13. 2. - 19. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        Syntax, jazykové konštrukty, vývojové diagramy        |            Z1 publikované<br>D1 publikovaná             |
+|  1. týždeň<br>13. 2. - 19. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        Syntax, jazykové konštrukty, vývojové diagramy        |            Z1 publikované<br>[D1 publikovaná](assignments/homeworks/homework01.md)             |
 |  2. týždeň<br>20. 2. - 26. 2. |          Prvé programy v Pythone          |         Funkcie, rekurzia, generátory, lambda výrazy         |                      D2 publikovaná                     |
 |  3. týždeň<br>27. 2. - 5. 3.  |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |           D1, D2 odovzdávka<br>D3 publikovaná           |
 |  4. týždeň<br>6. 3. - 12. 3.  | Práca so základnými údajovými štruktúrami |        Test1<br>Testovanie, ladenie, výnimky a chyby         |             D3 odovzdávka<br>D4 publikovaná             |
@@ -54,15 +54,15 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 | programovacia úloha |  20  |
 
 ### Domáce úlohy <a name="homeworks"></a>
-1. implementácia jednoduchej úlohy, vývojové diagramy (deadline 3. 3. 2023)
-2. generátory, použitie lambda výrazov a funkcie (deadline 3. 3. 2023)
-3. práca s knižnicami pandas a numpy, list comprehension (deadline 10. 3. 2023)
+1. [ciele a očakávania](assignments/homeworks/homework01.md) (deadline 3. 3. 2023)
+2. funkcie (deadline 3. 3. 2023)
+3. použitie lambda výrazov a list comprehension (deadline 10. 3. 2023)
 4. ošetrenie chýb (deadline 17. 3. 2023)
 5. písanie unit testov (deadline 24. 3. 2023)
 6. vytvorenie triedy z UML diagramu (deadline 31. 3. 2023)
-7. hierarchia tried (deadline 7. 4. 2023)
+7. hierarchia tried a metametódy (deadline 7. 4. 2023)
 8. generovanie grafov (deadline 28. 4. 2023)
-9. implementácia simulácie (deadline 5. 5. 2023)
+9. použitie knižníc numpy a pandas (deadline 5. 5. 2023)
 10. oprava DÚ (deadline 12. 5. 2023)
 
 ### Zadania <a name="assignments"></a>
