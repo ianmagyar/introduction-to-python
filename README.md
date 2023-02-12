@@ -1,6 +1,6 @@
 # Programovanie v jazyku Python
 
-**Programovanie v jazyku Python** je kurz programovania ponúknutý v letnom semestri prvého ročníku bakalárskeho štúdia pre študijný program Inteligentné systémy. Predmet nadväzuje na kurz [Základy algoritmizácie a programovania](https://kurzy.kpi.fei.tuke.sk/zap/). Venuje sa pokročilým témam programovania v jazyku Python, ako údajové štruktúry, základné algoritmy, návrh a analýza algoritmov, objektovo orientované programovanie, modelovania a vytvorenie simulácií. Úspešný absolvent predmetu je schopný napísať zložitejšie kódy, porozumieť kódom napísaným inými programátormi, namapovať problémy z rôznych domén na výpočtové problémy a vyhodnotiť navrhnuté riešenia.
+**Programovanie v jazyku Python** je kurz programovania ponúkaný v letnom semestri prvého ročníka bakalárskeho štúdia pre študijný program Inteligentné systémy. Predmet nadväzuje na kurz [Základy algoritmizácie a programovania](https://kurzy.kpi.fei.tuke.sk/zap/). Venuje sa pokročilým témam programovania v jazyku Python, ako údajové štruktúry, základné algoritmy, návrh a analýza algoritmov, objektovo orientované programovanie, modelovania a vytvorenie simulácií. Úspešný absolvent predmetu je schopný napísať zložitejšie kódy, porozumieť kódom napísaným inými programátormi, namapovať problémy z rôznych domén na výpočtové problémy a vyhodnotiť navrhnuté riešenia.
 
 Informačný list predmetu je dostupný na [školskom portáli](https://maisportal.tuke.sk/portal/studijneProgramy.mais).
 
@@ -16,70 +16,59 @@ Vyučujúci predmetu: [Ing. Ján Magyar, PhD.](http://www.cloudai.sk/people-janm
 4. [Etický kódex](#collaboration)
 
 ## Plán prednášok a cvičení <a name="plan"></a>
-
-**Vzhľadom na pretrvávajúce opatrenia v súvislosti s pandémiou COVID-19 všetky prednášky a cvičenia sú online až do odvolania.**
-
 Prednášky sú vo štvrtok o 13:30 v miestnosti L4 v budove PK7. Účasť na prednáške nie je povinná.
 
-Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1) a 15:10 (PK6_108 - PC17), a v utorok o 9:10 (PK6_107 - PC16), 10:50 (PK6_107 - PC16) a 13:30 (V4 - V147). Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení po dohode s vyučujúcim alebo vypracovaním cvičenia pre daný týždeň a poslaním riešenia vyučujúcemu.
+Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC1), 9:10 (PK6_107 - PC16) a 10:50 (PK6_107 - PC16). Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení po dohode s vyučujúcim alebo vypracovaním cvičenia pre daný týždeň a poslaním riešenia vyučujúcemu.
 
 [Orgnizačné informácie o predmete nájdete v tomto dokumente.](lectures/Lecture-00.pdf)
 
-|                               |                           Prednáška                          |                  Cvičenie                 |                        Termíny                          |
-|:-----------------------------:|:------------------------------------------------------------:|:-----------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>14. 2. - 20. 2. |        [Syntax, jazykové konštrukty, vývojové diagramy](lectures/Lecture-01.pdf)<br>([kód z prednášky](lectures/codes/lecture01.py))        |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |            [Z1 publikované](assignments/assignment1.zip)<br>[D1 publikovaná](assignments/homeworks/homework1.md)             |
-|  2. týždeň<br>21. 2. - 27. 2. |         [Funkcie, rekurzia, generátory, lambda výrazy](lectures/Lecture-02.pdf)<br>([kód z prednášky](lectures/codes/lecture02.py))         |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |             D1 odovzdávka<br>[D2 publikovaná](assignments/homeworks/homework2.md)             |
-|  3. týždeň<br>28. 2. - 6. 3.  |         [Reťazce, zoznamy, n-tice, mapy, polia, pandas](lectures/Lecture-03.pdf)<br>([kód z prednášky](lectures/codes/lecture03.ipynb))        |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |             D2 odovzdávka<br>[D3 publikovaná](assignments/homeworks/homework3.md)             |
-|  4. týždeň<br>7. 3. - 13. 3.  |        Test1 ([ukážka](tests/T1-sample.pdf))<br>[Testovanie, ladenie, výnimky a chyby](lectures/Lecture-04.pdf)<br>([kód z prednášky](lectures/codes/lecture04.py))         | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |             D3 odovzdávka<br>[D4 publikovaná](assignments/homeworks/homework4.md)             |
-|  5. týždeň<br>14. 3. - 20. 3. | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.py)) |          [Defenzívne programovanie](labs/lab05-defensive-programming.ipynb)         |             D4 odovzdávka<br>[D5 publikovaná](assignments/homeworks/homework5.md)             |
-|  6. týždeň<br>21. 3. - 27. 3. |    [Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.py))   |             [Flip hats](labs/lab06-flipping-hats.ipynb) problém             |                      D5 odovzdávka                      |
-|  7. týždeň<br>28. 3. - 3. 4.  |   Test 2 ([ukážka](tests/T2-sample.pdf))<br>[Princípy objektovo orientovaného programovania](lectures/Lecture-07.pdf)<br>([kódy z prednášky](lectures/codes/lecture07.zip))  |       [Hašovacia tabuľka a ukážka OOP](labs/lab07-hash-and-intro-to-OOP.ipynb)      |             Z1 odovzdávka<br>[D6 publikovaná](assignments/homeworks/homework6.md)             |
-|  8. týždeň<br>4. 4. - 10. 4.  |             [Metametódy a hierarchia tried](lectures/Lecture-08.pdf)<br>([kódy z prednášky](lectures/codes/lecture08.zip))            |        [Modelovanie hry poker pomocou OOP](labs/lab08-poker-with-oop.ipynb)       | D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework7.md)<br>[D10](assignments/homeworks/homework10.md) publikovaná |
-|  9. týždeň<br>11. 4. - 17. 4. |                           Veľká Noc                          |             [Postavy v 2D svete](labs/lab09-agents-in-2d.ipynb)            |                      D7 odovzdávka<br>[Z2 publikované](assignments/assignment2.zip)                      |
-| 10. týždeň<br>18. 4. - 24. 4. |                Test 3 ([ukážka](tests/T3-sample.pdf))<br>[Jednoduché simulácie](lectures/Lecture-09.pdf) ([kódy z prednášky](lectures/codes/lecture09.zip))               |                 Veľká Noc                 |                      [D8 publikovaná](assignments/homeworks/homework8.md)                     |
-|  11. týždeň<br>25. 4. - 1. 5. |                [Výpočtové modely a simulácie 1](lectures/Lecture-10.pdf)<br>([kódy z prednášky](lectures/codes/lecture10.zip))                |        [Simulácia letu komára, návrh simulácií](labs/lab10-mosquitos.ipynb)        |             D8 odovzdávka<br>[D9 publikovaná](assignments/homeworks/homework9.md)             |
-|  12. týždeň<br>2. 5. - 8. 5.  |                [Výpočtové modely a simulácie 2](lectures/Lecture-11.pdf)<br>([kódy z prednášky](lectures/codes/lecture11.zip)                |  [Simulácia nástupu pasažierov do lietadla](labs/lab11-boarding-planes.ipynb) |                      D9 odovzdávka                      |
-|  13. týždeň<br>9. 5. - 15. 5. |                   Test 4<br>GUI v Pythone                    |            odovzdávanie zadaní            |             Z2 odovzdávka<br>D10 odovzdávka             |
+|                               |                  Cvičenie                 |                           Prednáška                          |                        Termíny                          |
+|:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
+|  1. týždeň<br>13. 2. - 19. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        Syntax, jazykové konštrukty, vývojové diagramy        |            Z1 publikované<br>D1 publikovaná             |
+|  2. týždeň<br>20. 2. - 26. 2. |          Prvé programy v Pythone          |         Funkcie, rekurzia, generátory, lambda výrazy         |                      D2 publikovaná                     |
+|  3. týždeň<br>27. 2. - 5. 3.  |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |           D1, D2 odovzdávka<br>D3 publikovaná           |
+|  4. týždeň<br>6. 3. - 12. 3.  | Práca so základnými údajovými štruktúrami |        Test1<br>Testovanie, ladenie, výnimky a chyby         |             D3 odovzdávka<br>D4 publikovaná             |
+|  5. týždeň<br>13. 3. - 19. 3. |                   Wordle                  | Zložitosť algoritmov, optimalizácia, dynamické programovanie |         Z1, D4 odovzdávka<br>Z2, D5 publikované         |
+|  6. týždeň<br>20. 3. - 26. 3. |             Kedy na Jedličku?             |    Test 2<br>Úvod do objektovo orientovaného programovania   |             D5 odovzdávka<br>D6 publikovaná             |
+|  7. týždeň<br>27. 3. - 2. 4.  |             Wordle pomocou OOP            |                   Princípy OOP a metametódy                  |             D6 odovzdávka<br>D7 publikovaná             |
+|  8. týždeň<br>3. 4. - 9. 4.   |     Modelovanie hry poker pomocou OOP     |                           Veľká Noc                          |                      D7 odovzdávka                      |
+|  9. týždeň<br>10. 4. - 16. 4. |                 Veľká Noc                 |                Test 3<br>Jednoduché simulácie                |             Z2 odovzdávka<br>Z3 publikované             |
+| 10. týždeň<br>17. 4. - 23. 4. |           Výpočet hodnoti pi              |                Výpočtové modely a simulácie                  |                      D8 publikovaná                     |
+| 11. týždeň<br>24. 4. - 30. 4. |   Simulácia letu komára, návrh simulácií  |                        Numpy a pandas                        |           D8 odovzdávka<br>D9, D10 publikované          |
+| 12. týždeň<br>1. 5. - 7. 5.   |         Vedecké výpočty v Pythone         |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
+| 13. týždeň<br>8. 5. - 14. 5.  |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |             Z3 odovzdávka<br>D10 odovzdávka             |
 
 ## Hodnotenie <a name="grading"></a>
 
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov zo zápočtu a zo skúšky.
 
-Zápočet sa skladá z dvoch častí: 10 domácich úloh po 2 body, a 2 zadania za 10 bodov. Na vypracovanie domácich úloh majú študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania), počas semestra môže študent odovzdať max. 2 domáce úlohy po deadline bez straty bodov, inak sa udeľuje maximálne 1 bod (ak študent odovzdá riešenie do konca daného týždňa). Zadanie 1 bude zverejnené v prvom, Zadanie 2 v ôsmom týždni semestra. Deadline pre domáce úlohy a zadania je v piatok 18:00.
+Zápočet sa skladá z dvoch častí: 10 domácich úloh po 1 bod, a 3 zadania za 10 bodov. Na vypracovanie domácich úloh majú študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania), počas semestra môže študent odovzdať max. 2 domáce úlohy po deadline bez straty bodov, inak sa udeľuje maximálne 0,5 boda (ak študent odovzdá riešenie do konca daného týždňa). Zadanie 1 bude zverejnené v prvom, Zadanie 2 v piatom, a Zadanie 3 v deviatom týždni semestra. Deadline pre domáce úlohy a zadania je v piatok 18:00.
 
-Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo štyroch testov, ktoré sa píšu počas semestra na prednáškach. Na skúške majú študenti možnosť znova napísať ľubovoľné časti aby si vylepšili celkové hodnotenie (do úvahy sa berie lepšie napísaný test). Praktická časť sa skladá z jedného projektu na programovanie. Úloha bude zverejnená deň pred skúškou, študenti na skúške obhajujú už hotové riešenia a následne rozšíria svoje riešenia. Na skúške potrebujete získať viac ako polovicu bodov na oboch častiach.
+Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo štyroch testov, ktoré sa píšu počas semestra na prednáškach. Na skúške majú študenti možnosť znova napísať ľubovoľné časti aby si vylepšili celkové hodnotenie (do úvahy sa berie lepšie napísaný test). Praktická časť sa skladá z jedného projektu na programovanie. Úloha bude zverejnená deň pred skúškou, študenti na skúške obhajujú už hotové riešenia a následne rozšíria svoje riešenia. Na skúške potrebujete získať viac ako polovicu bodov z oboch častí.
 
 |        Zložka       | Body |
 |:-------------------:|:----:|
-|       10 úloh       |  20  |
-|      2 zadanie      |  20  |
+|       10 úloh       |  10  |
+|      3 zadania      |  30  |
 |       4 testy       |  40  |
 | programovacia úloha |  20  |
 
-[Stav priebežného hodnotenia nájdete tu](https://docs.google.com/spreadsheets/d/1owm8WAxbDqVk4_Di9CGoAzO9nlUqUYuhekkErW-PNc0/edit?usp=sharing).
-
 ### Domáce úlohy <a name="homeworks"></a>
-1. [implementácia jednoduchej úlohy, vývojové diagramy](assignments/homeworks/homework1.md) (deadline 25. 2. 2022)
-2. [generátory, použitie lambda výrazov a funkcie](assignments/homeworks/homework2.md) (deadline 4. 3. 2022)
-3. [práca s knižnicami pandas a numpy, list comprehension](assignments/homeworks/homework3.md) (deadline 11. 3. 2022)
-4. [ošetrenie chýb](assignments/homeworks/homework4.md) (deadline 18. 3. 2022)
-5. [písanie unit testov](assignments/homeworks/homework5.md) (deadline 25. 3. 2022)
-6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework6.md) (deadline 8. 4. 2022)
-7. [hierarchia tried](assignments/homeworks/homework7.md) (deadline 15. 4. 2022)
-8. [generovanie grafov](assignments/homeworks/homework8.md) (deadline 29. 4. 2022)
-9. [implementácia simulácie](assignments/homeworks/homework9.md) (deadline 6. 5. 2022)
-10. [oprava DÚ](assignments/homeworks/homework10.md) (deadline 13. 5. 2022)
+1. implementácia jednoduchej úlohy, vývojové diagramy (deadline 3. 3. 2023)
+2. generátory, použitie lambda výrazov a funkcie (deadline 3. 3. 2023)
+3. práca s knižnicami pandas a numpy, list comprehension (deadline 10. 3. 2023)
+4. ošetrenie chýb (deadline 17. 3. 2023)
+5. písanie unit testov (deadline 24. 3. 2023)
+6. vytvorenie triedy z UML diagramu (deadline 31. 3. 2023)
+7. hierarchia tried (deadline 7. 4. 2023)
+8. generovanie grafov (deadline 28. 4. 2023)
+9. implementácia simulácie (deadline 5. 5. 2023)
+10. oprava DÚ (deadline 12. 5. 2023)
 
 ### Zadania <a name="assignments"></a>
-1. Algoritmické riešenie vybraných úloh (deadline 1. 4. 2022)
-    * [Čo máme na obed?](assignments/Znenie_1a.pdf)
-    * [Wordle](assignments/Znenie_1b.pdf)
-    * [projekt riešenia](assignments/assignment1.zip)
-
-2. Simulácia šírenia správ (deadline 13. 5. 2022)
-    * [znenie zadania](assignments/Znenie_2.pdf)
-    * [projekt riešenia](assignments/assignment2.zip)
-    * [ukážkové testy](assignments/a2_tests.zip)
+1. Algoritmické riešenie vybranej úlohy (deadline 17. 3. 2023)
+2. Modelovanie hry pomocou OOP (deadline 14. 4. 2023)
+3. Simulácia (deadline 12. 5. 2023)
 
 <!--### Skúška <a name="exam"></a>-->
 
