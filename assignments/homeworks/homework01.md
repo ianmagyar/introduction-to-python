@@ -3,3 +3,5 @@ Na úložisku pre odovzdávanie zadaní nájdete súbor s názvom `h01.txt`, do 
 
 ## Hodnotenie
 Za odovzdanie domácej úlohy získate 1 bod. Obsah sa nehodnotí, úlohu ale musíte vypracovať pre získanie bodu.
+
+**Vypracované riešenie odovzdajte do 24. 2. 2023.**
