@@ -24,7 +24,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 
 |                               |                  Cvičenie                 |                           Prednáška                          |                        Termíny                          |
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>13. 2. - 19. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        [Syntax, jazykové konštrukty, vývojové diagramy](lectures/Lecture-01.pdf)<br>([kód z prednášky](lectures/codes/lecture01.ipynb))        |            Z1 publikované<br>[D1 publikovaná](assignments/homeworks/homework01.md)             |
+|  1. týždeň<br>13. 2. - 19. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        [Syntax, jazykové konštrukty, vývojové diagramy](lectures/Lecture-01.pdf)<br>([kód z prednášky](lectures/codes/lecture01.ipynb))        |            [Z1 publikované](assignments/Zadanie1.pdf)<br>[D1 publikovaná](assignments/homeworks/homework01.md)             |
 |  2. týždeň<br>20. 2. - 26. 2. |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         Funkcie, rekurzia, generátory, lambda výrazy         |             D1 odovzdávka<br>D2 publikovaná             |
 |  3. týždeň<br>27. 2. - 5. 3.  |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |             D2 odovzdávka<br>D3 publikovaná             |
 |  4. týždeň<br>6. 3. - 12. 3.  | Práca so základnými údajovými štruktúrami |        Test1<br>Testovanie, ladenie, výnimky a chyby         |             D3 odovzdávka<br>D4 publikovaná             |
@@ -66,7 +66,13 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 10. oprava DÚ (deadline 12. 5. 2023)
 
 ### Zadania <a name="assignments"></a>
-1. Algoritmické riešenie vybranej úlohy (deadline 17. 3. 2023)
+Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive (**nevytvorte samostatný priečinok!**).
+
+1. Parkujeme (deadline 17. 3. 2023)
+
+    * [Znenie zadania](assignments/Zadanie1.pdf) (anglická verzia)
+    * [Projekt s testami](assignments/Zadanie1.zip)
+
 2. Modelovanie hry pomocou OOP (deadline 14. 4. 2023)
 3. Simulácia (deadline 12. 5. 2023)
 
