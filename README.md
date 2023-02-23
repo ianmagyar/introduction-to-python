@@ -25,7 +25,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |                               |                  Cvičenie                 |                           Prednáška                          |                        Termíny                          |
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
 |  1. týždeň<br>13. 2. - 19. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        [Syntax, jazykové konštrukty, vývojové diagramy](lectures/Lecture-01.pdf)<br>([kód z prednášky](lectures/codes/lecture01.ipynb))        |            [Z1 publikované](assignments/Zadanie1.pdf)<br>[D1 publikovaná](assignments/homeworks/homework01.md)             |
-|  2. týždeň<br>20. 2. - 26. 2. |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         Funkcie, rekurzia, generátory, lambda výrazy         |             D1 odovzdávka<br>D2 publikovaná             |
+|  2. týždeň<br>20. 2. - 26. 2. |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         [Funkcie, rekurzia, generátory, lambda výrazy](lectures/Lecture-02.pdf)         |             D1 odovzdávka<br>[D2 publikovaná](assignments/homeworks/homework02.md)             |
 |  3. týždeň<br>27. 2. - 5. 3.  |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |             D2 odovzdávka<br>D3 publikovaná             |
 |  4. týždeň<br>6. 3. - 12. 3.  | Práca so základnými údajovými štruktúrami |        Test1<br>Testovanie, ladenie, výnimky a chyby         |             D3 odovzdávka<br>D4 publikovaná             |
 |  5. týždeň<br>13. 3. - 19. 3. |                   Wordle                  | Zložitosť algoritmov, optimalizácia, dynamické programovanie |         Z1, D4 odovzdávka<br>Z2, D5 publikované         |
@@ -55,7 +55,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 
 ### Domáce úlohy <a name="homeworks"></a>
 1. [ciele a očakávania](assignments/homeworks/homework01.md) (deadline 24. 2. 2023)
-2. funkcie (deadline 3. 3. 2023)
+2. [funkcie](assignments/homeworks/homework02.md) (deadline 3. 3. 2023)
 3. použitie lambda výrazov a list comprehension (deadline 10. 3. 2023)
 4. ošetrenie chýb (deadline 17. 3. 2023)
 5. písanie unit testov (deadline 24. 3. 2023)
@@ -70,7 +70,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 
 1. Parkujeme (deadline 17. 3. 2023)
 
-    * [Znenie zadania](assignments/Zadanie1.pdf) (anglická verzia)
+    * [Znenie zadania](assignments/Zadanie1.pdf) ([anglická verzia](assignments/Assignment1.pdf))
     * [Projekt s testami](assignments/Zadanie1.zip)
 
 2. Modelovanie hry pomocou OOP (deadline 14. 4. 2023)
