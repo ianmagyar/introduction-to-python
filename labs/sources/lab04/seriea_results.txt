@@ -1,0 +1,248 @@
+AC Milan 4 - 2 Udinese
+Sampdoria 0 - 2 Atalanta
+Lecce 1 - 2 Inter
+Monza 1 - 2 Torino
+Fiorentina 3 - 2 Cremonese
+Lazio 2 - 1 Bologna
+Spezia 1 - 0 Empoli
+Salernitana 0 - 1 Roma
+Verona 2 - 5 Napoli
+Juventus 3 - 0 Sassuolo
+Torino 0 - 0 Lazio
+Udinese 0 - 0 Salernitana
+Inter 3 - 0 Spezia
+Sassuolo 1 - 0 Lecce
+Napoli 4 - 0 Monza
+Empoli 0 - 0 Fiorentina
+Atalanta 1 - 1 AC Milan
+Bologna 1 - 1 Verona
+Roma 1 - 0 Cremonese
+Sampdoria 0 - 0 Juventus
+Monza 1 - 2 Udinese
+Lazio 3 - 1 Inter
+Juventus 1 - 1 Roma
+Cremonese 1 - 2 Torino
+Spezia 2 - 2 Sassuolo
+AC Milan 2 - 0 Bologna
+Verona 0 - 1 Atalanta
+Salernitana 4 - 0 Sampdoria
+Fiorentina 0 - 0 Napoli
+Lecce 1 - 1 Empoli
+Sassuolo 0 - 0 AC Milan
+Roma 3 - 0 Monza
+Inter 3 - 1 Cremonese
+Sampdoria 1 - 1 Lazio
+Empoli 1 - 1 Verona
+Udinese 1 - 0 Fiorentina
+Juventus 2 - 0 Spezia
+Napoli 1 - 1 Lecce
+Atalanta 3 - 1 Torino
+Bologna 1 - 1 Salernitana
+Fiorentina 1 - 1 Juventus
+AC Milan 3 - 2 Inter
+Lazio 1 - 2 Napoli
+Cremonese 0 - 0 Sassuolo
+Spezia 2 - 2 Bologna
+Verona 2 - 1 Sampdoria
+Udinese 4 - 0 Roma
+Salernitana 2 - 2 Empoli
+Monza 0 - 2 Atalanta
+Torino 1 - 0 Lecce
+Napoli 1 - 0 Spezia
+Inter 1 - 0 Torino
+Sampdoria 1 - 2 AC Milan
+Atalanta 1 - 1 Cremonese
+Bologna 2 - 1 Fiorentina
+Lecce 1 - 1 Monza
+Sassuolo 1 - 3 Udinese
+Lazio 2 - 0 Verona
+Juventus 2 - 2 Salernitana
+Empoli 1 - 2 Roma
+Salernitana 1 - 2 Lecce
+Bologna 0 - 1 Empoli
+Spezia 2 - 1 Sampdoria
+Torino 0 - 1 Sassuolo
+Udinese 3 - 1 Inter
+Fiorentina 2 - 0 Verona
+Cremonese 0 - 4 Lazio
+Monza 1 - 0 Juventus
+Roma 0 - 1 Atalanta
+AC Milan 1 - 2 Napoli
+Napoli 3 - 1 Torino
+Inter 1 - 2 Roma
+Empoli 1 - 3 AC Milan
+Lazio 4 - 0 Spezia
+Lecce 1 - 1 Cremonese
+Sampdoria 0 - 3 Monza
+Sassuolo 5 - 0 Salernitana
+Atalanta 1 - 0 Fiorentina
+Juventus 3 - 0 Bologna
+Verona 1 - 2 Udinese
+Sassuolo 1 - 2 Inter
+AC Milan 2 - 0 Juventus
+Bologna 1 - 1 Sampdoria
+Torino 1 - 1 Empoli
+Udinese 2 - 2 Atalanta
+Salernitana 2 - 1 Verona
+Monza 2 - 0 Spezia
+Cremonese 1 - 4 Napoli
+Roma 2 - 1 Lecce
+Fiorentina 0 - 4 Lazio
+Empoli 1 - 0 Monza
+Torino 0 - 1 Juventus
+Atalanta 2 - 1 Sassuolo
+Inter 2 - 0 Salernitana
+Spezia 2 - 2 Cremonese
+Lazio 0 - 0 Udinese
+Napoli 3 - 2 Bologna
+Verona 1 - 2 AC Milan
+Sampdoria 0 - 1 Roma
+Lecce 1 - 1 Fiorentina
+Juventus 4 - 0 Empoli
+Salernitana 1 - 0 Spezia
+AC Milan 4 - 1 Monza
+Fiorentina 3 - 4 Inter
+Udinese 1 - 2 Torino
+Bologna 2 - 0 Lecce
+Atalanta 0 - 2 Lazio
+Roma 0 - 1 Napoli
+Cremonese 0 - 1 Sampdoria
+Sassuolo 2 - 1 Verona
+Napoli 4 - 0 Sassuolo
+Lecce 0 - 1 Juventus
+Inter 3 - 0 Sampdoria
+Empoli 0 - 2 Atalanta
+Spezia 1 - 2 Fiorentina
+Cremonese 0 - 0 Udinese
+Lazio 1 - 3 Salernitana
+Torino 2 - 1 AC Milan
+Verona 1 - 3 Roma
+Monza 1 - 2 Bologna
+Udinese 1 - 1 Lecce
+Salernitana 2 - 2 Cremonese
+Empoli 1 - 0 Sassuolo
+Atalanta 1 - 2 Napoli
+AC Milan 2 - 1 Spezia
+Bologna 2 - 1 Torino
+Sampdoria 0 - 2 Fiorentina
+Monza 2 - 0 Verona
+Roma 0 - 1 Lazio
+Juventus 2 - 0 Inter
+Napoli 2 - 0 Empoli
+Spezia 1 - 1 Udinese
+Cremonese 0 - 0 AC Milan
+Sassuolo 1 - 1 Roma
+Lecce 2 - 1 Atalanta
+Fiorentina 2 - 1 Salernitana
+Inter 6 - 1 Bologna
+Torino 2 - 0 Sampdoria
+Verona 0 - 1 Juventus
+Lazio 1 - 0 Monza
+Empoli 2 - 0 Cremonese
+Napoli 3 - 2 Udinese
+Sampdoria 0 - 2 Lecce
+Bologna 3 - 0 Sassuolo
+Atalanta 2 - 3 Inter
+Verona 1 - 2 Spezia
+Monza 3 - 0 Salernitana
+Roma 1 - 1 Torino
+AC Milan 2 - 1 Fiorentina
+Juventus 3 - 0 Lazio
+Salernitana 1 - 2 AC Milan
+Sassuolo 1 - 2 Sampdoria
+Torino 1 - 1 Verona
+Spezia 2 - 2 Atalanta
+Roma 1 - 0 Bologna
+Lecce 2 - 1 Lazio
+Cremonese 0 - 1 Juventus
+Fiorentina 1 - 1 Monza
+Udinese 1 - 1 Empoli
+Inter 1 - 0 Napoli
+Fiorentina 2 - 1 Sassuolo
+Juventus 1 - 0 Udinese
+Monza 2 - 2 Inter
+Salernitana 1 - 1 Torino
+Spezia 0 - 0 Lecce
+Lazio 2 - 2 Empoli
+Sampdoria 0 - 2 Napoli
+AC Milan 2 - 2 Roma
+Verona 2 - 0 Cremonese
+Bologna 1 - 2 Atalanta
+Napoli 5 - 1 Juventus
+Cremonese 2 - 3 Monza
+Lecce 2 - 2 AC Milan
+Inter 1 - 0 Verona
+Sassuolo 0 - 2 Lazio
+Torino 0 - 1 Spezia
+Udinese 1 - 2 Bologna
+Atalanta 8 - 2 Salernitana
+Roma 2 - 0 Fiorentina
+Empoli 1 - 0 Sampdoria
+Verona 2 - 0 Lecce
+Salernitana 0 - 2 Napoli
+Fiorentina 0 - 1 Torino
+Sampdoria 0 - 1 Udinese
+Monza 1 - 1 Sassuolo
+Spezia 0 - 2 Roma
+Juventus 3 - 3 Atalanta
+Bologna 1 - 1 Cremonese
+Inter 0 - 1 Empoli
+Lazio 4 - 0 AC Milan
+Bologna 2 - 0 Spezia
+Lecce 1 - 2 Salernitana
+Empoli 2 - 2 Torino
+Cremonese 1 - 2 Inter
+Atalanta 2 - 0 Sampdoria
+AC Milan 2 - 5 Sassuolo
+Juventus 0 - 2 Monza
+Lazio 1 - 1 Fiorentina
+Napoli 2 - 1 Roma
+Udinese 1 - 1 Verona
+Cremonese 0 - 2 Lecce
+Roma 2 - 0 Empoli
+Sassuolo 1 - 0 Atalanta
+Spezia 0 - 3 Napoli
+Torino 1 - 0 Udinese
+Fiorentina 1 - 2 Bologna
+Inter 1 - 0 AC Milan
+Verona 1 - 1 Lazio
+Monza 2 - 2 Sampdoria
+Salernitana 0 - 3 Juventus
+AC Milan 1 - 0 Torino
+Empoli 2 - 2 Spezia
+Lecce 1 - 1 Roma
+Lazio 0 - 2 Atalanta
+Udinese 2 - 2 Sassuolo
+Bologna 0 - 1 Monza
+Juventus 1 - 0 Fiorentina
+Napoli 3 - 0 Cremonese
+Verona 1 - 0 Salernitana
+Sampdoria 0 - 0 Inter
+Sassuolo 0 - 2 Napoli
+Sampdoria 1 - 2 Bologna
+Monza 0 - 1 AC Milan
+Inter 3 - 1 Udinese
+Atalanta 1 - 2 Lecce
+Salernitana 0 - 2 Lazio
+Fiorentina 1 - 1 Empoli
+Spezia 0 - 2 Juventus
+Roma 1 - 0 Verona
+Torino 2 - 2 Cremonese
+Empoli 0 - 2 Napoli
+Lecce 0 - 1 Sassuolo
+Bologna 1 - 0 Inter
+Salernitana 3 - 0 Monza
+Udinese 2 - 2 Spezia
+AC Milan 2 - 0 Atalanta
+Verona 0 - 3 Fiorentina
+Lazio 1 - 0 Sampdoria
+Cremonese 2 - 1 Roma
+Juventus 4 - 2 Torino
+Napoli 0 - 1 Lazio
+Monza 2 - 1 Empoli
+Atalanta 0 - 0 Udinese
+Fiorentina 2 - 1 AC Milan
+Spezia 0 - 0 Verona
+Sampdoria 0 - 0 Salernitana
+Inter 2 - 0 Lecce
+Roma 1 - 0 Juventus

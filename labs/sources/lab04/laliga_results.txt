@@ -1,0 +1,239 @@
+Osasuna 2 - 1 Sevilla
+Celta Vigo 2 - 2 Espanyol
+Real Valladolid 0 - 3 Villarreal
+Barcelona 0 - 0 Rayo Vallecano
+Cadiz 0 - 1 Real Sociedad
+Valencia 1 - 0 Girona
+Almeria 1 - 2 Real Madrid
+Athletic Bilbao 0 - 0 Mallorca
+Getafe 0 - 3 Atletico Madrid
+Real Betis 3 - 0 Elche
+Espanyol 0 - 2 Rayo Vallecano
+Sevilla 1 - 1 Real Valladolid
+Osasuna 2 - 0 Cadiz
+Mallorca 1 - 2 Real Betis
+Celta Vigo 1 - 4 Real Madrid
+Athletic Bilbao 1 - 0 Valencia
+Atletico Madrid 0 - 2 Villarreal
+Real Sociedad 1 - 4 Barcelona
+Elche 1 - 1 Almeria
+Girona 3 - 1 Getafe
+Girona 0 - 1 Celta Vigo
+Real Betis 1 - 0 Osasuna
+Elche 0 - 1 Real Sociedad
+Rayo Vallecano 0 - 2 Mallorca
+Almeria 2 - 1 Sevilla
+Getafe 0 - 0 Villarreal
+Barcelona 4 - 0 Real Valladolid
+Espanyol 1 - 3 Real Madrid
+Cadiz 0 - 4 Athletic Bilbao
+Valencia 0 - 1 Atletico Madrid
+Celta Vigo 3 - 0 Cadiz
+Mallorca 1 - 1 Girona
+Real Madrid 2 - 1 Real Betis
+Real Sociedad 1 - 1 Atletico Madrid
+Sevilla 0 - 3 Barcelona
+Osasuna 2 - 1 Rayo Vallecano
+Athletic Bilbao 0 - 1 Espanyol
+Villarreal 4 - 0 Elche
+Valencia 5 - 1 Getafe
+Real Valladolid 1 - 0 Almeria
+Girona 2 - 1 Real Valladolid
+Rayo Vallecano 2 - 1 Valencia
+Espanyol 2 - 3 Sevilla
+Cadiz 0 - 4 Barcelona
+Atletico Madrid 4 - 1 Celta Vigo
+Real Madrid 4 - 1 Mallorca
+Elche 1 - 4 Athletic Bilbao
+Getafe 2 - 1 Real Sociedad
+Real Betis 1 - 0 Villarreal
+Almeria 0 - 1 Osasuna
+Real Valladolid 0 - 1 Cadiz
+Mallorca 1 - 0 Almeria
+Barcelona 3 - 0 Elche
+Valencia 3 - 0 Celta Vigo
+Athletic Bilbao 3 - 2 Rayo Vallecano
+Osasuna 0 - 2 Getafe
+Villarreal 1 - 1 Sevilla
+Real Sociedad 2 - 1 Espanyol
+Real Betis 2 - 1 Girona
+Atletico Madrid 1 - 2 Real Madrid
+Athletic Bilbao 4 - 0 Almeria
+Cadiz 0 - 0 Villarreal
+Getafe 2 - 3 Real Valladolid
+Sevilla 0 - 2 Atletico Madrid
+Mallorca 0 - 1 Barcelona
+Espanyol 2 - 2 Valencia
+Celta Vigo 1 - 0 Real Betis
+Girona 3 - 5 Real Sociedad
+Real Madrid 1 - 1 Osasuna
+Rayo Vallecano 2 - 1 Elche
+Osasuna 1 - 2 Valencia
+Almeria 3 - 1 Rayo Vallecano
+Atletico Madrid 2 - 1 Girona
+Sevilla 1 - 1 Athletic Bilbao
+Getafe 0 - 1 Real Madrid
+Real Valladolid 0 - 0 Real Betis
+Cadiz 2 - 2 Espanyol
+Real Sociedad 1 - 0 Villarreal
+Barcelona 1 - 0 Celta Vigo
+Elche 1 - 1 Mallorca
+Rayo Vallecano 0 - 0 Getafe
+Girona 1 - 1 Cadiz
+Valencia 2 - 2 Elche
+Mallorca 0 - 1 Sevilla
+Athletic Bilbao 0 - 1 Atletico Madrid
+Celta Vigo 1 - 2 Real Sociedad
+Real Madrid 3 - 1 Barcelona
+Espanyol 1 - 0 Real Valladolid
+Real Betis 3 - 1 Almeria
+Villarreal 2 - 0 Osasuna
+Sevilla 1 - 1 Valencia
+Getafe 2 - 2 Athletic Bilbao
+Atletico Madrid 1 - 1 Rayo Vallecano
+Cadiz 0 - 0 Real Betis
+Real Valladolid 4 - 1 Celta Vigo
+Real Sociedad 1 - 0 Mallorca
+Elche 0 - 3 Real Madrid
+Almeria 3 - 2 Girona
+Osasuna 1 - 0 Espanyol
+Barcelona 3 - 0 Villarreal
+Rayo Vallecano 5 - 1 Cadiz
+Real Valladolid 1 - 0 Real Sociedad
+Valencia 1 - 2 Mallorca
+Real Madrid 3 - 1 Sevilla
+Espanyol 2 - 2 Elche
+Real Betis 1 - 2 Atletico Madrid
+Villarreal 2 - 1 Almeria
+Girona 1 - 1 Osasuna
+Barcelona 4 - 0 Athletic Bilbao
+Celta Vigo 1 - 1 Getafe
+Mallorca 1 - 1 Espanyol
+Almeria 3 - 1 Celta Vigo
+Cadiz 3 - 2 Atletico Madrid
+Sevilla 0 - 1 Rayo Vallecano
+Valencia 0 - 1 Barcelona
+Osasuna 2 - 0 Real Valladolid
+Real Madrid 1 - 1 Girona
+Athletic Bilbao 1 - 0 Villarreal
+Real Sociedad 0 - 2 Real Betis
+Elche 0 - 1 Getafe
+Girona 2 - 1 Athletic Bilbao
+Getafe 0 - 0 Cadiz
+Real Valladolid 2 - 1 Elche
+Celta Vigo 1 - 2 Osasuna
+Barcelona 2 - 0 Almeria
+Atletico Madrid 1 - 1 Espanyol
+Real Sociedad 1 - 1 Valencia
+Villarreal 0 - 2 Mallorca
+Real Betis 1 - 1 Sevilla
+Rayo Vallecano 3 - 2 Real Madrid
+Elche 1 - 2 Girona
+Athletic Bilbao 3 - 0 Real Valladolid
+Osasuna 1 - 2 Barcelona
+Almeria 1 - 0 Getafe
+Sevilla 1 - 2 Real Sociedad
+Espanyol 0 - 1 Villarreal
+Mallorca 1 - 0 Atletico Madrid
+Rayo Vallecano 0 - 0 Celta Vigo
+Valencia 3 - 0 Real Betis
+Real Madrid 2 - 1 Cadiz
+Girona 2 - 2 Rayo Vallecano
+Real Betis 0 - 0 Athletic Bilbao
+Atletico Madrid 2 - 0 Elche
+Getafe 2 - 0 Mallorca
+Celta Vigo 1 - 1 Sevilla
+Cadiz 1 - 1 Almeria
+Real Valladolid 0 - 2 Real Madrid
+Barcelona 1 - 1 Espanyol
+Real Sociedad 2 - 0 Osasuna
+Villarreal 2 - 1 Valencia
+Elche 0 - 1 Celta Vigo
+Valencia 0 - 1 Cadiz
+Villarreal 2 - 1 Real Madrid
+Mallorca 1 - 0 Real Valladolid
+Espanyol 2 - 2 Girona
+Almeria 0 - 2 Real Sociedad
+Rayo Vallecano 1 - 2 Real Betis
+Sevilla 2 - 1 Getafe
+Atletico Madrid 0 - 1 Barcelona
+Athletic Bilbao 0 - 0 Osasuna
+Celta Vigo 1 - 1 Villarreal
+Real Valladolid 0 - 1 Rayo Vallecano
+Girona 2 - 1 Sevilla
+Osasuna 1 - 0 Mallorca
+Real Sociedad 3 - 1 Athletic Bilbao
+Getafe 1 - 2 Espanyol
+Almeria 1 - 1 Atletico Madrid
+Cadiz 1 - 1 Elche
+Mallorca 1 - 0 Celta Vigo
+Rayo Vallecano 0 - 2 Real Sociedad
+Espanyol 1 - 0 Real Betis
+Atletico Madrid 3 - 0 Real Valladolid
+Sevilla 1 - 0 Cadiz
+Villarreal 1 - 0 Girona
+Elche 1 - 1 Osasuna
+Barcelona 1 - 0 Getafe
+Athletic Bilbao 0 - 2 Real Madrid
+Valencia 2 - 2 Almeria
+Almeria 3 - 1 Espanyol
+Cadiz 2 - 0 Mallorca
+Girona 0 - 1 Barcelona
+Sevilla 3 - 0 Elche
+Getafe 0 - 1 Real Betis
+Real Valladolid 1 - 0 Valencia
+Osasuna 0 - 1 Atletico Madrid
+Celta Vigo 1 - 0 Athletic Bilbao
+Real Madrid 0 - 0 Real Sociedad
+Villarreal 0 - 1 Rayo Vallecano
+Real Betis 1 - 2 Barcelona
+Real Madrid 2 - 0 Valencia
+Athletic Bilbao 4 - 1 Cadiz
+Espanyol 1 - 1 Osasuna
+Elche 3 - 1 Villarreal
+Atletico Madrid 1 - 1 Getafe
+Real Betis 3 - 4 Celta Vigo
+Mallorca 1 - 0 Real Madrid
+Girona 1 - 0 Valencia
+Real Sociedad 0 - 1 Real Valladolid
+Barcelona 3 - 0 Sevilla
+Rayo Vallecano 2 - 0 Almeria
+Cadiz 2 - 0 Girona
+Almeria 2 - 3 Real Betis
+Sevilla 2 - 0 Mallorca
+Valencia 1 - 2 Athletic Bilbao
+Getafe 1 - 1 Rayo Vallecano
+Celta Vigo 0 - 1 Atletico Madrid
+Real Valladolid 0 - 0 Osasuna
+Villarreal 0 - 1 Barcelona
+Espanyol 2 - 3 Real Sociedad
+Real Madrid 4 - 0 Elche
+Girona 6 - 2 Almeria
+Real Sociedad 1 - 1 Celta Vigo
+Real Betis 2 - 1 Real Valladolid
+Mallorca 4 - 2 Villarreal
+Osasuna 0 - 2 Real Madrid
+Elche 0 - 1 Espanyol
+Rayo Vallecano 1 - 1 Sevilla
+Atletico Madrid 1 - 0 Athletic Bilbao
+Barcelona 2 - 0 Cadiz
+Getafe 1 - 0 Valencia
+Elche 2 - 3 Real Betis
+Espanyol 2 - 1 Mallorca
+Cadiz 1 - 0 Rayo Vallecano
+Real Madrid 1 - 1 Atletico Madrid
+Valencia 1 - 0 Real Sociedad
+Athletic Bilbao 2 - 3 Girona
+Celta Vigo 3 - 0 Real Valladolid
+Almeria 1 - 0 Barcelona
+Sevilla 2 - 3 Osasuna
+Villarreal 2 - 1 Getafe
+Real Sociedad 0 - 0 Cadiz
+Getafe 3 - 2 Girona
+Almeria 0 - 2 Villarreal
+Mallorca 0 - 1 Elche
+Atletico Madrid 6 - 1 Sevilla
+Real Valladolid 2 - 1 Espanyol
+Barcelona 1 - 0 Valencia
+Rayo Vallecano 0 - 0 Athletic Bilbao
+Real Betis 0 - 0 Real Madrid
