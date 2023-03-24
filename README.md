@@ -28,8 +28,8 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  2. týždeň<br>20. 2. - 26. 2. |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         [Funkcie, rekurzia, generátory, lambda výrazy](lectures/Lecture-02.pdf)<br>([kód z prednášky](lectures/codes/lecture02.ipynb))         |             D1 odovzdávka<br>[D2 publikovaná](assignments/homeworks/homework02.md)             |
 |  3. týždeň<br>27. 2. - 5. 3.  |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |                [Reťazce, zoznamy, n-tice, mapy](lectures/Lecture-03.pdf)<br>([kód z prednášky](lectures/codes/lecture03.ipynb))                |             D2 odovzdávka<br>[D3 publikovaná](assignments/homeworks/homework03.md)             |
 |  4. týždeň<br>6. 3. - 12. 3.  | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |        Test1<br>[Testovanie, ladenie, výnimky a chyby](lectures/Lecture-04.pdf)<br>([kód z prednášky](lectures/codes/lecture04.ipynb))         |             D3 odovzdávka<br>[D4 publikovaná](assignments/homeworks/homework04.md)             |
-|  5. týždeň<br>13. 3. - 19. 3. |                   [Wordle](labs/lab05-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.ipynb)) |         Z1, D4 odovzdávka<br>Z2, [D5 publikované](assignments/homeworks/homework05.md)         |
-|  6. týždeň<br>20. 3. - 26. 3. |             [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)             |    Test 2<br>[Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.ipynb))   |             D5 odovzdávka<br>[D6 publikovaná](assignments/homeworks/homework06.md)             |
+|  5. týždeň<br>13. 3. - 19. 3. |                   [Wordle](labs/lab05-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.ipynb)) |         Z1, D4 odovzdávka<br>[D5 publikovaná](assignments/homeworks/homework05.md)         |
+|  6. týždeň<br>20. 3. - 26. 3. |             [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)             |    Test 2<br>[Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.ipynb))   |             D5 odovzdávka<br>[Z2](assignments/Zadanie2.pdf), [D6 publikované](assignments/homeworks/homework06.md)             |
 |  7. týždeň<br>27. 3. - 2. 4.  |             Wordle pomocou OOP            |                   Princípy OOP a metametódy                  |             D6 odovzdávka<br>D7 publikovaná             |
 |  8. týždeň<br>3. 4. - 9. 4.   |     Modelovanie hry poker pomocou OOP     |                           Veľká Noc                          |                      D7 odovzdávka                      |
 |  9. týždeň<br>10. 4. - 16. 4. |                 Veľká Noc                 |                Test 3<br>Jednoduché simulácie                |             Z2 odovzdávka<br>Z3 publikované             |
@@ -73,7 +73,11 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
     * [Znenie zadania](assignments/Zadanie1.pdf) ([anglická verzia](assignments/Assignment1.pdf))
     * [Projekt s testami](assignments/Zadanie1.zip)
 
-2. Modelovanie hry pomocou OOP (deadline 14. 4. 2023)
+2. Čo si pozrieme? (deadline 21. 4. 2023)
+
+    * [Znenie zadania](assignments/Zadanie2.pdf)
+    * [Kostra riešenia](assignments/Zadanie2.zip) (bez testov)
+
 3. Simulácia (deadline 12. 5. 2023)
 
 <!--### Skúška <a name="exam"></a>-->
