@@ -90,6 +90,8 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 * CHUN, W. J.: Core Python Programming. 2nd Edition, Prentice Hall, 2006 ([link](https://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937))
 * McKINNEY, W.: Python for Data Analysis: Data Wrangling with Pandas, Numpy, and IPython. 2nd Edition, O’Reilly Media, 2017 ([link](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662))
 * SEVERANCE, C.: Python for Everybody: Exploring Data in Python 3. 1st edition, CreateSpace Independent Publishing Platform, 2016 ([link](https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126))
+* JAWORSKI, M. - ZIADÉ, T.: Expert Python Programming. 4th edition, Packt Publishing Ltd, 2021. ([link](https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109))
+* PHILLIPS, D.: Python 3 object oriented programming. 3rd edition, Packt Publishing Ltd, 2018. ([link](https://www.packtpub.com/product/python-3-object-oriented-programming-third-edition/9781789615852))
 
 Ďalšie zdroje sú dostupné na [web stránke MIT kurzu 6.00](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/index.htm).
 
