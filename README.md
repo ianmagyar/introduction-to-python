@@ -30,7 +30,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  4. týždeň<br>6. 3. - 12. 3.  | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |        Test1<br>[Testovanie, ladenie, výnimky a chyby](lectures/Lecture-04.pdf)<br>([kód z prednášky](lectures/codes/lecture04.ipynb))         |             D3 odovzdávka<br>[D4 publikovaná](assignments/homeworks/homework04.md)             |
 |  5. týždeň<br>13. 3. - 19. 3. |                   [Wordle](labs/lab05-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.ipynb)) |         Z1, D4 odovzdávka<br>[D5 publikovaná](assignments/homeworks/homework05.md)         |
 |  6. týždeň<br>20. 3. - 26. 3. |             [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)             |    Test 2<br>[Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.ipynb))   |             D5 odovzdávka<br>[Z2](assignments/Zadanie2.pdf), [D6 publikované](assignments/homeworks/homework06.md)             |
-|  7. týždeň<br>27. 3. - 2. 4.  |             [Wordle pomocou OOP](labs/lab07-wordle-in-oop.ipynb)            |                   Princípy OOP a metametódy                  |             D6 odovzdávka<br>D7 publikovaná             |
+|  7. týždeň<br>27. 3. - 2. 4.  |             [Wordle pomocou OOP](labs/lab07-wordle-in-oop.ipynb)            |                   [Princípy OOP a metametódy](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                  |             D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework07.md)             |
 |  8. týždeň<br>3. 4. - 9. 4.   |     Modelovanie hry poker pomocou OOP     |                           Veľká Noc                          |                      D7 odovzdávka                      |
 |  9. týždeň<br>10. 4. - 16. 4. |                 Veľká Noc                 |                Test 3<br>Jednoduché simulácie                |             Z2 odovzdávka<br>Z3 publikované             |
 | 10. týždeň<br>17. 4. - 23. 4. |           Výpočet hodnoti pi              |                Výpočtové modely a simulácie                  |                      D8 publikovaná                     |
@@ -60,7 +60,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 4. [ošetrenie chýb](assignments/homeworks/homework04.md) (deadline 17. 3. 2023)
 5. [písanie unit testov](assignments/homeworks/homework05.md) (deadline 24. 3. 2023)
 6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework06.md) (deadline 31. 3. 2023)
-7. hierarchia tried a metametódy (deadline 7. 4. 2023)
+7. [hierarchia tried a metametódy](assignments/homeworks/homework07.md) (deadline 7. 4. 2023)
 8. generovanie grafov (deadline 28. 4. 2023)
 9. použitie knižníc numpy a pandas (deadline 5. 5. 2023)
 10. oprava DÚ (deadline 12. 5. 2023)
