@@ -19,4 +19,4 @@ Za domácu úlohu môžete získať maximálne 1 bod:
 * 0,5 bodov získate za testovanie na neplatných a hraničných vstupoch.
 
 ## Deadline
-Vaše riešenie nahrajte do 24. 3. 2022 (piatok), do 18:00.
+Vaše riešenie nahrajte do 24. 3. 2023 (piatok), do 18:00.

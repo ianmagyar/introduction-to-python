@@ -8,4 +8,4 @@ Upravte priamo súbor `h02.py` tak, že pod špecifikáciou doplníte kód podľ
 Za domácu úlohu môžete získať maximálne 1 bod; 0,5 boda za jednotlivé implementácie funkcie.
 
 ## Deadline
-Vaše riešenie nahrajte do 3. 3. 2022 (piatok), do 18:00.
+Vaše riešenie nahrajte do 3. 3. 2023 (piatok), do 18:00.

@@ -17,4 +17,4 @@ Za domácu úlohu môžete získať maximálne 1 bod:
 * 0,5 bodov získate za správne napísaný lambda výraz.
 
 ## Deadline
-Vaše riešenie nahrajte do 10. 3. 2022 (piatok), do 18:00.
+Vaše riešenie nahrajte do 10. 3. 2023 (piatok), do 18:00.

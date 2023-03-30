@@ -19,5 +19,5 @@ Za domácu úlohu môžete získať maximálne 1 bod:
 * 0,5 bodov získate za spracovanie a generovanie chýb.
 
 ## Deadline
-Vaše riešenie nahrajte do 17. 3. 2022 (piatok), do 18:00.
+Vaše riešenie nahrajte do 17. 3. 2023 (piatok), do 18:00.
 

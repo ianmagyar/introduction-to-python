@@ -8,7 +8,7 @@ Na úložisku pre odovzdávanie zadaní nájdete skript s názvom `h07.py`, ktor
 Na konci skriptu nájdete testovacie objekty a volanie metód `foo` a `bar` nad nimi. Do komentárov napíšte, implementácia metódy z ktorej triedy sa zavolá na danom riadku, máte na to vyhradené miesto - odpovede napíšte namiesto `...`.
 
 ## Štruktúra riešenia
-Upravte priamo súbor `h06.py` podľa špecifikácie úlohy.
+Upravte priamo súbor `h07.py` podľa špecifikácie úlohy.
 
 ## Hodnotenie
 Za domácu úlohu môžete získať maximálne 1 bod:
