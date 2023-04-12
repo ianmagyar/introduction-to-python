@@ -77,6 +77,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 
     * [Znenie zadania](assignments/Zadanie2.pdf)
     * [Kostra riešenia](assignments/Zadanie2.zip) (bez testov)
+    * [Testy k zadaniu](assignments/Zadanie2_tests.zip)
 
 3. Simulácia (deadline 12. 5. 2023)
 
