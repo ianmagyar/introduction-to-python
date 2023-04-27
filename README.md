@@ -34,7 +34,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  8. týždeň<br>3. 4. - 9. 4.   |     [Modelovanie hry poker pomocou OOP](labs/lab08-poker-in-oop.ipynb)     |                           Veľká Noc                          |                      D7 odovzdávka                      |
 |  9. týždeň<br>10. 4. - 16. 4. |                 Veľká Noc                 |                     *prednáška odpadáva*                     |                      Z3 publikované                     |
 | 10. týždeň<br>17. 4. - 23. 4. |           [Výpočet hodnoti pi](labs/lab09-estimating-pi.ipynb)              |                Test 3<br>[Jednoduché simulácie](lectures/Lecture-08.pdf)<br>([kód z prednášky](lectures/codes/lecture08.zip))                |              Z2 odovzdávka<br>[D8 publikovaná](assignments/homeworks/homework08.md)            |
-| 11. týždeň<br>24. 4. - 30. 4. |   [Simulácia letu komára, návrh simulácií](labs/lab10-mosquitos.ipynb)  |                Výpočtové modely a simulácie                  |           D8 odovzdávka<br>D9, D10 publikované          |
+| 11. týždeň<br>24. 4. - 30. 4. |   [Simulácia letu komára, návrh simulácií](labs/lab10-mosquitos.ipynb)  |                [Výpočtové modely a simulácie](lectures/Lecture-09.pdf)<br>([kód z prednášky](lectures/codes/lecture09.zip))                  |           D8 odovzdávka<br>[D9](assignments/homeworks/homework09.md), [D10](assignments/homeworks/homework10.md) publikované          |
 | 12. týždeň<br>1. 5. - 7. 5.   |            Vývoj hier v Pythone           |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
 | 13. týždeň<br>8. 5. - 14. 5.  |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |             Z3 odovzdávka<br>D10 odovzdávka             |
 
@@ -62,8 +62,8 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework06.md) (deadline 31. 3. 2023)
 7. [hierarchia tried a metametódy](assignments/homeworks/homework07.md) (deadline 7. 4. 2023)
 8. [generovanie grafov](assignments/homeworks/homework08.md) (deadline 28. 4. 2023)
-9. použitie knižníc numpy a pandas (deadline 5. 5. 2023)
-10. oprava DÚ (deadline 12. 5. 2023)
+9. [použitie knižníc numpy a pandas](assignments/homeworks/homework09.md) (deadline 5. 5. 2023)
+10. [oprava DÚ](assignments/homeworks/homework10.md) (deadline 12. 5. 2023)
 
 ### Zadania <a name="assignments"></a>
 Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive (**nevytvorte samostatný priečinok!**).
