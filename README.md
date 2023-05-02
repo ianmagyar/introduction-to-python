@@ -35,7 +35,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  9. týždeň<br>10. 4. - 16. 4. |                 Veľká Noc                 |                     *prednáška odpadáva*                     |                      Z3 publikované                     |
 | 10. týždeň<br>17. 4. - 23. 4. |           [Výpočet hodnoti pi](labs/lab09-estimating-pi.ipynb)              |                Test 3<br>[Jednoduché simulácie](lectures/Lecture-08.pdf)<br>([kód z prednášky](lectures/codes/lecture08.zip))                |              Z2 odovzdávka<br>[D8 publikovaná](assignments/homeworks/homework08.md)            |
 | 11. týždeň<br>24. 4. - 30. 4. |   [Simulácia letu komára, návrh simulácií](labs/lab10-mosquitos.ipynb)  |                [Výpočtové modely a simulácie](lectures/Lecture-09.pdf)<br>([kód z prednášky](lectures/codes/lecture09.zip))                  |           D8 odovzdávka<br>[D9](assignments/homeworks/homework09.md), [D10](assignments/homeworks/homework10.md) publikované          |
-| 12. týždeň<br>1. 5. - 7. 5.   |            Vývoj hier v Pythone           |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
+| 12. týždeň<br>1. 5. - 7. 5.   |            [Vývoj hier v Pythone](labs/lab11-pygame.ipynb)           |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
 | 13. týždeň<br>8. 5. - 14. 5.  |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |             Z3 odovzdávka<br>D10 odovzdávka             |
 
 ## Hodnotenie <a name="grading"></a>
