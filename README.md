@@ -83,6 +83,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 
     * [Znenie zadania](assignments/Zadanie3.pdf)
     * [Kostra riešenia](assignments/Zadanie3.zip) (bez testov)
+    * [Testy k zadaniu](assignments/Zadanie3_tests.zip)
 
 <!--### Skúška <a name="exam"></a>-->
 
