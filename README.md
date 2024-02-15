@@ -24,7 +24,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 
 |                               |                  Cvičenie                 |                           Prednáška                          |                        Termíny                          |
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>12. 2. - 18. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        Syntax, jazykové konštrukty, vývojové diagramy        |            [Z1 publikované](assignments/Zadanie1.pdf)<br>[D1 publikovaná](assignments/homeworks/homework01.md)             |
+|  1. týždeň<br>12. 2. - 18. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        [Syntax, jazykové konštrukty](lectures/Lecture-01.pdf)<br>([kód z prednášky](lectures/codes/lecture01.ipynb))        |            [Z1 publikované](assignments/Zadanie1.pdf)<br>[D1 publikovaná](assignments/homeworks/homework01.md)             |
 |  2. týždeň<br>19. 2. - 25. 2. |          Prvé programy v Pythone          |         Funkcie, rekurzia, generátory, lambda výrazy         |             D1 odovzdávka<br>D2 publikovaná             |
 |  3. týždeň<br>26. 2. - 3. 3.  |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |             D2 odovzdávka<br>D3 publikovaná             |
 |  4. týždeň<br>4. 3. - 10. 3.  | Práca so základnými údajovými štruktúrami |        Test1<br>Testovanie, ladenie, výnimky a chyby         |             D3 odovzdávka<br>D4 publikovaná             |
