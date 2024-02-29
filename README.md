@@ -26,7 +26,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
 |  1. týždeň<br>12. 2. - 18. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |        [Syntax, jazykové konštrukty](lectures/Lecture-01.pdf)<br>([kód z prednášky](lectures/codes/lecture01.ipynb))        |            [Z1 publikované](assignments/Zadanie1.pdf)<br>[D1 publikovaná](assignments/homeworks/homework01.md)             |
 |  2. týždeň<br>19. 2. - 25. 2. |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         [Funkcie, rekurzia, generátory, lambda výrazy](lectures/Lecture-02.pdf)<br>([kód z prednášky](lectures/codes/lecture02.ipynb))         |             D1 odovzdávka<br>[D2 publikovaná](assignments/homeworks/homework02.md)             |
-|  3. týždeň<br>26. 2. - 3. 3.  |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |                [Reťazce, zoznamy, n-tice, mapy](lectures/Lecture-03.pdf)<br>([kód z prednášky](lectures/codes/lecture03.ipynb))                |             D2 odovzdávka<br>D3 publikovaná             |
+|  3. týždeň<br>26. 2. - 3. 3.  |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |                [Reťazce, zoznamy, n-tice, mapy](lectures/Lecture-03.pdf)<br>([kód z prednášky](lectures/codes/lecture03.ipynb))                |             D2 odovzdávka<br>[D3 publikovaná](assignments/homeworks/homework03.md)             |
 |  4. týždeň<br>4. 3. - 10. 3.  | Práca so základnými údajovými štruktúrami |        Test1<br>Testovanie, ladenie, výnimky a chyby         |             D3 odovzdávka<br>D4 publikovaná             |
 |  5. týždeň<br>11. 3. - 17. 3. |                   Wordle                  | Zložitosť algoritmov, optimalizácia, dynamické programovanie |         Z1, D4 odovzdávka<br>Z2, D5 publikované         |
 |  6. týždeň<br>18. 3. - 24. 3. |             Kedy na Jedličku?             |    Test 2<br>Úvod do objektovo orientovaného programovania   |             D5 odovzdávka<br>D6 publikovaná             |
@@ -56,7 +56,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 ### Domáce úlohy <a name="homeworks"></a>
 1. [ciele a očakávania](assignments/homeworks/homework01.md) (deadline 23. 2. 2024)
 2. [funkcie](assignments/homeworks/homework02.md) (deadline 1. 3. 2024)
-3. použitie lambda výrazov a list comprehension (deadline 8. 3. 2024)
+3. [použitie lambda výrazov a list comprehension](assignments/homeworks/homework03.md) (deadline 8. 3. 2024)
 4. ošetrenie chýb (deadline 15. 3. 2024)
 5. písanie unit testov (deadline 29. 3. 2024)
 6. vytvorenie triedy z UML diagramu (deadline 31. 3. 2024)
