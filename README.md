@@ -74,6 +74,11 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
     * [Projekt s testmi](assignments/Assignment1.zip)
 
 2. Ideme na teambuilding (deadline 12. 4. 2024)
+
+    * [Znenie zadania](assignments/Zadanie2.pdf)
+    * [Kostra riešenia](assignments/Assignment2.zip)
+    * Testy *(TBA)*
+
 3. *TBA* (deadline 10. 5. 2024)
 <!--### Skúška <a name="exam"></a>-->
 
