@@ -77,7 +77,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 
     * [Znenie zadania](assignments/Zadanie2.pdf)
     * [Kostra riešenia](assignments/Assignment2.zip)
-    * Testy *(TBA)*
+    * [Testy](assignments/A2_tests.zip)
 
 3. *TBA* (deadline 10. 5. 2024)
 <!--### Skúška <a name="exam"></a>-->
