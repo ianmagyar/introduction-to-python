@@ -33,7 +33,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  7. týždeň<br>25. 3. - 31. 3. |             [Wordle pomocou OOP](labs/lab07-wordle-in-oop.ipynb)            |                           Veľká Noc                          |                                                         |
 |  8. týždeň<br>1. 4. - 7. 4.   |                 Veľká Noc                 |                   Princípy OOP a metametódy                  |             D6 odovzdávka<br>D7 publikovaná             |
 |  9. týždeň<br>8. 4. - 14. 4.  |     Modelovanie hry poker pomocou OOP     |                         OOP v Pythone                        |           Z2, D7 odovzdávka<br>Z3 publikované           |
-| 10. týždeň<br>15. 4. - 21. 4. |           Výpočet hodnoti pi              |                Test 3<br>Jednoduché simulácie                |                     D8 publikovaná                      |
+| 10. týždeň<br>15. 4. - 21. 4. |           Výpočet hodnoty pi              |                Test 3<br>Jednoduché simulácie                |                     D8 publikovaná                      |
 | 11. týždeň<br>22. 4. - 28. 4. |   Simulácia letu komára, návrh simulácií  |                Výpočtové modely a simulácie                  |           D8 odovzdávka<br>D9, D10 publikované          |
 | 12. týždeň<br>29. 4. - 5. 5.  |          Vývoj hier v Pythone             |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
 | 13. týždeň<br>6. 5. - 12. 5.  |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |             Z3 odovzdávka<br>D10 odovzdávka             |
