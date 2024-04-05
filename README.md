@@ -31,7 +31,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  5. týždeň<br>11. 3. - 17. 3. |                   [Wordle](labs/lab05-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.ipynb)) |         Z1, D4 odovzdávka<br>[D5 publikovaná](assignments/homeworks/homework05.md)         |
 |  6. týždeň<br>18. 3. - 24. 3. |             [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)             |    Test 2<br>[Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.ipynb))   |           D5 odovzdávka<br>[Z2](assignments/Zadanie2.pdf), [D6 publikované](assignments/homeworks/homework06.md)           |
 |  7. týždeň<br>25. 3. - 31. 3. |             [Wordle pomocou OOP](labs/lab07-wordle-in-oop.ipynb)            |                           Veľká Noc                          |                                                         |
-|  8. týždeň<br>1. 4. - 7. 4.   |                 Veľká Noc                 |                   [Princípy OOP a metametódy](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                  |             D6 odovzdávka<br>D7 publikovaná             |
+|  8. týždeň<br>1. 4. - 7. 4.   |                 Veľká Noc                 |                   [Princípy OOP a metametódy](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                  |             D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework07.md)             |
 |  9. týždeň<br>8. 4. - 14. 4.  |     Modelovanie hry poker pomocou OOP     |                         [OOP v Pythone](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                        |           Z2, D7 odovzdávka<br>Z3 publikované           |
 | 10. týždeň<br>15. 4. - 21. 4. |           Výpočet hodnoty pi              |                Test 3<br>Jednoduché simulácie                |                     D8 publikovaná                      |
 | 11. týždeň<br>22. 4. - 28. 4. |   Simulácia letu komára, návrh simulácií  |                Výpočtové modely a simulácie                  |           D8 odovzdávka<br>D9, D10 publikované          |
@@ -60,7 +60,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 4. [ošetrenie chýb](assignments/homeworks/homework04.md) (deadline 15. 3. 2024)
 5. [písanie unit testov](assignments/homeworks/homework05.md) (deadline 22. 3. 2024)
 6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework06.md) (deadline 5. 4. 2024)
-7. hierarchia tried a metametódy (deadline 12. 4. 2024)
+7. [hierarchia tried a prepisovanie metód](assignments/homeworks/homework07.md) (deadline 12. 4. 2024)
 8. generovanie grafov (deadline 26. 4. 2024)
 9. použitie knižníc numpy a pandas (deadline 3. 5. 2024)
 10. oprava DÚ (deadline 10. 5. 2024)
