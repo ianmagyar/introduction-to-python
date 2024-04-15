@@ -32,7 +32,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  6. týždeň<br>18. 3. - 24. 3. |             [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)             |    Test 2<br>[Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.ipynb))   |           D5 odovzdávka<br>[Z2](assignments/Zadanie2.pdf), [D6 publikované](assignments/homeworks/homework06.md)           |
 |  7. týždeň<br>25. 3. - 31. 3. |             [Wordle pomocou OOP](labs/lab07-wordle-in-oop.ipynb)            |                           Veľká Noc                          |                                                         |
 |  8. týždeň<br>1. 4. - 7. 4.   |                 Veľká Noc                 |                   [Princípy OOP a metametódy](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                  |             D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework07.md)             |
-|  9. týždeň<br>8. 4. - 14. 4.  |     [Modelovanie hry poker pomocou OOP](labs/lab08-poker-in-oop.ipynb)     |                         [OOP v Pythone](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                        |           Z2, D7 odovzdávka<br>Z3 publikované           |
+|  9. týždeň<br>8. 4. - 14. 4.  |     [Modelovanie hry poker pomocou OOP](labs/lab08-poker-in-oop.ipynb)     |                         [OOP v Pythone](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                        |           Z2, D7 odovzdávka<br>[Z3 publikované](assignments/Zadanie3.pdf)           |
 | 10. týždeň<br>15. 4. - 21. 4. |           [Výpočet hodnoty pi](labs/lab09-estimating-pi.ipynb)              |                Test 3<br>[Jednoduché simulácie](lectures/Lecture-08.pdf)<br>([kód z prednášky](lectures/codes/lecture08.zip))                |                     D8 publikovaná                      |
 | 11. týždeň<br>22. 4. - 28. 4. |   Simulácia letu komára, návrh simulácií  |                Výpočtové modely a simulácie                  |           D8 odovzdávka<br>D9, D10 publikované          |
 | 12. týždeň<br>29. 4. - 5. 5.  |          Vývoj hier v Pythone             |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
@@ -79,7 +79,12 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
     * [Kostra riešenia](assignments/Assignment2.zip)
     * [Testy](assignments/A2_tests.zip)
 
-3. *TBA* (deadline 10. 5. 2024)
+3. Šírenie správ (deadline 10. 5. 2024)
+
+    * [Znenie zadania](assignments/Zadanie3.pdf)
+    * [Kostra riešenia](assignments/Assignment3.zip)
+    * [Testy](assignments/A3_tests.zip)
+
 <!--### Skúška <a name="exam"></a>-->
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
