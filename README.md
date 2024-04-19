@@ -33,7 +33,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  7. týždeň<br>25. 3. - 31. 3. |             [Wordle pomocou OOP](labs/lab07-wordle-in-oop.ipynb)            |                           Veľká Noc                          |                                                         |
 |  8. týždeň<br>1. 4. - 7. 4.   |                 Veľká Noc                 |                   [Princípy OOP a metametódy](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                  |             D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework07.md)             |
 |  9. týždeň<br>8. 4. - 14. 4.  |     [Modelovanie hry poker pomocou OOP](labs/lab08-poker-in-oop.ipynb)     |                         [OOP v Pythone](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                        |           Z2, D7 odovzdávka<br>[Z3 publikované](assignments/Zadanie3.pdf)           |
-| 10. týždeň<br>15. 4. - 21. 4. |           [Výpočet hodnoty pi](labs/lab09-estimating-pi.ipynb)              |                Test 3<br>[Jednoduché simulácie](lectures/Lecture-08.pdf)<br>([kód z prednášky](lectures/codes/lecture08.zip))                |                     D8 publikovaná                      |
+| 10. týždeň<br>15. 4. - 21. 4. |           [Výpočet hodnoty pi](labs/lab09-estimating-pi.ipynb)              |                Test 3<br>[Jednoduché simulácie](lectures/Lecture-08.pdf)<br>([kód z prednášky](lectures/codes/lecture08.zip))                |                     [D8 publikovaná](assignments/homeworks/homework08.md)                      |
 | 11. týždeň<br>22. 4. - 28. 4. |   Simulácia letu komára, návrh simulácií  |                Výpočtové modely a simulácie                  |           D8 odovzdávka<br>D9, D10 publikované          |
 | 12. týždeň<br>29. 4. - 5. 5.  |          Vývoj hier v Pythone             |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
 | 13. týždeň<br>6. 5. - 12. 5.  |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |             Z3 odovzdávka<br>D10 odovzdávka             |
@@ -61,7 +61,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 5. [písanie unit testov](assignments/homeworks/homework05.md) (deadline 22. 3. 2024)
 6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework06.md) (deadline 5. 4. 2024)
 7. [hierarchia tried a prepisovanie metód](assignments/homeworks/homework07.md) (deadline 12. 4. 2024)
-8. generovanie grafov (deadline 26. 4. 2024)
+8. [generovanie grafov](assignments/homeworks/homework08.md) (deadline 26. 4. 2024)
 9. použitie knižníc numpy a pandas (deadline 3. 5. 2024)
 10. oprava DÚ (deadline 10. 5. 2024)
 
