@@ -1,0 +1,250 @@
+Athletic Bilbao 1 - 1 Getafe CF
+Real Betis 1 - 1 Girona FC
+RC Celta de Vigo 2 - 1 Deportivo Alavés
+UD Las Palmas 2 - 2 Sevilla FC
+CA Osasuna 1 - 1 CD Leganés
+Valencia CF 1 - 2 FC Barcelona
+Real Sociedad 1 - 2 Rayo Vallecano
+RCD Mallorca 1 - 1 Real Madrid CF
+Real Valladolid CF 1 - 0 RCD Espanyol
+Villarreal CF 2 - 2 Atlético Madrid
+RC Celta de Vigo 3 - 1 Valencia CF
+Sevilla FC 1 - 2 Villarreal CF
+CA Osasuna 1 - 0 RCD Mallorca
+FC Barcelona 2 - 1 Athletic Bilbao
+RCD Espanyol 0 - 1 Real Sociedad
+Getafe CF 0 - 0 Rayo Vallecano
+Real Madrid CF 3 - 0 Real Valladolid CF
+CD Leganés 2 - 1 UD Las Palmas
+Deportivo Alavés 0 - 0 Real Betis
+Atlético Madrid 3 - 0 Girona FC
+Villarreal CF 4 - 3 RC Celta de Vigo
+RCD Mallorca 0 - 0 Sevilla FC
+Rayo Vallecano 1 - 2 FC Barcelona
+Athletic Bilbao 1 - 0 Valencia CF
+Real Valladolid CF 0 - 0 CD Leganés
+Atlético Madrid 0 - 0 RCD Espanyol
+Real Sociedad 1 - 2 Deportivo Alavés
+Girona FC 4 - 0 CA Osasuna
+UD Las Palmas 1 - 1 Real Madrid CF
+FC Barcelona 7 - 0 Real Valladolid CF
+Athletic Bilbao 0 - 1 Atlético Madrid
+RCD Espanyol 2 - 1 Rayo Vallecano
+CD Leganés 0 - 1 RCD Mallorca
+Valencia CF 1 - 1 Villarreal CF
+Deportivo Alavés 2 - 0 UD Las Palmas
+CA Osasuna 3 - 2 RC Celta de Vigo
+Sevilla FC 0 - 2 Girona FC
+Getafe CF 0 - 0 Real Sociedad
+Real Madrid CF 2 - 0 Real Betis
+Real Betis 2 - 0 CD Leganés
+RCD Mallorca 1 - 2 Villarreal CF
+RCD Espanyol 3 - 2 Deportivo Alavés
+Sevilla FC 1 - 0 Getafe CF
+Real Sociedad 0 - 2 Real Madrid CF
+RC Celta de Vigo 3 - 1 Real Valladolid CF
+Girona FC 1 - 4 FC Barcelona
+UD Las Palmas 2 - 3 Athletic Bilbao
+Atlético Madrid 3 - 0 Valencia CF
+Rayo Vallecano 3 - 1 CA Osasuna
+RCD Mallorca 1 - 0 Real Sociedad
+Real Betis 2 - 1 Getafe CF
+CD Leganés 0 - 2 Athletic Bilbao
+Deportivo Alavés 2 - 1 Sevilla FC
+Real Valladolid CF 0 - 0 Real Sociedad
+CA Osasuna 2 - 1 UD Las Palmas
+Valencia CF 2 - 0 Girona FC
+Real Madrid CF 4 - 1 RCD Espanyol
+Getafe CF 1 - 1 CD Leganés
+Athletic Bilbao 3 - 1 RC Celta de Vigo
+Villarreal CF 1 - 5 FC Barcelona
+Rayo Vallecano 1 - 1 Atlético Madrid
+Real Betis 1 - 2 RCD Mallorca
+Sevilla FC 2 - 1 Real Valladolid CF
+Valencia CF 0 - 0 CA Osasuna
+Real Madrid CF 3 - 2 Deportivo Alavés
+Girona FC 0 - 0 Rayo Vallecano
+FC Barcelona 1 - 0 Getafe CF
+RCD Espanyol 1 - 2 Villarreal CF
+UD Las Palmas 1 - 1 Real Betis
+RC Celta de Vigo 0 - 1 Atlético Madrid
+Real Valladolid CF 1 - 2 RCD Mallorca
+Getafe CF 2 - 0 Deportivo Alavés
+Rayo Vallecano 1 - 1 CD Leganés
+Real Sociedad 3 - 0 Valencia CF
+CA Osasuna 4 - 2 FC Barcelona
+RC Celta de Vigo 1 - 1 Girona FC
+Athletic Bilbao 1 - 1 Sevilla FC
+Real Betis 1 - 0 RCD Espanyol
+Atlético Madrid 1 - 1 Real Madrid CF
+Villarreal CF 3 - 1 UD Las Palmas
+CD Leganés 0 - 0 Valencia CF
+RCD Espanyol 2 - 1 RCD Mallorca
+Getafe CF 1 - 1 CA Osasuna
+UD Las Palmas 0 - 1 RC Celta de Vigo
+Real Valladolid CF 1 - 2 Rayo Vallecano
+Real Madrid CF 2 - 0 Villarreal CF
+Girona FC 2 - 1 Athletic Bilbao
+Deportivo Alavés 0 - 3 FC Barcelona
+Sevilla FC 1 - 0 Real Betis
+Real Sociedad 1 - 1 Atlético Madrid
+Deportivo Alavés 2 - 3 Real Valladolid CF
+Athletic Bilbao 4 - 1 RCD Espanyol
+CA Osasuna 1 - 2 Real Betis
+Girona FC 0 - 1 Real Sociedad
+RC Celta de Vigo 1 - 2 Real Madrid CF
+RCD Mallorca 1 - 0 Rayo Vallecano
+Atlético Madrid 3 - 1 CD Leganés
+Villarreal CF 1 - 1 Getafe CF
+FC Barcelona 5 - 1 Sevilla FC
+Valencia CF 2 - 3 UD Las Palmas
+RCD Espanyol 0 - 2 Sevilla FC
+Real Valladolid CF 1 - 2 Villarreal CF
+Rayo Vallecano 1 - 0 Deportivo Alavés
+UD Las Palmas 1 - 0 Girona FC
+Real Madrid CF 0 - 4 FC Barcelona
+CD Leganés 3 - 0 RC Celta de Vigo
+Getafe CF 1 - 1 Valencia CF
+Real Betis 1 - 0 Atlético Madrid
+Real Sociedad 0 - 2 CA Osasuna
+RCD Mallorca 0 - 0 Athletic Bilbao
+Deportivo Alavés 1 - 0 RCD Mallorca
+CA Osasuna 1 - 0 Real Valladolid CF
+Girona FC 4 - 3 CD Leganés
+Atlético Madrid 2 - 0 UD Las Palmas
+FC Barcelona 3 - 1 RCD Espanyol
+Sevilla FC 0 - 2 Real Sociedad
+Athletic Bilbao 1 - 1 Real Betis
+RC Celta de Vigo 1 - 0 Getafe CF
+Rayo Vallecano 1 - 3 UD Las Palmas
+Real Madrid CF 4 - 0 CA Osasuna
+Villarreal CF 3 - 0 Deportivo Alavés
+CD Leganés 1 - 0 Sevilla FC
+Real Betis 2 - 2 RC Celta de Vigo
+RCD Mallorca 0 - 1 Atlético Madrid
+Getafe CF 0 - 1 Girona FC
+Real Valladolid CF 1 - 1 Athletic Bilbao
+Real Sociedad 1 - 0 FC Barcelona
+Getafe CF 2 - 0 Real Valladolid CF
+Valencia CF 4 - 2 Real Betis
+Atlético Madrid 2 - 1 Deportivo Alavés
+Girona FC 4 - 1 RCD Espanyol
+UD Las Palmas 2 - 3 RCD Mallorca
+RC Celta de Vigo 2 - 2 FC Barcelona
+CA Osasuna 2 - 2 Villarreal CF
+Sevilla FC 1 - 0 Rayo Vallecano
+CD Leganés 0 - 3 Real Madrid CF
+Athletic Bilbao 1 - 0 Real Sociedad
+RCD Mallorca 2 - 1 Valencia CF
+FC Barcelona 1 - 2 UD Las Palmas
+Deportivo Alavés 1 - 1 CD Leganés
+RCD Espanyol 3 - 1 RC Celta de Vigo
+Real Valladolid CF 0 - 5 Atlético Madrid
+Villarreal CF 2 - 2 Girona FC
+Real Madrid CF 2 - 0 Getafe CF
+Rayo Vallecano 1 - 2 Athletic Bilbao
+Real Sociedad 2 - 0 Real Betis
+Sevilla FC 1 - 1 CA Osasuna
+RCD Mallorca 1 - 5 FC Barcelona
+Athletic Bilbao 2 - 1 Real Madrid CF
+RC Celta de Vigo 2 - 0 RCD Mallorca
+UD Las Palmas 2 - 1 Real Valladolid CF
+Real Betis 2 - 2 FC Barcelona
+Valencia CF 0 - 1 Rayo Vallecano
+Girona FC 0 - 3 Real Madrid CF
+CD Leganés 0 - 3 Real Sociedad
+Athletic Bilbao 2 - 0 Villarreal CF
+CA Osasuna 2 - 2 Deportivo Alavés
+Atlético Madrid 4 - 3 Sevilla FC
+Getafe CF 1 - 0 RCD Espanyol
+Real Valladolid CF 1 - 0 Valencia CF
+RCD Espanyol 0 - 0 CA Osasuna
+RCD Mallorca 2 - 1 Girona FC
+Sevilla FC 1 - 0 RC Celta de Vigo
+Rayo Vallecano 3 - 3 Real Madrid CF
+Atlético Madrid 1 - 0 Getafe CF
+Deportivo Alavés 1 - 1 Athletic Bilbao
+Real Sociedad 0 - 0 UD Las Palmas
+Villarreal CF 1 - 2 Real Betis
+FC Barcelona 0 - 1 CD Leganés
+RCD Espanyol 1 - 1 Valencia CF
+Villarreal CF 1 - 1 Rayo Vallecano
+Girona FC 3 - 0 Real Valladolid CF
+Getafe CF 0 - 1 RCD Mallorca
+RC Celta de Vigo 2 - 0 Real Sociedad
+CA Osasuna 1 - 2 Athletic Bilbao
+FC Barcelona 1 - 2 Atlético Madrid
+Valencia CF 2 - 2 Deportivo Alavés
+Real Madrid CF 4 - 2 Sevilla FC
+UD Las Palmas 1 - 0 RCD Espanyol
+CD Leganés 2 - 5 Villarreal CF
+Real Betis 1 - 1 Rayo Vallecano
+Valencia CF 1 - 2 Real Madrid CF
+Rayo Vallecano 2 - 1 RC Celta de Vigo
+Deportivo Alavés 0 - 1 Girona FC
+Real Valladolid CF 1 - 0 Real Betis
+RCD Espanyol 1 - 1 CD Leganés
+Sevilla FC 1 - 1 Valencia CF
+UD Las Palmas 1 - 2 Getafe CF
+Atlético Madrid 1 - 0 CA Osasuna
+Real Sociedad 1 - 0 Villarreal CF
+RCD Espanyol 2 - 1 Real Valladolid CF
+Girona FC 1 - 2 Sevilla FC
+CD Leganés 1 - 0 Atlético Madrid
+Real Betis 1 - 3 Deportivo Alavés
+Getafe CF 1 - 1 FC Barcelona
+RC Celta de Vigo 1 - 2 Athletic Bilbao
+Real Madrid CF 4 - 1 UD Las Palmas
+CA Osasuna 1 - 1 Rayo Vallecano
+Valencia CF 1 - 0 Real Sociedad
+Villarreal CF 4 - 0 RCD Mallorca
+UD Las Palmas 1 - 1 CA Osasuna
+RCD Mallorca 0 - 1 Real Betis
+Atlético Madrid 1 - 1 Villarreal CF
+Sevilla FC 1 - 1 RCD Espanyol
+Real Valladolid CF 0 - 3 Real Madrid CF
+Rayo Vallecano 2 - 1 Girona FC
+Real Sociedad 0 - 3 Getafe CF
+Athletic Bilbao 0 - 0 CD Leganés
+FC Barcelona 7 - 1 Valencia CF
+Deportivo Alavés 1 - 1 RC Celta de Vigo
+CD Leganés 0 - 1 Rayo Vallecano
+Getafe CF 0 - 0 Sevilla FC
+Villarreal CF 5 - 1 Real Valladolid CF
+Atlético Madrid 2 - 0 RCD Mallorca
+RCD Espanyol 1 - 0 Real Madrid CF
+FC Barcelona 1 - 0 Deportivo Alavés
+Valencia CF 2 - 1 RC Celta de Vigo
+CA Osasuna 2 - 1 Real Sociedad
+Real Betis 2 - 2 Athletic Bilbao
+Girona FC 2 - 1 UD Las Palmas
+Rayo Vallecano 1 - 0 Real Valladolid CF
+RC Celta de Vigo 3 - 2 Real Betis
+Athletic Bilbao 3 - 0 Girona FC
+UD Las Palmas 1 - 2 Villarreal CF
+Real Madrid CF 1 - 1 Atlético Madrid
+Deportivo Alavés 0 - 1 Getafe CF
+Valencia CF 2 - 0 CD Leganés
+Real Sociedad 2 - 1 RCD Espanyol
+Sevilla FC 1 - 4 FC Barcelona
+RCD Mallorca 1 - 1 CA Osasuna
+Girona FC 1 - 2 Getafe CF
+CD Leganés 3 - 3 Deportivo Alavés
+CA Osasuna 1 - 1 Real Madrid CF
+Atlético Madrid 1 - 1 RC Celta de Vigo
+Villarreal CF 1 - 1 Valencia CF
+RCD Espanyol 1 - 1 Athletic Bilbao
+Real Valladolid CF 0 - 4 Sevilla FC
+RCD Mallorca 3 - 1 UD Las Palmas
+Real Betis 3 - 0 Real Sociedad
+FC Barcelona 1 - 0 Rayo Vallecano
+RC Celta de Vigo 1 - 0 CA Osasuna
+Deportivo Alavés 0 - 1 RCD Espanyol
+Rayo Vallecano 0 - 1 Villarreal CF
+Valencia CF 0 - 3 Atlético Madrid
+UD Las Palmas 0 - 2 FC Barcelona
+Athletic Bilbao 7 - 1 Real Valladolid CF
+Real Madrid CF 2 - 0 Girona FC
+Getafe CF 1 - 2 Real Betis
+Real Sociedad 3 - 0 CD Leganés
+Sevilla FC 1 - 1 RCD Mallorca
