@@ -77,7 +77,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 1. Ohlásená doba meškania sa môže zmeniť (deadline 21. 3. 2025)
     * [Projekt s ukážkovým príkladom](assignments/Assignment1.zip)
     * [Znenie zadania](assignments/Assignment1.pdf)
-    * Testovacie súbory (*pridané 10. 3. 2025*)
+    * [Testovacie súbory](assignments/Assignment1_test.zip)
 
 2. *TBA* (deadline 11. 4. 2025)
 3. *TBA* (deadline 9. 5. 2025)
