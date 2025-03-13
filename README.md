@@ -33,7 +33,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  2. týždeň<br>17. 2. - 23. 2. |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         [Funkcie, rekurzia, generátory, lambda výrazy](lectures/Lecture-02.pdf) <br> ([kód z prednášky](lectures/codes/lecture02.ipynb))         |                     [D2 publikovaná](homeworks/homework02.md)                      |
 |  3. týždeň<br>24. 2. - 2. 3.  |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |                [Reťazce, zoznamy, n-tice, mapy](lectures/Lecture-03.pdf) <br> ([kód z prednášky](lectures/codes/lecture03.ipynb))                |           D1, D2 odovzdávka<br>[D3 publikovaná](homeworks/homework03.md)           |
 |  4. týždeň<br>3. 3. - 9. 3.   | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |          Test1<br>[Údajové štruktúry, numpy a pandas](lectures/Lecture-04.pdf) <br> ([kód z prednášky](lectures/codes/lecture04.ipynb))          |             D3 odovzdávka<br>[D4 publikovaná](homeworks/homework04.md)             |
-|  5. týždeň<br>10. 3. - 16. 3. |             [Kedy na Jedličku?](labs/lab05-when-to-party.ipynb)             |             Testovanie, ladenie, výnimky a chyby             |             D4 odovzdávka<br>D5 publikované             |
+|  5. týždeň<br>10. 3. - 16. 3. |             [Kedy na Jedličku?](labs/lab05-when-to-party.ipynb)             |             [Testovanie, ladenie, výnimky a chyby](lectures/Lecture-05.pdf) <br> ([kód z prednášky](lectures/codes/lecture05.ipynb))             |             D4 odovzdávka<br>[D5 publikovaná](homeworks/homework05.md)             |
 |  6. týždeň<br>17. 3. - 23. 3. |                   Wordle                  | Zložitosť algoritmov, optimalizácia, dynamické programovanie |          Z1, D5 odovzdávka<br>Z2, D6 publikované        |
 |  7. týždeň<br>24. 3. - 30. 3. |           Monte Carlo simulácie           |                 Výpočtové modely a simulácia                 |                      D6 odovzdávka                      |
 |  8. týždeň<br>31. 3. - 6. 4.  |             Wordle pomocou OOP            | Test 2<br>Úvod do objektovo orientovaného programovania, princípy |                D7 publikovaná                      |
@@ -64,7 +64,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 2. [funkcie](homeworks/homework02.md) (deadline 28. 2. 2025)
 3. [použitie lambda výrazov a list comprehension](homeworks/homework03.md) (deadline 7. 3. 2025)
 4. [numpy a pandas](homeworks/homework04.md) (deadline 14. 3. 2025)
-5. ošetrenie chýb (deadline 21. 3. 2025)
+5. [ošetrenie chýb](homeworks/homework05.md) (deadline 21. 3. 2025)
 6. písanie unit testov (deadline 28. 3. 2025)
 7. vytvorenie triedy z UML diagramu (deadline 11. 4. 2025)
 8. hierarchia tried a prepisovanie metód (deadline 18. 4. 2025)
