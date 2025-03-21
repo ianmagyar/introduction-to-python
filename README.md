@@ -34,15 +34,15 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  3. týždeň<br>24. 2. - 2. 3.  |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |                [Reťazce, zoznamy, n-tice, mapy](lectures/Lecture-03.pdf) <br> ([kód z prednášky](lectures/codes/lecture03.ipynb))                |           D1, D2 odovzdávka<br>[D3 publikovaná](homeworks/homework03.md)           |
 |  4. týždeň<br>3. 3. - 9. 3.   | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |          Test1<br>[Údajové štruktúry, numpy a pandas](lectures/Lecture-04.pdf) <br> ([kód z prednášky](lectures/codes/lecture04.ipynb))          |             D3 odovzdávka<br>[D4 publikovaná](homeworks/homework04.md)             |
 |  5. týždeň<br>10. 3. - 16. 3. |             [Kedy na Jedličku?](labs/lab05-when-to-party.ipynb)             |             [Testovanie, ladenie, výnimky a chyby](lectures/Lecture-05.pdf) <br> ([kód z prednášky](lectures/codes/lecture05.ipynb))             |             D4 odovzdávka<br>[D5 publikovaná](homeworks/homework05.md)             |
-|  6. týždeň<br>17. 3. - 23. 3. |                   [Wordle](labs/lab06-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-06.pdf) <br> ([kód z prednášky](lectures/codes/lecture06.ipynb)) |          Z1, D5 odovzdávka<br>Z2, [D6](homeworks/homework06.md) publikované        |
-|  7. týždeň<br>24. 3. - 30. 3. |           Monte Carlo simulácie           |                 Výpočtové modely a simulácia                 |                      D6 odovzdávka                      |
-|  8. týždeň<br>31. 3. - 6. 4.  |             Wordle pomocou OOP            | Test 2<br>Úvod do objektovo orientovaného programovania, princípy |                D7 publikovaná                      |
-|  9. týždeň<br>7. 4. - 13. 4.  |          Modelovanie a simulácia          |                         OOP v Pythone                        |           Z2, D7 odovzdávka<br>D8 publikovaná           |
-| 10. týždeň<br>14. 4. - 20. 4. |             Vývoj hry v pygame            |                           Veľká Noc                          |             D8 odovzdávka<br>Z3 publikované             |
-| 11. týždeň<br>21. 4. - 27. 4. |                 Veľká Noc                 |                   Test 3<br>Návrhové vzory                   |                   D9, D10 publikované                   |
+|  6. týždeň<br>17. 3. - 23. 3. |                   [Wordle](labs/lab06-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-06.pdf) <br> ([kód z prednášky](lectures/codes/lecture06.ipynb)) |          Z1, D5 odovzdávka<br>[D6 publikovaná](homeworks/homework06.md)        |
+|  7. týždeň<br>24. 3. - 30. 3. |           Monte Carlo simulácie           |            Test 2<br>Výpočtové modely a simulácia            |                      D6 odovzdávka<br>Z2 publikované                      |
+|  8. týždeň<br>31. 3. - 6. 4.  |             Wordle pomocou OOP            |    Úvod do objektovo orientovaného programovania, princípy   |                      D7 publikovaná                     |
+|  9. týždeň<br>7. 4. - 13. 4.  |          Modelovanie a simulácia          |                         OOP v Pythone                        |             D7 odovzdávka<br>D8 publikovaná             |
+| 10. týždeň<br>14. 4. - 20. 4. |             Vývoj hry v pygame            |                           Veľká Noc                          |                    Z2, D8 odovzdávka                    |
+| 11. týždeň<br>21. 4. - 27. 4. |                 Veľká Noc                 |                   Test 3<br>Návrhové vzory                   |                 Z3, D9, D10 publikované                 |
 | 12. týždeň<br>28. 4. - 4. 5.  |             Vývoj hry v pygame            |                       *štátny sviatok*                       |                      D9 odovzdávka                      |
-| 13. týždeň<br>5. 5. - 11. 5.  |             Vývoj hry v pygame            |                        Návrhové vzory                        |             Z3 odovzdávka<br>D10 odovzdávka             |
-| 14. týždeň<br>12. 5. - 18. 5. |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |                                                         |
+| 13. týždeň<br>5. 5. - 11. 5.  |             Vývoj hry v pygame            |                        Návrhové vzory                        |                     D10 odovzdávka                      |
+| 14. týždeň<br>12. 5. - 18. 5. |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |                      Z3 odovzdávka                      |
 
 ## Hodnotenie <a name="grading"></a>
 
@@ -79,8 +79,8 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
     * [Znenie zadania](assignments/Assignment1.pdf)
     * [Testovacie súbory](assignments/Assignment1_test.zip)
 
-2. *TBA* (deadline 11. 4. 2025)
-3. *TBA* (deadline 9. 5. 2025)
+2. *TBA* (deadline 18. 4. 2025)
+3. *TBA* (deadline 16. 5. 2025)
 
 <!--### Skúška <a name="exam"></a>-->
 
