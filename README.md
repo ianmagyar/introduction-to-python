@@ -36,7 +36,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  5. týždeň<br>10. 3. - 16. 3. |             [Kedy na Jedličku?](labs/lab05-when-to-party.ipynb)             |             [Testovanie, ladenie, výnimky a chyby](lectures/Lecture-05.pdf) <br> ([kód z prednášky](lectures/codes/lecture05.ipynb))             |             D4 odovzdávka<br>[D5 publikovaná](homeworks/homework05.md)             |
 |  6. týždeň<br>17. 3. - 23. 3. |                   [Wordle](labs/lab06-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-06.pdf) <br> ([kód z prednášky](lectures/codes/lecture06.ipynb)) |          Z1, D5 odovzdávka<br>[D6 publikovaná](homeworks/homework06.md)        |
 |  7. týždeň<br>24. 3. - 30. 3. |           [Monte Carlo simulácie](labs/lab07-monte-carlo-simulations.ipynb)           |            Test 2<br>[Výpočtové modely a simulácia](lectures/Lecture-07.pdf) <br> ([kód z prednášky](lectures/codes/lecture07.zip))            |                      D6 odovzdávka<br>[Z2 publikované](assignments/Assignment2.zip)                      |
-|  8. týždeň<br>31. 3. - 6. 4.  |             [Wordle pomocou OOP](labs/lab08-wordle-in-oop.ipynb)            |    [Úvod do objektovo orientovaného programovania, princípy](lectures/Lecture-08.pdf) <br> ([kód z prednášky](lectures/codes/lecture08.py)   |                      D7 publikovaná                     |
+|  8. týždeň<br>31. 3. - 6. 4.  |             [Wordle pomocou OOP](labs/lab08-wordle-in-oop.ipynb)            |    [Úvod do objektovo orientovaného programovania, princípy](lectures/Lecture-08.pdf) <br> ([kód z prednášky](lectures/codes/lecture08.py))   |                      [D7 publikovaná](homeworks/homework07.md)                     |
 |  9. týždeň<br>7. 4. - 13. 4.  |          Modelovanie a simulácia          |                         OOP v Pythone                        |             D7 odovzdávka<br>D8 publikovaná             |
 | 10. týždeň<br>14. 4. - 20. 4. |             Vývoj hry v pygame            |                           Veľká Noc                          |                    Z2, D8 odovzdávka                    |
 | 11. týždeň<br>21. 4. - 27. 4. |                 Veľká Noc                 |                   Test 3<br>Návrhové vzory                   |                 Z3, D9, D10 publikované                 |
@@ -66,7 +66,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 4. [numpy a pandas](homeworks/homework04.md) (deadline 14. 3. 2025)
 5. [ošetrenie chýb](homeworks/homework05.md) (deadline 21. 3. 2025)
 6. [písanie unit testov](homeworks/homework06.md) (deadline 28. 3. 2025)
-7. vytvorenie triedy z UML diagramu (deadline 11. 4. 2025)
+7. [vytvorenie triedy z UML diagramu](homeworks/homework07.md) (deadline 11. 4. 2025)
 8. hierarchia tried a prepisovanie metód (deadline 18. 4. 2025)
 9. implementácia návrhového vzoru (deadline 2. 5. 2025)
 10. oprava DÚ (deadline 9. 5. 2025)
