@@ -39,10 +39,10 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  8. týždeň<br>31. 3. - 6. 4.  |             [Wordle pomocou OOP](labs/lab08-wordle-in-oop.ipynb)            |    [Úvod do objektovo orientovaného programovania, princípy](lectures/Lecture-08.pdf) <br> ([kód z prednášky](lectures/codes/lecture08.py))   |                      [D7 publikovaná](homeworks/homework07.md)                     |
 |  9. týždeň<br>7. 4. - 13. 4.  |          [Modelovanie a simulácia](labs/lab09-mosquitos.ipynb)          |                         [OOP v Pythone](lectures/Lecture-09.pdf) <br> ([kód z prednášky](lectures/codes/lecture09.zip))                        |             D7 odovzdávka<br>[D8 publikovaná](homeworks/homework08.md)             |
 | 10. týždeň<br>14. 4. - 20. 4. |             [Vývoj hry v pygame](labs/lab10-pygame.ipynb)            |                           Veľká Noc                          |                      D8 odovzdávka                      |
-| 11. týždeň<br>21. 4. - 27. 4. |                 Veľká Noc                 |                   Test 3<br>[Návrhové vzory](lectures/Lecture-10.pdf)                   |        Z2 odovzdávka<br>Z3, D9, D10 publikované         |
-| 12. týždeň<br>28. 4. - 4. 5.  |                Web scraping               |                       *štátny sviatok*                       |                      D9 odovzdávka                      |
-| 13. týždeň<br>5. 5. - 11. 5.  |             Vývoj hry v pygame            |                        [Návrhové vzory](lectures/Lecture-11.pdf)                        |                     D10 odovzdávka                      |
-| 14. týždeň<br>12. 5. - 18. 5. |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |                      Z3 odovzdávka                      |
+| 11. týždeň<br>21. 4. - 27. 4. |                 Veľká Noc                 |                   Test 3<br>[Návrhové vzory](lectures/Lecture-10.pdf)                   |        Z3, [D9](homeworks/homework09.md), [D10](homeworks/homework10.md) publikované         |
+| 12. týždeň<br>28. 4. - 4. 5.  |                Web scraping               |                       *štátny sviatok*                       |                                                         |
+| 13. týždeň<br>5. 5. - 11. 5.  |             Vývoj hry v pygame            |                        [Návrhové vzory](lectures/Lecture-11.pdf)                        |                     D9 odovzdávka                      |
+| 14. týždeň<br>12. 5. - 18. 5. |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |                Z2, Z3 odovzdávka<br>D10 odovzdávka                |
 
 ## Hodnotenie <a name="grading"></a>
 
@@ -68,8 +68,8 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 6. [písanie unit testov](homeworks/homework06.md) (deadline 28. 3. 2025)
 7. [vytvorenie triedy z UML diagramu](homeworks/homework07.md) (deadline 11. 4. 2025)
 8. [hierarchia tried a prepisovanie metód](homeworks/homework08.md) (deadline 18. 4. 2025)
-9. implementácia návrhového vzoru (deadline 2. 5. 2025)
-10. oprava DÚ (deadline 9. 5. 2025)
+9. [implementácia návrhového vzoru](homeworks/homework09.md) (deadline 9. 5. 2025)
+10. [oprava DÚ](homeworks/homework10.md) (deadline 16. 5. 2025)
 
 ### Zadania <a name="assignments"></a>
 Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive (**nevytvárajte samostatný priečinok!**).
