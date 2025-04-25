@@ -79,12 +79,15 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
     * [Znenie zadania](assignments/Assignment1.pdf)
     * [Testovacie súbory](assignments/Assignment1_test.zip)
 
-2. Je to zákazka veľká (deadline 25. 4. 2025)
+2. Je to zákazka veľká (deadline 16. 5. 2025)
     * [Projekt s ukážkovým príkladom](assignments/Assignment2.zip)
     * [Znenie zadania](assignments/Assignment2.pdf)
     * *Testovacie súbory* (zverejnené 7. 4. 2025)
 
-3. *TBA* (deadline 16. 5. 2025)
+3. Šírenie správ (deadline 16. 5. 2025)
+    * [Projekt s ukážkovým príkladom](assignments/Assignment3.zip)
+    * [Znenie zadania](assignments/Assignment3.pdf)
+    * [Testovacie súbory](assignments/Assignment3_test.zip)
 
 <!--### Skúška <a name="exam"></a>-->
 
