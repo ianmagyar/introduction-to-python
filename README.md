@@ -82,7 +82,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 2. Je to zákazka veľká (deadline 16. 5. 2025)
     * [Projekt s ukážkovým príkladom](assignments/Assignment2.zip)
     * [Znenie zadania](assignments/Assignment2.pdf)
-    * *Testovacie súbory* (zverejnené 7. 4. 2025)
+    * [Testovacie súbory](assignments/Assignment2_test.zip)
 
 3. Šírenie správ (deadline 16. 5. 2025)
     * [Projekt s ukážkovým príkladom](assignments/Assignment3.zip)
