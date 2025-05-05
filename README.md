@@ -41,7 +41,7 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 | 10. týždeň<br>14. 4. - 20. 4. |             [Vývoj hry v pygame](labs/lab10-pygame.ipynb)            |                           Veľká Noc                          |                      D8 odovzdávka                      |
 | 11. týždeň<br>21. 4. - 27. 4. |                 Veľká Noc                 |                   Test 3<br>[Návrhové vzory](lectures/Lecture-10.pdf)                   |        Z3, [D9](homeworks/homework09.md), [D10](homeworks/homework10.md) publikované         |
 | 12. týždeň<br>28. 4. - 4. 5.  |                [Web scraping](labs/lab11-web-scraping.ipynb)               |                       *štátny sviatok*                       |                                                         |
-| 13. týždeň<br>5. 5. - 11. 5.  |         Strojové učenie v Pythone         |                        [Návrhové vzory](lectures/Lecture-11.pdf)                        |                     D9 odovzdávka                      |
+| 13. týždeň<br>5. 5. - 11. 5.  |         [Strojové učenie v Pythone](labs/lab12-introduction-to-ml.ipynb)         |                        [Návrhové vzory](lectures/Lecture-11.pdf)                        |                     D9 odovzdávka                      |
 | 14. týždeň<br>12. 5. - 18. 5. |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |                Z2, Z3 odovzdávka<br>D10 odovzdávka                |
 
 ## Hodnotenie <a name="grading"></a>
