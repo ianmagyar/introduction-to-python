@@ -8,7 +8,10 @@ Prednášajúci predmetu: [Ing. Ján Magyar, PhD.](https://cit.fei.tuke.sk/peopl
 
 Cvičiaci predmetu:
 
-* TBA
+* Bc. Matúš Belinský
+* Bc. Dávid Firda
+* Bc. Volodymyr Hordiichuk
+* Bc. Jakub Suďa
 
 ## Obsah
 1. [Plán prednášok a cvičení](#plan)
@@ -22,7 +25,7 @@ Cvičiaci predmetu:
 ## Plán prednášok a cvičení <a name="plan"></a>
 Prednášky sú vo štvrtok o 13:30 v miestnosti P25 v hlavnej budove L9. Účasť na prednáške nie je povinná.
 
-Cvičenia sú ... . Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení po dohode s vyučujúcim alebo vypracovaním cvičenia pre daný týždeň a poslaním riešenia vyučujúcemu.
+Cvičenia sú v pondelky o 7:30 (PK6_PC12), o 9:10 (PK6_PC1 a PK6_PC17) a o 10:50 (PK6_PC1) a v utorky o 7:30 (PK6_PC1), o 9:10 (V4_147), o 10:50 (PK6_PC16) a 13:30 (PK6_PC1). Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení po dohode s vyučujúcim alebo vypracovaním cvičenia pre daný týždeň a poslaním riešenia vyučujúcemu.
 
 Organizačné informácie o predmete nájdete v tomto dokumente.
 
