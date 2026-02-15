@@ -31,9 +31,9 @@ Organizačné informácie o predmete nájdete v tomto dokumente.
 
 |                               |                  Cvičenie                 |                           Prednáška                          |                        Termíny                          |
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>16. 2. - 22. 2. |   Nastavenie programátorského prostredia  |                  Syntax, jazykové konštrukty                 |            Z1 publikované<br>D1 publikovaná             |
-|  2. týždeň<br>23. 2. - 1. 3.  |          Prvé programy v Pythone          |         Funkcie, rekurzia, generátory, lambda výrazy         |                     D2 publikovaná                      |
-|  3. týždeň<br>2. 3. - 8. 3.   |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |           D1, D2 odovzdávka<br>D3 publikovaná           |
+|  1. týždeň<br>16. 2. - 22. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |                  Syntax, jazykové konštrukty                 |            Z1 publikované<br>D1 publikovaná             |
+|  2. týždeň<br>23. 2. - 1. 3.  |          Prvé programy v Pythone          |         Funkcie, rekurzia, generátory, lambda výrazy         |             D1 odovzdávka<br>D2 publikovaná             |
+|  3. týždeň<br>2. 3. - 8. 3.   |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |             D2 odovzdávka<br>D3 publikovaná             |
 |  4. týždeň<br>9. 3. - 15. 3.  | Práca so základnými údajovými štruktúrami |              Údajové štruktúry, numpy a pandas               |             D3 odovzdávka<br>D4 publikovaná             |
 |  5. týždeň<br>16. 3. - 22. 3. |             Kedy na Jedličku?             |             Testovanie, ladenie, výnimky a chyby             |           Z1, D4 odovzdávka<br>D5 publikovaná           |
 |  6. týždeň<br>23. 3. - 29. 3. |                   Wordle                  | Zložitosť algoritmov, optimalizácia, dynamické programovanie |             Z2 publikované<br>D5 odovzdávka             |
