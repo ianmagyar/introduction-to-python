@@ -27,11 +27,11 @@ Prednášky sú vo štvrtok o 13:30 v miestnosti P25 v hlavnej budove L9. Účas
 
 Cvičenia sú v pondelky o 7:30 (PK6_PC12), o 9:10 (PK6_PC1 a PK6_PC17) a o 10:50 (PK6_PC1) a v utorky o 7:30 (PK6_PC1), o 9:10 (V4_147), o 10:50 (PK6_PC16) a 13:30 (PK6_PC1). Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení po dohode s vyučujúcim alebo vypracovaním cvičenia pre daný týždeň a poslaním riešenia vyučujúcemu.
 
-Organizačné informácie o predmete nájdete v tomto dokumente.
+Organizačné informácie o predmete nájdete [v tomto dokumente](lectures/Lecture-00.pdf).
 
 |                               |                  Cvičenie                 |                           Prednáška                          |                        Termíny                          |
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>16. 2. - 22. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |                  Syntax, jazykové konštrukty                 |            Z1 publikované<br>D1 publikovaná             |
+|  1. týždeň<br>16. 2. - 22. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |                  [Syntax, jazykové konštrukty](lectures/Lecture-01.pdf)                 |            Z1 publikované<br>D1 publikovaná             |
 |  2. týždeň<br>23. 2. - 1. 3.  |          Prvé programy v Pythone          |         Funkcie, rekurzia, generátory, lambda výrazy         |             D1 odovzdávka<br>D2 publikovaná             |
 |  3. týždeň<br>2. 3. - 8. 3.   |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |             D2 odovzdávka<br>D3 publikovaná             |
 |  4. týždeň<br>9. 3. - 15. 3.  | Práca so základnými údajovými štruktúrami |              Údajové štruktúry, numpy a pandas               |             D3 odovzdávka<br>D4 publikovaná             |
