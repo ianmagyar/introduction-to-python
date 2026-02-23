@@ -71,10 +71,10 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 ### Zadania <a name="assignments"></a>
 Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive (**nevytvárajte samostatný priečinok!**).
 
-1. *TBA* (deadline 20. 3. 2026)
-    * Projekt s ukážkovým príkladom
-    * Znenie zadania
-    * Testovacie súbory
+1. 42(,195) km dát (deadline 20. 3. 2026)
+    * [Projekt s ukážkovým príkladom](assignments/Zadanie1.pdf)
+    * [Znenie zadania](assignments/Assignment1.zip)
+    * Testovacie súbory - *TBA* 6. 3. 2026
 
 2. *TBA* (deadline 10. 4. 2026)
     * Projekt s ukážkovým príkladom
