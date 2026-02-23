@@ -31,7 +31,7 @@ Organizačné informácie o predmete nájdete [v tomto dokumente](lectures/Lectu
 
 |                               |                  Cvičenie                 |                           Prednáška                          |                        Termíny                          |
 |:-----------------------------:|:-----------------------------------------:|:------------------------------------------------------------:|---------------------------------------------------------|
-|  1. týždeň<br>16. 2. - 22. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |                  [Syntax, jazykové konštrukty](lectures/Lecture-01.pdf)<br>([kód z prednášky](lectures/codes/lecture01.ipynb))                 |            Z1 publikované<br>[D1 publikovaná](homeworks/homework01.md)             |
+|  1. týždeň<br>16. 2. - 22. 2. |   [Nastavenie programátorského prostredia](labs/lab01-setting-up.ipynb)  |                  [Syntax, jazykové konštrukty](lectures/Lecture-01.pdf)<br>([kód z prednášky](lectures/codes/lecture01.ipynb))                 |            [Z1 publikované](assignments/Assignment1.zip)<br>[D1 publikovaná](homeworks/homework01.md)             |
 |  2. týždeň<br>23. 2. - 1. 3.  |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         Funkcie, rekurzia, generátory, lambda výrazy         |             D1 odovzdávka<br>D2 publikovaná             |
 |  3. týždeň<br>2. 3. - 8. 3.   |               Algoritmizácia              |                Reťazce, zoznamy, n-tice, mapy                |             D2 odovzdávka<br>D3 publikovaná             |
 |  4. týždeň<br>9. 3. - 15. 3.  | Práca so základnými údajovými štruktúrami |              Údajové štruktúry, numpy a pandas               |             D3 odovzdávka<br>D4 publikovaná             |
@@ -72,8 +72,8 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive (**nevytvárajte samostatný priečinok!**).
 
 1. 42(,195) km dát (deadline 20. 3. 2026)
-    * [Projekt s ukážkovým príkladom](assignments/Zadanie1.pdf)
-    * [Znenie zadania](assignments/Assignment1.zip)
+    * [Projekt s ukážkovým príkladom](assignments/Assignment1.zip)
+    * [Znenie zadania](assignments/Zadanie1.pdf)
     * Testovacie súbory - *TBA* 6. 3. 2026
 
 2. *TBA* (deadline 10. 4. 2026)
