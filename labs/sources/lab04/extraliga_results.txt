@@ -1,0 +1,300 @@
+Michalovce 3 - 2 Košice
+Banská Bystrica 6 - 5 Spišská Nová Ves
+Prešov 4 - 3 Liptovský Mikuláš
+Poprad 2 - 4 Slovan Bratislava
+Nitra 1 - 5 Nové Zámky
+Zvolen 4 - 1 Dukla Trenčín
+Spišská Nová Ves 6 - 2 Dukla Trenčín
+Nové Zámky 2 - 3e Prešov
+Liptovský Mikuláš 3 - 4e Zvolen
+Banská Bystrica 2 - 3 Michalovce
+Poprad 5 - 1 Nitra
+Liptovský Mikuláš 4 - 1 Dukla Trenčín
+Michalovce 4e - 3 Spišská Nová Ves
+Banská Bystrica 1 - 5 Slovan Bratislava
+Zvolen 2 - 1 Nové Zámky
+Prešov 2 - 3 Poprad
+Nitra 3 - 2 Košice
+Slovan Bratislava 4 - 1 Michalovce
+Nové Zámky 6 - 2 Dukla Trenčín
+Košice 1 - 2 Prešov
+Banská Bystrica 3e - 2 Nitra
+Spišská Nová Ves 0 - 3 Liptovský Mikuláš
+Poprad 3e - 2 Zvolen
+Liptovský Mikuláš 1 - 3 Nové Zámky
+Spišská Nová Ves 2e - 1 Slovan Bratislava
+Prešov 2 - 3e Banská Bystrica
+Poprad 3 - 4 Dukla Trenčín
+Nitra 3 - 2 Michalovce
+Zvolen 5 - 2 Košice
+Slovan Bratislava 4 - 2 Nitra
+Spišská Nová Ves 2 - 3 Nové Zámky
+Košice 5 - 2 Dukla Trenčín
+Banská Bystrica 4e - 3 Zvolen
+Michalovce 2 - 3 Prešov
+Poprad 5 - 1 Liptovský Mikuláš
+Banská Bystrica 0 - 6 Dukla Trenčín
+Zvolen 4 - 3 Michalovce
+Prešov 5 - 6 Slovan Bratislava
+Nové Zámky 5 - 4 Poprad
+Nitra 2 - 3 Spišská Nová Ves
+Liptovský Mikuláš 2 - 3 Košice
+Slovan Bratislava 10 - 2 Zvolen
+Nové Zámky 5 - 2 Košice
+Nitra 4 - 3 Prešov
+Michalovce 1 - 2e Dukla Trenčín
+Banská Bystrica 1 - 3 Liptovský Mikuláš
+Spišská Nová Ves 4 - 3 Poprad
+Liptovský Mikuláš 0 - 1 Michalovce
+Košice 4 - 1 Poprad
+Zvolen 4 - 3 Nitra
+Prešov 2 - 3e Spišská Nová Ves
+Nové Zámky 1 - 3 Banská Bystrica
+Slovan Bratislava 4 - 1 Dukla Trenčín
+Slovan Bratislava 4 - 0 Liptovský Mikuláš
+Spišská Nová Ves 1 - 2e Košice
+Nitra 2 - 1 Dukla Trenčín
+Michalovce 4 - 5e Nové Zámky
+Banská Bystrica 1 - 3 Poprad
+Prešov 3e - 2 Zvolen
+Banská Bystrica 5 - 6 Košice
+Liptovský Mikuláš 1 - 5 Nitra
+Spišská Nová Ves 3 - 0 Zvolen
+Prešov 2 - 5 Dukla Trenčín
+Poprad 4 - 3 Michalovce
+Nové Zámky 5 - 0 Slovan Bratislava
+Nové Zámky 8 - 1 Nitra
+Michalovce 4 - 1 Košice
+Zvolen 5 - 2 Dukla Trenčín
+Slovan Bratislava 5 - 0 Poprad
+Liptovský Mikuláš 6e - 5 Prešov
+Spišská Nová Ves 3 - 2 Dukla Trenčín
+Zvolen 6e - 5 Liptovský Mikuláš
+Slovan Bratislava 1 - 2e Košice
+Prešov 1 - 4 Nové Zámky
+Nitra 3 - 2 Poprad
+Michalovce 2 - 4 Banská Bystrica
+Banská Bystrica 0 - 5 Slovan Bratislava
+Spišská Nová Ves 1 - 4 Michalovce
+Nové Zámky 4 - 3 Zvolen
+Liptovský Mikuláš 2 - 3 Dukla Trenčín
+Poprad 3 - 0 Prešov
+Košice 4 - 0 Nitra
+Liptovský Mikuláš 4 - 2 Spišská Nová Ves
+Michalovce 2 - 1 Slovan Bratislava
+Prešov 1 - 6 Košice
+Nové Zámky 0 - 3 Dukla Trenčín
+Nitra 4e - 3 Banská Bystrica
+Zvolen 5 - 2 Poprad
+Michalovce 4 - 3 Nitra
+Spišská Nová Ves 4 - 1 Slovan Bratislava
+Poprad 3e - 2 Dukla Trenčín
+Nové Zámky 1 - 2 Liptovský Mikuláš
+Prešov 2 - 3 Banská Bystrica
+Košice 4e - 3 Zvolen
+Spišská Nová Ves 3 - 2 Nitra
+Prešov 1 - 2e Michalovce
+Liptovský Mikuláš 4e - 3 Poprad
+Košice 4 - 2 Dukla Trenčín
+Zvolen 6 - 3 Banská Bystrica
+Nové Zámky 3e - 2 Spišská Nová Ves
+Slovan Bratislava 5 - 2 Prešov
+Michalovce 2 - 3e Zvolen
+Košice 6 - 1 Liptovský Mikuláš
+Banská Bystrica 2 - 6 Dukla Trenčín
+Poprad 5 - 1 Nové Zámky
+Nové Zámky 6 - 2 Košice
+Zvolen 4 - 7 Slovan Bratislava
+Michalovce 3e - 2 Dukla Trenčín
+Poprad 3 - 6 Spišská Nová Ves
+Liptovský Mikuláš 4 - 5 Banská Bystrica
+Prešov 3 - 2 Nitra
+Liptovský Mikuláš 2 - 3e Michalovce
+Spišská Nová Ves 5 - 2 Prešov
+Košice 2 - 0 Poprad
+Slovan Bratislava 1 - 2e Dukla Trenčín
+Nitra 0 - 3 Zvolen
+Banská Bystrica 2 - 3e Nové Zámky
+Nitra 3 - 4 Dukla Trenčín
+Liptovský Mikuláš 1 - 2 Slovan Bratislava
+Zvolen 4 - 3 Prešov
+Poprad 5 - 0 Banská Bystrica
+Nové Zámky 1 - 3 Michalovce
+Košice 4 - 1 Spišská Nová Ves
+Košice 3 - 1 Slovan Bratislava
+Zvolen 4 - 0 Spišská Nová Ves
+Liptovský Mikuláš 5 - 2 Nitra
+Michalovce 2 - 1 Poprad
+Košice 6 - 1 Banská Bystrica
+Slovan Bratislava 1 - 0 Nové Zámky
+Prešov 3e - 2 Dukla Trenčín
+Nitra 2 - 4 Nové Zámky
+Banská Bystrica 5 - 1 Spišská Nová Ves
+Prešov 8 - 4 Liptovský Mikuláš
+Košice 3 - 4e Michalovce
+Poprad 3e - 2 Slovan Bratislava
+Dukla Trenčín 3 - 4 Zvolen
+Spišská Nová Ves 2 - 7 Banská Bystrica
+Nitra 1 - 4 Slovan Bratislava
+Dukla Trenčín 1 - 4 Spišská Nová Ves
+Liptovský Mikuláš 0 - 1 Zvolen
+Banská Bystrica 3 - 2 Michalovce
+Poprad 4e - 3 Nitra
+Nové Zámky 2 - 1 Prešov
+Nitra 1 - 3 Košice
+Michalovce 3e - 2 Spišská Nová Ves
+Zvolen 6 - 3 Nové Zámky
+Prešov 2 - 4 Poprad
+Slovan Bratislava 1 - 2 Banská Bystrica
+Dukla Trenčín 5 - 2 Liptovský Mikuláš
+Michalovce 5 - 1 Prešov
+Zvolen 3 - 0 Liptovský Mikuláš
+Slovan Bratislava 5 - 0 Nové Zámky
+Poprad 3 - 7 Banská Bystrica
+Dukla Trenčín 3 - 1 Nitra
+Spišská Nová Ves 4 - 2 Košice
+Spišská Nová Ves 0 - 2 Michalovce
+Košice 3 - 2 Prešov
+Banská Bystrica 2e - 1 Liptovský Mikuláš
+Poprad 2 - 0 Zvolen
+Dukla Trenčín 2 - 0 Nové Zámky
+Slovan Bratislava 7 - 3 Nitra
+Zvolen 6 - 3 Banská Bystrica
+Prešov 2 - 7 Spišská Nová Ves
+Liptovský Mikuláš 4 - 3 Poprad
+Nitra 2 - 5 Nové Zámky
+Dukla Trenčín 1 - 2e Slovan Bratislava
+Michalovce 1 - 2 Košice
+Liptovský Mikuláš 5 - 4 Zvolen
+Banská Bystrica 1 - 4 Poprad
+Prešov 3e - 2 Michalovce
+Nitra 4 - 1 Dukla Trenčín
+Košice 3 - 6 Spišská Nová Ves
+Nové Zámky 6 - 3 Slovan Bratislava
+Liptovský Mikuláš 5 - 2 Banská Bystrica
+Michalovce 2 - 3 Spišská Nová Ves
+Zvolen 2 - 3e Poprad
+Prešov 1 - 5 Košice
+Nové Zámky 3 - 2 Dukla Trenčín
+Nitra 3 - 6 Slovan Bratislava
+Spišská Nová Ves 5 - 1 Prešov
+Nové Zámky 1 - 2 Nitra
+Banská Bystrica 0 - 1 Zvolen
+Slovan Bratislava 6 - 0 Dukla Trenčín
+Poprad 5 - 3 Liptovský Mikuláš
+Košice 3 - 2 Michalovce
+Banská Bystrica 4 - 1 Nitra
+Spišská Nová Ves 3 - 2 Liptovský Mikuláš
+Poprad 0 - 6 Zvolen
+Dukla Trenčín 4 - 2 Nové Zámky
+Michalovce 3 - 2 Slovan Bratislava
+Nitra 4e - 3 Michalovce
+Zvolen 6 - 4 Košice
+Banská Bystrica 4 - 3 Prešov
+Liptovský Mikuláš 1 - 3 Nové Zámky
+Dukla Trenčín 3 - 2 Poprad
+Slovan Bratislava 4 - 3 Spišská Nová Ves
+Slovan Bratislava 2 - 3e Nitra
+Dukla Trenčín 2 - 7 Banská Bystrica
+Dukla Trenčín 1 - 2e Košice
+Michalovce 0 - 4 Prešov
+Banská Bystrica 3e - 2 Zvolen
+Poprad 0 - 2 Liptovský Mikuláš
+Spišská Nová Ves 3 - 2 Nové Zámky
+Dukla Trenčín 2 - 1 Zvolen
+Nové Zámky 2 - 5 Poprad
+Slovan Bratislava 3 - 1 Košice
+Košice 5 - 3 Nové Zámky
+Spišská Nová Ves 2 - 3e Poprad
+Dukla Trenčín 3 - 4 Michalovce
+Banská Bystrica 3 - 5 Liptovský Mikuláš
+Slovan Bratislava 2 - 4 Zvolen
+Dukla Trenčín 3 - 5 Slovan Bratislava
+Michalovce 0 - 1 Liptovský Mikuláš
+Zvolen 2 - 4 Nitra
+Poprad 4 - 2 Košice
+Nové Zámky 1 - 3 Banská Bystrica
+Prešov 4e - 3 Spišská Nová Ves
+Banská Bystrica 4 - 3 Poprad
+Michalovce 3 - 0 Nové Zámky
+Slovan Bratislava 0 - 3 Liptovský Mikuláš
+Prešov 5e - 4 Zvolen
+Spišská Nová Ves 2 - 3 Košice
+Dukla Trenčín 3 - 6 Nitra
+Nitra 3 - 4 Prešov
+Poprad 4e - 3 Michalovce
+Zvolen 0 - 2 Spišská Nová Ves
+Košice 1 - 2e Banská Bystrica
+Nitra 4 - 3 Liptovský Mikuláš
+Nové Zámky 3e - 2 Slovan Bratislava
+Dukla Trenčín 3 - 2 Prešov
+Spišská Nová Ves 3 - 4e Banská Bystrica
+Nové Zámky 1 - 3 Nitra
+Liptovský Mikuláš 3 - 4e Prešov
+Slovan Bratislava 5e - 4 Poprad
+Košice 5 - 1 Michalovce
+Liptovský Mikuláš 4 - 5e Košice
+Zvolen 6 - 3 Michalovce
+Nitra 3 - 0 Spišská Nová Ves
+Dukla Trenčín 4e - 3 Spišská Nová Ves
+Michalovce 1 - 3 Banská Bystrica
+Zvolen 2e - 1 Liptovský Mikuláš
+Prešov 1 - 2e Nové Zámky
+Nitra 4 - 5e Poprad
+Košice 0 - 1 Slovan Bratislava
+Spišská Nová Ves 5 - 1 Michalovce
+Poprad 3 - 4e Prešov
+Slovan Bratislava 4 - 2 Banská Bystrica
+Košice 2 - 3 Nitra
+Dukla Trenčín 5 - 4 Liptovský Mikuláš
+Nové Zámky 3 - 6 Zvolen
+Prešov 2 - 3 Slovan Bratislava
+Zvolen 6 - 2 Poprad
+Liptovský Mikuláš 4 - 1 Spišská Nová Ves
+Prešov 5 - 2 Košice
+Nitra 1 - 2 Banská Bystrica
+Slovan Bratislava 2 - 3 Michalovce
+Dukla Trenčín 3 - 2 Nové Zámky
+Michalovce 2 - 4 Nitra
+Banská Bystrica 3 - 2 Prešov
+Slovan Bratislava 5e - 4 Spišská Nová Ves
+Nové Zámky 3 - 0 Liptovský Mikuláš
+Dukla Trenčín 3 - 0 Poprad
+Košice 2 - 1 Zvolen
+Nové Zámky 5e - 4 Spišská Nová Ves
+Nitra 3 - 2 Slovan Bratislava
+Prešov 2 - 3e Michalovce
+Liptovský Mikuláš 3 - 4 Poprad
+Dukla Trenčín 3 - 5 Košice
+Zvolen 5 - 6 Banská Bystrica
+Spišská Nová Ves 3e - 2 Nitra
+Košice 4 - 0 Liptovský Mikuláš
+Poprad 5 - 3 Nové Zámky
+Michalovce 3 - 0 Zvolen
+Dukla Trenčín 3 - 1 Banská Bystrica
+Slovan Bratislava 1 - 4 Prešov
+Liptovský Mikuláš 1 - 4 Banská Bystrica
+Prešov 2 - 1 Nitra
+Poprad 5 - 3 Spišská Nová Ves
+Zvolen 0 - 2 Slovan Bratislava
+Košice 4 - 0 Nové Zámky
+Spišská Nová Ves 3 - 2 Prešov
+Nitra 4 - 2 Zvolen
+Michalovce 1 - 2 Liptovský Mikuláš
+Banská Bystrica 2 - 4 Nové Zámky
+Poprad 2 - 7 Košice
+Dukla Trenčín 3 - 6 Slovan Bratislava
+Dukla Trenčín 2 - 5 Michalovce
+Košice 5 - 0 Prešov
+Zvolen 7 - 0 Prešov
+Poprad 2 - 4 Banská Bystrica
+Nové Zámky 4 - 2 Michalovce
+Liptovský Mikuláš 3 - 1 Slovan Bratislava
+Košice 3 - 0 Spišská Nová Ves
+Dukla Trenčín 4 - 2 Nitra
+Spišská Nová Ves 6 - 3 Zvolen
+Slovan Bratislava 2 - 4 Nové Zámky
+Nitra 0 - 1 Liptovský Mikuláš
+Michalovce 2 - 4 Poprad
+Dukla Trenčín 1 - 4 Prešov
+Banská Bystrica 2 - 4 Košice

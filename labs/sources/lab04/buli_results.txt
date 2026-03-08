@@ -1,0 +1,216 @@
+FC Bayern München 6 - 0 RB Leipzig
+Eintracht Frankfurt 4 - 1 SV Werder Bremen
+SC Freiburg 1 - 3 FC Augsburg
+1. FC Heidenheim 1 - 3 VfL Wolfsburg
+Bayer 04 Leverkusen 1 - 2 TSG 1899 Hoffenheim
+1. FC Union Berlin 2 - 1 VfB Stuttgart
+FC St. Pauli 3 - 3 Borussia Dortmund
+1. FSV Mainz 05 0 - 1 1. FC Köln
+Borussia Mönchengladbach 0 - 0 Hamburger SV
+Hamburger SV 0 - 2 FC St. Pauli
+TSG 1899 Hoffenheim 1 - 3 Eintracht Frankfurt
+RB Leipzig 2 - 0 1. FC Heidenheim
+VfB Stuttgart 1 - 0 Borussia Mönchengladbach
+SV Werder Bremen 3 - 3 Bayer 04 Leverkusen
+FC Augsburg 2 - 3 FC Bayern München
+VfL Wolfsburg 1 - 1 1. FSV Mainz 05
+Borussia Dortmund 3 - 0 1. FC Union Berlin
+1. FC Köln 4 - 1 SC Freiburg
+Bayer 04 Leverkusen 3 - 1 Eintracht Frankfurt
+SC Freiburg 3 - 1 VfB Stuttgart
+1. FC Heidenheim 0 - 2 Borussia Dortmund
+1. FSV Mainz 05 0 - 1 RB Leipzig
+1. FC Union Berlin 2 - 4 TSG 1899 Hoffenheim
+VfL Wolfsburg 3 - 3 1. FC Köln
+FC Bayern München 5 - 0 Hamburger SV
+FC St. Pauli 2 - 1 FC Augsburg
+Borussia Mönchengladbach 0 - 4 SV Werder Bremen
+VfB Stuttgart 2 - 0 FC St. Pauli
+FC Augsburg 1 - 4 1. FSV Mainz 05
+Hamburger SV 2 - 1 1. FC Heidenheim
+TSG 1899 Hoffenheim 1 - 4 FC Bayern München
+SV Werder Bremen 0 - 3 SC Freiburg
+RB Leipzig 3 - 1 1. FC Köln
+Eintracht Frankfurt 3 - 4 1. FC Union Berlin
+Bayer 04 Leverkusen 1 - 1 Borussia Mönchengladbach
+Borussia Dortmund 1 - 0 VfL Wolfsburg
+FC Bayern München 4 - 0 SV Werder Bremen
+1. FC Heidenheim 2 - 1 FC Augsburg
+1. FSV Mainz 05 0 - 2 Borussia Dortmund
+FC St. Pauli 1 - 2 Bayer 04 Leverkusen
+VfL Wolfsburg 0 - 1 RB Leipzig
+Borussia Mönchengladbach 4 - 6 Eintracht Frankfurt
+SC Freiburg 1 - 1 TSG 1899 Hoffenheim
+1. FC Köln 1 - 2 VfB Stuttgart
+1. FC Union Berlin 0 - 0 Hamburger SV
+TSG 1899 Hoffenheim 0 - 1 1. FC Köln
+FC Augsburg 3 - 1 VfL Wolfsburg
+Borussia Dortmund 1 - 1 RB Leipzig
+Bayer 04 Leverkusen 2 - 0 1. FC Union Berlin
+SV Werder Bremen 1 - 0 FC St. Pauli
+Eintracht Frankfurt 0 - 3 FC Bayern München
+VfB Stuttgart 1 - 0 1. FC Heidenheim
+Hamburger SV 4 - 0 1. FSV Mainz 05
+Borussia Mönchengladbach 0 - 0 SC Freiburg
+1. FC Union Berlin 3 - 1 Borussia Mönchengladbach
+1. FC Köln 1 - 1 FC Augsburg
+1. FC Heidenheim 2 - 2 SV Werder Bremen
+1. FSV Mainz 05 3 - 4 Bayer 04 Leverkusen
+RB Leipzig 2 - 1 Hamburger SV
+VfL Wolfsburg 0 - 3 VfB Stuttgart
+FC Bayern München 2 - 1 Borussia Dortmund
+SC Freiburg 2 - 2 Eintracht Frankfurt
+FC St. Pauli 0 - 3 TSG 1899 Hoffenheim
+SV Werder Bremen 1 - 0 1. FC Union Berlin
+FC Augsburg 0 - 6 RB Leipzig
+Eintracht Frankfurt 2 - 0 FC St. Pauli
+Hamburger SV 0 - 1 VfL Wolfsburg
+TSG 1899 Hoffenheim 3 - 1 1. FC Heidenheim
+Borussia Mönchengladbach 0 - 3 FC Bayern München
+Borussia Dortmund 1 - 0 1. FC Köln
+Bayer 04 Leverkusen 2 - 0 SC Freiburg
+VfB Stuttgart 2 - 1 1. FSV Mainz 05
+FC Augsburg 0 - 1 Borussia Dortmund
+1. FC Heidenheim 1 - 1 Eintracht Frankfurt
+1. FSV Mainz 05 1 - 1 SV Werder Bremen
+RB Leipzig 3 - 1 VfB Stuttgart
+FC St. Pauli 0 - 4 Borussia Mönchengladbach
+1. FC Union Berlin 0 - 0 SC Freiburg
+FC Bayern München 3 - 0 Bayer 04 Leverkusen
+1. FC Köln 4 - 1 Hamburger SV
+VfL Wolfsburg 2 - 3 TSG 1899 Hoffenheim
+SV Werder Bremen 2 - 1 VfL Wolfsburg
+Hamburger SV 1 - 1 Borussia Dortmund
+TSG 1899 Hoffenheim 3 - 1 RB Leipzig
+Bayer 04 Leverkusen 6 - 0 1. FC Heidenheim
+1. FC Union Berlin 2 - 2 FC Bayern München
+Borussia Mönchengladbach 3 - 1 1. FC Köln
+SC Freiburg 2 - 1 FC St. Pauli
+VfB Stuttgart 3 - 2 FC Augsburg
+Eintracht Frankfurt 1 - 0 1. FSV Mainz 05
+1. FSV Mainz 05 1 - 1 TSG 1899 Hoffenheim
+FC Augsburg 1 - 0 Hamburger SV
+FC Bayern München 6 - 2 SC Freiburg
+Borussia Dortmund 3 - 3 VfB Stuttgart
+1. FC Heidenheim 0 - 3 Borussia Mönchengladbach
+VfL Wolfsburg 1 - 3 Bayer 04 Leverkusen
+1. FC Köln 3 - 4 Eintracht Frankfurt
+RB Leipzig 2 - 0 SV Werder Bremen
+FC St. Pauli 0 - 1 1. FC Union Berlin
+Borussia Mönchengladbach 0 - 0 RB Leipzig
+FC Bayern München 3 - 1 FC St. Pauli
+TSG 1899 Hoffenheim 3 - 0 FC Augsburg
+1. FC Union Berlin 1 - 2 1. FC Heidenheim
+SV Werder Bremen 1 - 1 1. FC Köln
+Bayer 04 Leverkusen 1 - 2 Borussia Dortmund
+Hamburger SV 2 - 1 VfB Stuttgart
+Eintracht Frankfurt 1 - 1 VfL Wolfsburg
+SC Freiburg 4 - 0 1. FSV Mainz 05
+1. FSV Mainz 05 0 - 1 Borussia Mönchengladbach
+FC Augsburg 2 - 0 Bayer 04 Leverkusen
+1. FC Köln 1 - 1 FC St. Pauli
+1. FC Heidenheim 2 - 1 SC Freiburg
+VfB Stuttgart 0 - 5 FC Bayern München
+VfL Wolfsburg 3 - 1 1. FC Union Berlin
+RB Leipzig 6 - 0 Eintracht Frankfurt
+Hamburger SV 3 - 2 SV Werder Bremen
+Borussia Dortmund 2 - 0 TSG 1899 Hoffenheim
+1. FC Union Berlin 3 - 1 RB Leipzig
+Eintracht Frankfurt 1 - 0 FC Augsburg
+TSG 1899 Hoffenheim 4 - 1 Hamburger SV
+Borussia Mönchengladbach 1 - 3 VfL Wolfsburg
+FC St. Pauli 2 - 1 1. FC Heidenheim
+Bayer 04 Leverkusen 2 - 0 1. FC Köln
+SC Freiburg 1 - 1 Borussia Dortmund
+FC Bayern München 2 - 2 1. FSV Mainz 05
+SV Werder Bremen 0 - 4 VfB Stuttgart
+Borussia Dortmund 2 - 0 Borussia Mönchengladbach
+FC Augsburg 0 - 0 SV Werder Bremen
+1. FC Köln 0 - 1 1. FC Union Berlin
+Hamburger SV 1 - 1 Eintracht Frankfurt
+VfB Stuttgart 0 - 0 TSG 1899 Hoffenheim
+VfL Wolfsburg 3 - 4 SC Freiburg
+RB Leipzig 1 - 3 Bayer 04 Leverkusen
+1. FSV Mainz 05 0 - 0 FC St. Pauli
+1. FC Heidenheim 0 - 4 FC Bayern München
+Eintracht Frankfurt 3 - 3 Borussia Dortmund
+SC Freiburg 2 - 1 Hamburger SV
+1. FC Heidenheim 2 - 2 1. FC Köln
+1. FC Union Berlin 2 - 2 1. FSV Mainz 05
+Bayer 04 Leverkusen 1 - 4 VfB Stuttgart
+Borussia Mönchengladbach 4 - 0 FC Augsburg
+FC Bayern München 8 - 1 VfL Wolfsburg
+VfB Stuttgart 3 - 2 Eintracht Frankfurt
+Borussia Dortmund 3 - 0 SV Werder Bremen
+1. FSV Mainz 05 2 - 1 1. FC Heidenheim
+VfL Wolfsburg 2 - 1 FC St. Pauli
+1. FC Köln 1 - 3 FC Bayern München
+TSG 1899 Hoffenheim 5 - 1 Borussia Mönchengladbach
+RB Leipzig 2 - 0 SC Freiburg
+FC Augsburg 1 - 1 1. FC Union Berlin
+SV Werder Bremen 3 - 3 Eintracht Frankfurt
+Borussia Dortmund 3 - 2 FC St. Pauli
+1. FC Köln 2 - 1 1. FSV Mainz 05
+Hamburger SV 0 - 0 Borussia Mönchengladbach
+TSG 1899 Hoffenheim 1 - 0 Bayer 04 Leverkusen
+VfL Wolfsburg 1 - 1 1. FC Heidenheim
+RB Leipzig 1 - 5 FC Bayern München
+VfB Stuttgart 1 - 1 1. FC Union Berlin
+FC Augsburg 2 - 2 SC Freiburg
+FC St. Pauli 0 - 0 Hamburger SV
+FC Bayern München 1 - 2 FC Augsburg
+Eintracht Frankfurt 1 - 3 TSG 1899 Hoffenheim
+1. FC Heidenheim 0 - 3 RB Leipzig
+Bayer 04 Leverkusen 1 - 0 SV Werder Bremen
+1. FSV Mainz 05 3 - 1 VfL Wolfsburg
+1. FC Union Berlin 0 - 3 Borussia Dortmund
+Borussia Mönchengladbach 0 - 3 VfB Stuttgart
+SC Freiburg 2 - 1 1. FC Köln
+FC St. Pauli 1 - 1 RB Leipzig
+SV Werder Bremen 0 - 2 TSG 1899 Hoffenheim
+1. FC Köln 1 - 0 VfL Wolfsburg
+FC Augsburg 2 - 1 FC St. Pauli
+Eintracht Frankfurt 1 - 3 Bayer 04 Leverkusen
+TSG 1899 Hoffenheim 3 - 1 1. FC Union Berlin
+RB Leipzig 1 - 2 1. FSV Mainz 05
+SV Werder Bremen 1 - 1 Borussia Mönchengladbach
+Hamburger SV 2 - 2 FC Bayern München
+VfB Stuttgart 1 - 0 SC Freiburg
+Borussia Dortmund 3 - 2 1. FC Heidenheim
+1. FC Union Berlin 1 - 1 Eintracht Frankfurt
+SC Freiburg 1 - 0 SV Werder Bremen
+1. FC Heidenheim 0 - 2 Hamburger SV
+1. FSV Mainz 05 2 - 0 FC Augsburg
+FC St. Pauli 2 - 1 VfB Stuttgart
+VfL Wolfsburg 1 - 2 Borussia Dortmund
+Borussia Mönchengladbach 1 - 1 Bayer 04 Leverkusen
+1. FC Köln 1 - 2 RB Leipzig
+FC Bayern München 5 - 1 TSG 1899 Hoffenheim
+Borussia Dortmund 4 - 0 1. FSV Mainz 05
+Eintracht Frankfurt 3 - 0 Borussia Mönchengladbach
+Hamburger SV 3 - 2 1. FC Union Berlin
+TSG 1899 Hoffenheim 3 - 0 SC Freiburg
+Bayer 04 Leverkusen 4 - 0 FC St. Pauli
+SV Werder Bremen 0 - 3 FC Bayern München
+VfB Stuttgart 3 - 1 1. FC Köln
+FC Augsburg 1 - 0 1. FC Heidenheim
+RB Leipzig 2 - 2 VfL Wolfsburg
+1. FSV Mainz 05 1 - 1 Hamburger SV
+FC Bayern München 3 - 2 Eintracht Frankfurt
+1. FC Köln 2 - 2 TSG 1899 Hoffenheim
+1. FC Union Berlin 1 - 0 Bayer 04 Leverkusen
+VfL Wolfsburg 2 - 3 FC Augsburg
+RB Leipzig 2 - 2 Borussia Dortmund
+SC Freiburg 2 - 1 Borussia Mönchengladbach
+FC St. Pauli 2 - 1 SV Werder Bremen
+1. FC Heidenheim 3 - 3 VfB Stuttgart
+FC Augsburg 2 - 0 1. FC Köln
+TSG 1899 Hoffenheim 0 - 1 FC St. Pauli
+Bayer 04 Leverkusen 1 - 1 1. FSV Mainz 05
+Borussia Mönchengladbach 1 - 0 1. FC Union Berlin
+SV Werder Bremen 2 - 0 1. FC Heidenheim
+Borussia Dortmund 2 - 3 FC Bayern München
+VfB Stuttgart 4 - 0 VfL Wolfsburg
+Eintracht Frankfurt 2 - 0 SC Freiburg
+Hamburger SV 1 - 2 RB Leipzig
+Hamburger SV 0 - 1 Bayer 04 Leverkusen

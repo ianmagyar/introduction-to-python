@@ -1,0 +1,270 @@
+Genoa 0 - 0 Lecce
+Sassuolo 0 - 2 Napoli
+AC Milan 1 - 2 Cremonese
+Roma 1 - 0 Bologna
+Cagliari 1 - 1 Fiorentina
+Como 2 - 0 Lazio
+Atalanta 1 - 1 Pisa
+Juventus 2 - 0 Parma
+Udinese 1 - 1 Hellas Verona
+Inter Milan 5 - 0 Torino
+Cremonese 3 - 2 Sassuolo
+Lecce 0 - 2 AC Milan
+Bologna 1 - 0 Como
+Parma 1 - 1 Atalanta
+Napoli 1 - 0 Cagliari
+Pisa 0 - 1 Roma
+Genoa 0 - 1 Juventus
+Torino 0 - 0 Fiorentina
+Inter Milan 1 - 2 Udinese
+Lazio 4 - 0 Hellas Verona
+Cagliari 2 - 0 Parma
+Juventus 4 - 3 Inter Milan
+Fiorentina 1 - 3 Napoli
+Roma 0 - 1 Torino
+Atalanta 4 - 1 Lecce
+Pisa 0 - 1 Udinese
+Sassuolo 1 - 0 Lazio
+AC Milan 1 - 0 Bologna
+Hellas Verona 0 - 0 Cremonese
+Como 1 - 1 Genoa
+Lecce 1 - 2 Cagliari
+Bologna 2 - 1 Genoa
+Hellas Verona 1 - 1 Juventus
+Udinese 0 - 3 AC Milan
+Lazio 0 - 1 Roma
+Cremonese 0 - 0 Parma
+Torino 0 - 3 Atalanta
+Fiorentina 1 - 2 Como
+Inter Milan 2 - 1 Sassuolo
+Napoli 3 - 2 Pisa
+Como 1 - 1 Cremonese
+Juventus 1 - 1 Atalanta
+Cagliari 0 - 2 Inter Milan
+Sassuolo 3 - 1 Udinese
+Pisa 0 - 0 Fiorentina
+Roma 2 - 0 Hellas Verona
+Lecce 2 - 2 Bologna
+AC Milan 2 - 1 Napoli
+Parma 2 - 1 Torino
+Genoa 0 - 3 Lazio
+Hellas Verona 0 - 1 Sassuolo
+Lazio 3 - 3 Torino
+Parma 0 - 1 Lecce
+Inter Milan 4 - 1 Cremonese
+Atalanta 1 - 1 Como
+Udinese 1 - 1 Cagliari
+Bologna 4 - 0 Pisa
+Fiorentina 1 - 2 Roma
+Napoli 2 - 1 Genoa
+Juventus 0 - 0 AC Milan
+Lecce 0 - 0 Sassuolo
+Pisa 0 - 0 Hellas Verona
+Torino 1 - 0 Napoli
+Roma 0 - 1 Inter Milan
+Como 2 - 0 Juventus
+Cagliari 0 - 2 Bologna
+Genoa 0 - 0 Parma
+Atalanta 0 - 0 Lazio
+AC Milan 2 - 1 Fiorentina
+Cremonese 1 - 1 Udinese
+AC Milan 2 - 2 Pisa
+Parma 0 - 0 Como
+Udinese 3 - 2 Lecce
+Napoli 3 - 1 Inter Milan
+Cremonese 1 - 1 Atalanta
+Torino 2 - 1 Genoa
+Sassuolo 0 - 1 Roma
+Hellas Verona 2 - 2 Cagliari
+Fiorentina 2 - 2 Bologna
+Lazio 1 - 0 Juventus
+Lecce 0 - 1 Napoli
+Atalanta 1 - 1 AC Milan
+Como 3 - 1 Hellas Verona
+Juventus 3 - 1 Udinese
+Roma 2 - 1 Parma
+Bologna 0 - 0 Torino
+Genoa 0 - 2 Cremonese
+Inter Milan 3 - 0 Fiorentina
+Cagliari 1 - 2 Sassuolo
+Pisa 0 - 0 Lazio
+Udinese 1 - 0 Atalanta
+Napoli 0 - 0 Como
+Cremonese 1 - 2 Juventus
+Hellas Verona 1 - 2 Inter Milan
+Fiorentina 0 - 1 Lecce
+Torino 2 - 2 Pisa
+Parma 1 - 3 Bologna
+AC Milan 1 - 0 Roma
+Sassuolo 1 - 2 Genoa
+Lazio 2 - 0 Cagliari
+Pisa 1 - 0 Cremonese
+Como 0 - 0 Cagliari
+Lecce 0 - 0 Hellas Verona
+Juventus 0 - 0 Torino
+Parma 2 - 2 AC Milan
+Atalanta 0 - 3 Sassuolo
+Bologna 2 - 0 Napoli
+Genoa 2 - 2 Fiorentina
+Roma 2 - 0 Udinese
+Inter Milan 2 - 0 Lazio
+Cagliari 3 - 3 Genoa
+Udinese 0 - 3 Bologna
+Fiorentina 1 - 1 Juventus
+Napoli 3 - 1 Atalanta
+Hellas Verona 1 - 2 Parma
+Cremonese 1 - 3 Roma
+Lazio 2 - 0 Lecce
+Inter Milan 0 - 1 AC Milan
+Torino 1 - 5 Como
+Sassuolo 2 - 2 Pisa
+Como 2 - 0 Sassuolo
+Genoa 2 - 1 Hellas Verona
+Parma 0 - 2 Udinese
+Juventus 2 - 1 Cagliari
+AC Milan 1 - 0 Lazio
+Lecce 2 - 1 Torino
+Pisa 0 - 2 Inter Milan
+Atalanta 2 - 0 Fiorentina
+Roma 0 - 1 Napoli
+Bologna 1 - 3 Cremonese
+Sassuolo 3 - 1 Fiorentina
+Inter Milan 4 - 0 Como
+Hellas Verona 3 - 1 Atalanta
+Cremonese 2 - 0 Lecce
+Cagliari 1 - 0 Roma
+Lazio 1 - 1 Bologna
+Napoli 2 - 1 Juventus
+Pisa 0 - 1 Parma
+Udinese 1 - 2 Genoa
+Torino 2 - 3 AC Milan
+Lecce 1 - 0 Pisa
+Torino 1 - 0 Cremonese
+Parma 0 - 1 Lazio
+Atalanta 2 - 1 Cagliari
+AC Milan 2 - 2 Sassuolo
+Fiorentina 1 - 2 Hellas Verona
+Udinese 1 - 0 Napoli
+Genoa 1 - 2 Inter Milan
+Bologna 0 - 1 Juventus
+Roma 1 - 0 Como
+Lazio 0 - 0 Cremonese
+Juventus 2 - 1 Roma
+Cagliari 2 - 2 Pisa
+Sassuolo 0 - 1 Torino
+Fiorentina 5 - 1 Udinese
+Genoa 0 - 1 Atalanta
+Parma 1 - 0 Fiorentina
+Lecce 0 - 3 Como
+Torino 1 - 2 Cagliari
+Udinese 1 - 1 Lazio
+Pisa 0 - 2 Juventus
+AC Milan 3 - 0 Hellas Verona
+Cremonese 0 - 2 Napoli
+Bologna 1 - 1 Sassuolo
+Atalanta 0 - 1 Inter Milan
+Roma 3 - 1 Genoa
+Cagliari 0 - 1 AC Milan
+Como 1 - 0 Udinese
+Genoa 1 - 1 Pisa
+Sassuolo 1 - 1 Parma
+Juventus 1 - 1 Lecce
+Atalanta 1 - 0 Roma
+Lazio 0 - 2 Napoli
+Fiorentina 1 - 0 Cremonese
+Hellas Verona 0 - 3 Torino
+Inter Milan 3 - 1 Bologna
+Pisa 0 - 3 Como
+Lecce 0 - 2 Roma
+Sassuolo 0 - 3 Juventus
+Bologna 0 - 2 Atalanta
+Napoli 2 - 2 Hellas Verona
+Lazio 2 - 2 Fiorentina
+Parma 0 - 2 Inter Milan
+Torino 1 - 2 Udinese
+Cremonese 2 - 2 Cagliari
+AC Milan 1 - 1 Genoa
+Como 1 - 1 Bologna
+Udinese 2 - 2 Pisa
+Roma 2 - 0 Sassuolo
+Atalanta 2 - 0 Torino
+Lecce 1 - 2 Parma
+Fiorentina 1 - 1 AC Milan
+Hellas Verona 0 - 1 Lazio
+Inter Milan 2 - 2 Napoli
+Genoa 3 - 0 Cagliari
+Juventus 5 - 0 Cremonese
+Napoli 0 - 0 Parma
+Inter Milan 1 - 0 Lecce
+Hellas Verona 2 - 3 Bologna
+Como 1 - 3 AC Milan
+Pisa 1 - 1 Atalanta
+Udinese 0 - 1 Inter Milan
+Napoli 1 - 0 Sassuolo
+Cagliari 1 - 0 Juventus
+Parma 0 - 0 Genoa
+Bologna 1 - 2 Fiorentina
+Torino 0 - 2 Roma
+AC Milan 1 - 0 Lecce
+Cremonese 0 - 0 Hellas Verona
+Lazio 0 - 3 Como
+Inter Milan 6 - 2 Pisa
+Como 6 - 0 Torino
+Fiorentina 1 - 2 Cagliari
+Lecce 0 - 0 Lazio
+Sassuolo 1 - 0 Cremonese
+Atalanta 4 - 0 Parma
+Genoa 3 - 2 Bologna
+Juventus 3 - 0 Napoli
+Roma 1 - 1 AC Milan
+Hellas Verona 1 - 3 Udinese
+Lazio 3 - 2 Genoa
+Pisa 1 - 3 Sassuolo
+Napoli 2 - 1 Fiorentina
+Cagliari 4 - 0 Hellas Verona
+Torino 1 - 0 Lecce
+Como 0 - 0 Atalanta
+Cremonese 0 - 2 Inter Milan
+Parma 1 - 4 Juventus
+Udinese 1 - 0 Roma
+Bologna 0 - 3 AC Milan
+Hellas Verona 0 - 0 Pisa
+Genoa 2 - 3 Napoli
+Fiorentina 2 - 2 Torino
+Bologna 0 - 1 Parma
+Lecce 2 - 1 Udinese
+Sassuolo 0 - 5 Inter Milan
+Juventus 2 - 2 Lazio
+Atalanta 2 - 1 Cremonese
+Roma 2 - 0 Cagliari
+Pisa 1 - 2 AC Milan
+Como 1 - 2 Fiorentina
+Lazio 0 - 2 Atalanta
+Inter Milan 3 - 2 Juventus
+Udinese 1 - 2 Sassuolo
+Cremonese 0 - 0 Genoa
+Parma 2 - 1 Hellas Verona
+Torino 1 - 2 Bologna
+Napoli 2 - 2 Roma
+Cagliari 0 - 2 Lecce
+AC Milan 1 - 1 Como
+Sassuolo 3 - 0 Hellas Verona
+Juventus 0 - 2 Como
+Lecce 0 - 2 Inter Milan
+Cagliari 0 - 0 Lazio
+Genoa 3 - 0 Torino
+Atalanta 2 - 1 Napoli
+AC Milan 0 - 1 Parma
+Roma 3 - 0 Cremonese
+Fiorentina 1 - 0 Pisa
+Bologna 1 - 0 Udinese
+Parma 1 - 1 Cagliari
+Como 3 - 1 Lecce
+Hellas Verona 1 - 2 Napoli
+Inter Milan 2 - 0 Genoa
+Cremonese 0 - 2 AC Milan
+Sassuolo 2 - 1 Atalanta
+Torino 2 - 0 Lazio
+Roma 3 - 3 Juventus
+Pisa 0 - 1 Bologna
+Udinese 3 - 0 Fiorentina
