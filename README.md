@@ -35,8 +35,8 @@ Organizačné informácie o predmete nájdete [v tomto dokumente](lectures/Lectu
 |  2. týždeň<br>23. 2. - 1. 3.  |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         [Funkcie, rekurzia, generátory, lambda výrazy](lectures/Lecture-02.pdf)<br>([kód z prednášky](lectures/codes/lecture02.ipynb))         |             D1 odovzdávka<br>[D2 publikovaná](homeworks/homework02.md)             |
 |  3. týždeň<br>2. 3. - 8. 3.   |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |                [Reťazce, zoznamy, n-tice, mapy](lectures/Lecture-03.pdf)<br>([kód z prednášky](lectures/codes/lecture03.ipynb))                |             D2 odovzdávka<br>[D3 publikovaná](homeworks/homework03.md)             |
 |  4. týždeň<br>9. 3. - 15. 3.  | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |              [Údajové štruktúry, numpy a pandas](lectures/Lecture-04.pdf)<br>([kód z prednášky](lectures/codes/lecture04.ipynb))               |             D3 odovzdávka<br>[D4 publikovaná](homeworks/homework04.md)             |
-|  5. týždeň<br>16. 3. - 22. 3. |             [Kedy na Jedličku?](labs/lab05-when-to-party.ipynb)             |             Testovanie, ladenie, výnimky a chyby             |           Z1, D4 odovzdávka<br>D5 publikovaná           |
-|  6. týždeň<br>23. 3. - 29. 3. |                   Wordle                  | Zložitosť algoritmov, optimalizácia, dynamické programovanie |             Z2 publikované<br>D5 odovzdávka             |
+|  5. týždeň<br>16. 3. - 22. 3. |             [Kedy na Jedličku?](labs/lab05-when-to-party.ipynb)             |             Testovanie, ladenie, výnimky a chyby             |             D4 odovzdávka<br>D5 publikovaná             |
+|  6. týždeň<br>23. 3. - 29. 3. |                   Wordle                  | Zložitosť algoritmov, optimalizácia, dynamické programovanie |           Z2 publikované<br>Z1, D5 odovzdávka           |
 |  7. týždeň<br>30. 3. - 5. 4.  |           Monte Carlo simulácie           |                           Veľká Noc                          |                                                         |
 |  8. týždeň<br>6. 4. - 12. 4.  |                 Veľká Noc                 |    Úvod do objektovo orientovaného programovania, princípy   |                                                         |
 |  9. týždeň<br>13. 4. - 19. 4. |             Wordle pomocou OOP            |                         OOP v Pythone                        |                      Z2 odovdzávka                      |
@@ -74,7 +74,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 1. 42(,195) km dát (deadline 20. 3. 2026)
     * [Projekt s ukážkovým príkladom](assignments/Assignment1.zip)
     * [Znenie zadania](assignments/Zadanie1.pdf)
-    * Testovacie súbory - *TBA* 6. 3. 2026
+    * [Testovacie súbory](assignments/A1_tests.zip)
 
 2. *TBA* (deadline 10. 4. 2026)
     * Projekt s ukážkovým príkladom
