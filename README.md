@@ -38,7 +38,7 @@ Organizačné informácie o predmete nájdete [v tomto dokumente](lectures/Lectu
 |  5. týždeň<br>16. 3. - 22. 3. |             [Kedy na Jedličku?](labs/lab05-when-to-party.ipynb)             |             [Testovanie, ladenie, výnimky a chyby](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.ipynb))             |             D4 odovzdávka<br>[D5 publikovaná](homeworks/homework05.md)             |
 |  6. týždeň<br>23. 3. - 29. 3. |                   [Wordle](labs/lab06-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.ipynb)) |           Z1, D5 odovzdávka           |
 |  7. týždeň<br>30. 3. - 5. 4.  |           [Monte Carlo simulácie](labs/lab07-monte-carlo-simulations.ipynb)           |                           Veľká Noc                          |                                                         |
-|  8. týždeň<br>6. 4. - 12. 4.  |                 Veľká Noc                 |    Úvod do objektovo orientovaného programovania, princípy   |                     Z2 publikované                      |
+|  8. týždeň<br>6. 4. - 12. 4.  |                 Veľká Noc                 |    Úvod do objektovo orientovaného programovania, princípy   |                     [Z2 publikované](assignments/Assignment2.zip)                      |
 |  9. týždeň<br>13. 4. - 19. 4. |             Wordle pomocou OOP            |                         OOP v Pythone                        |                                                         |
 | 10. týždeň<br>20. 4. - 26. 4. |          Modelovanie a simulácia          |                 Výpočtové modely a simulácia                 |                      Z2 odovdzávka                      |
 | 11. týždeň<br>27. 4. - 3. 5.  |                Web scraping               |                  Pokročilé údajové štuktúry                  |                     Z3 publikované                      |
@@ -76,10 +76,10 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
     * [Znenie zadania](assignments/Zadanie1.pdf)
     * [Testovacie súbory](assignments/A1_tests.zip)
 
-2. *TBA* (deadline 10. 4. 2026)
-    * Projekt s ukážkovým príkladom
-    * Znenie zadania
-    * Testovacie súbory
+2. Skúška inteligencie (deadline 24. 4. 2026)
+    * [Projekt s kostrou riešenia](assignments/Assignment2.zip)
+    * [Znenie zadania](assignments/Zadanie2.pdf)
+    * Testovacie súbory (dostupné od 13. 4. 2026)
 
 3. *TBA* (deadline 15. 5. 2026)
     * Projekt s ukážkovým príkladom
