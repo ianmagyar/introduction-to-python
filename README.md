@@ -79,7 +79,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 2. Skúška inteligencie (deadline 24. 4. 2026)
     * [Projekt s kostrou riešenia](assignments/Assignment2.zip)
     * [Znenie zadania](assignments/Zadanie2.pdf)
-    * Testovacie súbory (dostupné od 13. 4. 2026)
+    * [Testovacie súbory](assignments/A2_tests.zip)
 
 3. *TBA* (deadline 15. 5. 2026)
     * Projekt s ukážkovým príkladom
