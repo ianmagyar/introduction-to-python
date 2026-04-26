@@ -41,9 +41,9 @@ Organizačné informácie o predmete nájdete [v tomto dokumente](lectures/Lectu
 |  8. týždeň<br>6. 4. - 12. 4.  |                 Veľká Noc                 |    [Úvod do objektovo orientovaného programovania, princípy](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.ipynb))   |                     [Z2 publikované](assignments/Assignment2.zip)                      |
 |  9. týždeň<br>13. 4. - 19. 4. |             [Wordle pomocou OOP](labs/lab08-wordle-in-oop.ipynb)            |                         [OOP v Pythone](lectures/Lecture-08.pdf)<br>([kód z prednášky](lectures/codes/lecture08.zip))                        |                                                         |
 | 10. týždeň<br>20. 4. - 26. 4. |          [Modelovanie a simulácia](labs/lab09-mosquitos.ipynb)          |                 [Výpočtové modely a simulácia](lectures/Lecture-09.pdf)<br>([kód z prednášky](lectures/codes/lecture09.zip))                 |                      Z2 odovdzávka                      |
-| 11. týždeň<br>27. 4. - 3. 5.  |                Web scraping               |                  Pokročilé údajové štuktúry                  |                     Z3 publikované                      |
-| 12. týždeň<br>4. 5. - 10. 5.  |         Strojové učenie v Pythone         |         Základy paralelného programovania v Pythone          |                                                         |
-| 13. týždeň<br>11. 5. - 17. 5. |             Vývoj hry v pygame            |                        Návrhové vzory                        |                      Z3 odovdzávka                      |
+| 11. týždeň<br>27. 4. - 3. 5.  |                [Web scraping](labs/lab10-web-scraping.ipynb)               |                  Pokročilé údajové štuktúry                  |                     Z3 publikované                      |
+| 12. týždeň<br>4. 5. - 10. 5.  |         [Strojové učenie v Pythone](labs/lab11-introduction-to-ml.ipynb)         |         Základy paralelného programovania v Pythone          |                                                         |
+| 13. týždeň<br>11. 5. - 17. 5. |             [Vývoj hry v pygame](labs/lab12-pygame.ipynb)            |                        Návrhové vzory                        |                      Z3 odovdzávka                      |
 
 ## Hodnotenie <a name="grading"></a>
 
