@@ -81,10 +81,10 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
     * [Znenie zadania](assignments/Zadanie2.pdf)
     * [Testovacie súbory](assignments/A2_tests.zip)
 
-3. *TBA* (deadline 15. 5. 2026)
-    * Projekt s ukážkovým príkladom
-    * Znenie zadania
-    * Testovacie súbory
+3. Nastupujte, prosím! (deadline 15. 5. 2026)
+    * [Projekt s ukážkovým príkladom](assignments/Assignment3.zip)
+    * [Znenie zadania](assignments/Zadanie3.pdf)
+    * Testovacie súbory *(dostupné od 1. 5. 2026)*
 
 <!--### Skúška <a name="exam"></a>-->
 
