@@ -84,7 +84,7 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 3. Nastupujte, prosím! (deadline 15. 5. 2026)
     * [Projekt s ukážkovým príkladom](assignments/Assignment3.zip)
     * [Znenie zadania](assignments/Zadanie3.pdf)
-    * Testovacie súbory *(dostupné od 1. 5. 2026)*
+    * [Testovacie súbory](assignments/A3_tests.zip)
 
 <!--### Skúška <a name="exam"></a>-->
 
